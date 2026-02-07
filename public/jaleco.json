@@ -1,0 +1,4194 @@
+{
+  "metadata": {
+    "tipoProduto": "Jaleco",
+    "totalProdutos": 210,
+    "dataProcessamento": "2026-02-03T01:29:29.063Z",
+    "generosDisponiveis": [
+      "Masculino",
+      "Feminino",
+      "Unissex"
+    ]
+  },
+  "masculino": {
+    "totalProdutos": 56,
+    "todasCores": [
+      "Amarelo",
+      "Armany",
+      "Azul",
+      "Bege",
+      "Branco",
+      "Cinza",
+      "Denin",
+      "Estampado",
+      "Preto",
+      "Sem Cor",
+      "Verde",
+      "Vermelho"
+    ],
+    "cadaCor": {
+      "Amarelo": [
+        {
+          "sku": "991-SD-059-000",
+          "nome": "Jaleco Masculino Samuel Amarelo",
+          "nomeCompleto": "Jaleco Masculino Samuel Amarelo",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-amarelo/",
+          "cores": [
+            {
+              "nome": "Masculino Samuel Amarelo",
+              "tituloCompleto": "Jaleco Masculino Samuel Amarelo",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-amarelo/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Amarelo"
+        }
+      ],
+      "Armany": [
+        {
+          "sku": "991-SD-067-000-5",
+          "nome": "Jaleco Masculino Samuel Manga Longa Armany",
+          "nomeCompleto": "Jaleco Masculino Samuel Manga Longa Armany",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-armany/",
+          "cores": [
+            {
+              "nome": "Masculino Samuel Manga Longa Armany",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Armany",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-armany/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Armany"
+        }
+      ],
+      "Bege": [
+        {
+          "sku": "991-SD-054-000",
+          "nome": "Jaleco Masculino Samuel Manga Longa Bege Aveia",
+          "nomeCompleto": "Jaleco Masculino Samuel Manga Longa Bege Aveia",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-bege/",
+          "cores": [
+            {
+              "nome": "Masculino Samuel Manga Longa Bege Aveia",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Bege Aveia",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-bege/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Bege"
+        },
+        {
+          "sku": "371-SD-006-000-5",
+          "nome": "Jaleco Masculino Manoel Bege",
+          "nomeCompleto": "Jaleco Masculino Manoel Bege",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-bege/",
+          "cores": [
+            {
+              "nome": "Masculino Manoel Bege",
+              "tituloCompleto": "Jaleco Masculino Manoel Bege",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-bege/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Bege"
+        },
+        {
+          "sku": "349-SD-054-000",
+          "nome": "Jaleco Masculino Isac Bege",
+          "nomeCompleto": "Jaleco Masculino Isac Bege",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-masculino-isac-bege",
+          "cores": [
+            {
+              "nome": "Masculino Isac Bege",
+              "tituloCompleto": "Jaleco Masculino Isac Bege",
+              "link": "https://www.danajalecos.com.br/jaleco-masculino-isac-bege"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Bege"
+        },
+        {
+          "sku": "559-SD-054-000",
+          "nome": "Jaleco Masculino Noah Bege",
+          "nomeCompleto": "Jaleco Masculino Noah Bege",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/noah/jaleco-noah-bege/",
+          "cores": [
+            {
+              "nome": "Masculino Noah Bege",
+              "tituloCompleto": "Jaleco Masculino Noah Bege",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/noah/jaleco-noah-bege/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Bege"
+        },
+        {
+          "sku": "800-SD-079-000",
+          "nome": "Jaleco Masculino Tec Easy Benicio Camel",
+          "nomeCompleto": "Jaleco Masculino Tec Easy Benicio Camel",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/masculinos-ziper/benicio/jaleco-tec-easy-benicio-camel/",
+          "cores": [
+            {
+              "nome": "Masculino Tec Easy Benicio Camel",
+              "tituloCompleto": "Jaleco Masculino Tec Easy Benicio Camel",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/masculinos-ziper/benicio/jaleco-tec-easy-benicio-camel/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Bege"
+        }
+      ],
+      "Azul": [
+        {
+          "sku": "371-SD-015-000-5",
+          "nome": "Jaleco Masculino Manoel Azul Marinho",
+          "nomeCompleto": "Jaleco Masculino Manoel Azul Marinho",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Masculino Manoel Azul Marinho",
+              "tituloCompleto": "Jaleco Masculino Manoel Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-azul-marinho/"
+            },
+            {
+              "nome": "Masculino Manoel Azul Médio",
+              "tituloCompleto": "Jaleco Masculino Manoel Azul Médio",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-azul-medio/"
+            },
+            {
+              "nome": "Masculino Manoel Azul Bebê",
+              "tituloCompleto": "Jaleco Masculino Manoel Azul Bebê",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-azul-bebe/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "991-SD-053-000-5",
+          "nome": "Jaleco Masculino Samuel Manga Longa Azul Marinho",
+          "nomeCompleto": "Jaleco Masculino Samuel Manga Longa Azul Marinho",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Masculino Samuel Manga Longa Azul Marinho",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-azul-marinho/"
+            },
+            {
+              "nome": "Masculino Samuel Manga Longa Azul Bebe",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Azul Bebe",
+              "link": "https://www.danajalecos.com.br/jaleco-masculino-samuel-manga-longa-azul-bebe"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "800-SD-072-000-5",
+          "nome": "Jaleco Masculino Tec Easy Benício Azul Marinho",
+          "nomeCompleto": "Jaleco Masculino Tec Easy Benício Azul Marinho",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/masculinos-ziper/benicio/jaleco-tec-easy-benicio-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Masculino Tec Easy Benício Azul Marinho",
+              "tituloCompleto": "Jaleco Masculino Tec Easy Benício Azul Marinho - Elegância e Autoridade Contemporânea",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/masculinos-ziper/benicio/jaleco-tec-easy-benicio-azul-marinho/"
+            },
+            {
+              "nome": "Masculino Tec Easy Benicio Azul Royal",
+              "tituloCompleto": "Jaleco Masculino Tec Easy Benicio Azul Royal",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/masculinos-ziper/benicio/jaleco-tec-easy-benicio-azul-royal/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "800-SD-073-000-5",
+          "nome": "Jaleco Masculino Tec Easy Benicio Azul Royal",
+          "nomeCompleto": "Jaleco Masculino Tec Easy Benicio Azul Royal",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/masculinos-ziper/benicio/jaleco-tec-easy-benicio-azul-royal/",
+          "cores": [
+            {
+              "nome": "Masculino Tec Easy Benicio Azul Royal",
+              "tituloCompleto": "Jaleco Masculino Tec Easy Benicio Azul Royal",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/masculinos-ziper/benicio/jaleco-tec-easy-benicio-azul-royal/"
+            },
+            {
+              "nome": "Masculino Tec Easy Benício Azul Marinho",
+              "tituloCompleto": "Jaleco Masculino Tec Easy Benício Azul Marinho - Elegância e Autoridade Contemporânea",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/masculinos-ziper/benicio/jaleco-tec-easy-benicio-azul-marinho/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "991-SD-056-000",
+          "nome": "Jaleco Masculino Samuel Manga Longa Azul Bebe",
+          "nomeCompleto": "Jaleco Masculino Samuel Manga Longa Azul Bebe",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-masculino-samuel-manga-longa-azul-bebe",
+          "cores": [
+            {
+              "nome": "Masculino Samuel Manga Longa Azul Bebe",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Azul Bebe",
+              "link": "https://www.danajalecos.com.br/jaleco-masculino-samuel-manga-longa-azul-bebe"
+            },
+            {
+              "nome": "Masculino Samuel Manga Longa Azul Marinho",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-azul-marinho/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "349-SD-053-000-4",
+          "nome": "Jaleco Masculino Isac Azul Marinho",
+          "nomeCompleto": "Jaleco Masculino Isac Azul Marinho",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/isac/jaleco-isac-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Masculino Isac Azul Marinho",
+              "tituloCompleto": "Jaleco Masculino Isac Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/isac/jaleco-isac-azul-marinho/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "370-ZI-015-000",
+          "nome": "Jaleco Masculino Paulo Azul Marinho",
+          "nomeCompleto": "Jaleco Masculino Paulo Azul Marinho",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/paulo/jaleco-paulo-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Masculino Paulo Azul Marinho",
+              "tituloCompleto": "Jaleco Masculino Paulo Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/paulo/jaleco-paulo-azul-marinho/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "371-SD-017-000",
+          "nome": "Jaleco Masculino Manoel Azul Bebê",
+          "nomeCompleto": "Jaleco Masculino Manoel Azul Bebê",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-azul-bebe/",
+          "cores": [
+            {
+              "nome": "Masculino Manoel Azul Bebê",
+              "tituloCompleto": "Jaleco Masculino Manoel Azul Bebê",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-azul-bebe/"
+            },
+            {
+              "nome": "Masculino Manoel Azul Médio",
+              "tituloCompleto": "Jaleco Masculino Manoel Azul Médio",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-azul-medio/"
+            },
+            {
+              "nome": "Masculino Manoel Azul Marinho",
+              "tituloCompleto": "Jaleco Masculino Manoel Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-azul-marinho/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "371-SD-016-000",
+          "nome": "Jaleco Masculino Manoel Azul Médio",
+          "nomeCompleto": "Jaleco Masculino Manoel Azul Médio",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-azul-medio/",
+          "cores": [
+            {
+              "nome": "Masculino Manoel Azul Médio",
+              "tituloCompleto": "Jaleco Masculino Manoel Azul Médio",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-azul-medio/"
+            },
+            {
+              "nome": "Masculino Manoel Azul Marinho",
+              "tituloCompleto": "Jaleco Masculino Manoel Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-azul-marinho/"
+            },
+            {
+              "nome": "Masculino Manoel Azul Bebê",
+              "tituloCompleto": "Jaleco Masculino Manoel Azul Bebê",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-azul-bebe/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        }
+      ],
+      "Cinza": [
+        {
+          "sku": "800-SD-081-000",
+          "nome": "Jaleco Masculino Tec Easy Benício Aço",
+          "nomeCompleto": "Jaleco Masculino Tec Easy Benício Aço",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-tec-easy-benicio-aco",
+          "cores": [
+            {
+              "nome": "Masculino Tec Easy Benício Aço",
+              "tituloCompleto": "Jaleco Masculino Tec Easy Benício Aço - Design Moderno com Presença Profissional",
+              "link": "https://www.danajalecos.com.br/jaleco-tec-easy-benicio-aco"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Cinza"
+        },
+        {
+          "sku": "371-SD-014-000-5",
+          "nome": "Jaleco Masculino Manoel Chumbo",
+          "nomeCompleto": "Jaleco Masculino Manoel Chumbo",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-chumbo/",
+          "cores": [
+            {
+              "nome": "Masculino Manoel Chumbo",
+              "tituloCompleto": "Jaleco Masculino Manoel Chumbo",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-chumbo/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Cinza"
+        },
+        {
+          "sku": "349-SD-050-000",
+          "nome": "Jaleco Masculino Isac Chumbo",
+          "nomeCompleto": "Jaleco Masculino Isac Chumbo",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-masculino-isac-chumbo",
+          "cores": [
+            {
+              "nome": "Masculino Isac Chumbo",
+              "tituloCompleto": "Jaleco Masculino Isac Chumbo",
+              "link": "https://www.danajalecos.com.br/jaleco-masculino-isac-chumbo"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Cinza"
+        },
+        {
+          "sku": "991-SD-050-000-5",
+          "nome": "Jaleco Masculino Samuel Manga Longa Chumbo",
+          "nomeCompleto": "Jaleco Masculino Samuel Manga Longa Chumbo",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-chumbo/",
+          "cores": [
+            {
+              "nome": "Masculino Samuel Manga Longa Chumbo",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Chumbo",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-chumbo/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Cinza"
+        },
+        {
+          "sku": "370-ZI-014-000",
+          "nome": "Jaleco Masculino Paulo Chumbo",
+          "nomeCompleto": "Jaleco Masculino Paulo Chumbo",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/paulo/jaleco-paulo-chumbo/",
+          "cores": [
+            {
+              "nome": "Masculino Paulo Chumbo",
+              "tituloCompleto": "Jaleco Masculino Paulo Chumbo",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/paulo/jaleco-paulo-chumbo/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Cinza"
+        },
+        {
+          "sku": "371-SD-013-000-5",
+          "nome": "Jaleco Masculino Manoel Cinza",
+          "nomeCompleto": "Jaleco Masculino Manoel Cinza",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-cinza/",
+          "cores": [
+            {
+              "nome": "Masculino Manoel Cinza",
+              "tituloCompleto": "Jaleco Masculino Manoel Cinza",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-cinza/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Cinza"
+        }
+      ],
+      "Vermelho": [
+        {
+          "sku": "991-SD-060-000-5",
+          "nome": "Jaleco Masculino Samuel Manga Longa Bordo",
+          "nomeCompleto": "Jaleco Masculino Samuel Manga Longa Bordo",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-bordo/",
+          "cores": [
+            {
+              "nome": "Masculino Samuel Manga Longa Bordo",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Bordo",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-bordo/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Vermelho"
+        },
+        {
+          "sku": "349-SD-060-000-5",
+          "nome": "Jaleco Masculino Isac Bordo",
+          "nomeCompleto": "Jaleco Masculino Isac Bordo",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-masculino-isac-bordo",
+          "cores": [
+            {
+              "nome": "Masculino Isac Bordo",
+              "tituloCompleto": "Jaleco Masculino Isac Bordo",
+              "link": "https://www.danajalecos.com.br/jaleco-masculino-isac-bordo"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Vermelho"
+        },
+        {
+          "sku": "371-SD-002-000-5",
+          "nome": "Jaleco Masculino Manoel Bordô",
+          "nomeCompleto": "Jaleco Masculino Manoel Bordô",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-bordo/",
+          "cores": [
+            {
+              "nome": "Masculino Manoel Bordô",
+              "tituloCompleto": "Jaleco Masculino Manoel Bordô",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-bordo/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Vermelho"
+        }
+      ],
+      "Branco": [
+        {
+          "sku": "371-SD-008-000-5",
+          "nome": "Jaleco Masculino Manoel Branco",
+          "nomeCompleto": "Jaleco Masculino Manoel Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-branco/",
+          "cores": [
+            {
+              "nome": "Masculino Manoel Branco",
+              "tituloCompleto": "Jaleco Masculino Manoel Branco - Conforto e Elegância Profissional",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-branco/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "643-SD-008-000",
+          "nome": "Jaleco Masculino Heitor Branco",
+          "nomeCompleto": "Jaleco Masculino Heitor Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/heitor/jaleco-heitor-branco/",
+          "cores": [
+            {
+              "nome": "Masculino Heitor Branco",
+              "tituloCompleto": "Jaleco Masculino Heitor Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/heitor/jaleco-heitor-branco/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "340-SD-008-000-5",
+          "nome": "Jaleco Masculino Bernardo Branco",
+          "nomeCompleto": "Jaleco Masculino Bernardo Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/bernardo/jaleco-bernardo-branco/",
+          "cores": null,
+          "genero": "Masculino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "991-SD-052-000-5",
+          "nome": "Jaleco Masculino Samuel Manga Longa Branco",
+          "nomeCompleto": "Jaleco Masculino Samuel Manga Longa Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-branco/",
+          "cores": [
+            {
+              "nome": "Masculino Samuel Manga Longa Branco",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Branco - Sofisticação e Autoridade Profissional",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-branco/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "349-SD-052-000-5",
+          "nome": "Jaleco Masculino Isac Branco",
+          "nomeCompleto": "Jaleco Masculino Isac Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/isac/jaleco-isac-branco/",
+          "cores": [
+            {
+              "nome": "Masculino Isac Branco",
+              "tituloCompleto": "Jaleco Masculino Isac Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/isac/jaleco-isac-branco/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "380-VV-008-012",
+          "nome": "Jaleco Masculino Joao Branco Vies Preto e Botao Escondido",
+          "nomeCompleto": "Jaleco Masculino Joao Branco Vies Preto e Botao Escondido",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-masculino-joao-branco-vies-preto-e-botao-escondido",
+          "cores": null,
+          "genero": "Masculino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "559-SD-052-000",
+          "nome": "Jaleco Masculino Noah Branco",
+          "nomeCompleto": "Jaleco Masculino Noah Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/noah/jaleco-noah-branco/",
+          "cores": [
+            {
+              "nome": "Masculino Noah Branco",
+              "tituloCompleto": "Jaleco Masculino Noah Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/noah/jaleco-noah-branco/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "800-SD-077-000",
+          "nome": "Jaleco Masculino Tec Easy Benicio Branco",
+          "nomeCompleto": "Jaleco Masculino Tec Easy Benicio Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/masculinos-ziper/benicio/jaleco-tec-easy-benicio-branco/",
+          "cores": [
+            {
+              "nome": "Masculino Tec Easy Benicio Branco",
+              "tituloCompleto": "Jaleco Masculino Tec Easy Benicio Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/masculinos-ziper/benicio/jaleco-tec-easy-benicio-branco/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "339-KD-008-000",
+          "nome": "Jaleco Masculino Bernardo Kids Branco",
+          "nomeCompleto": "Jaleco Masculino Bernardo Kids Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-masculino-bernardo-kids-branco",
+          "cores": [
+            {
+              "nome": "Masculino Bernardo Kids Branco",
+              "tituloCompleto": "Jaleco Masculino Bernardo Kids Branco",
+              "link": "https://www.danajalecos.com.br/jaleco-masculino-bernardo-kids-branco"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "339-KD-008-000",
+          "nome": "Jaleco Masculino Bernardo Kids Branco",
+          "nomeCompleto": "Jaleco Masculino Bernardo Kids Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-masculino-bernardo-kids-branco",
+          "cores": [
+            {
+              "nome": "Masculino Bernardo Kids Branco",
+              "tituloCompleto": "Jaleco Masculino Bernardo Kids Branco",
+              "link": "https://www.danajalecos.com.br/jaleco-masculino-bernardo-kids-branco"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Branco"
+        }
+      ],
+      "Denin": [
+        {
+          "sku": "991-SD-070-000",
+          "nome": "Jaleco Masculino Samuel Manga Longa Swit Denin",
+          "nomeCompleto": "Jaleco Masculino Samuel Manga Longa Swit Denin",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-swit-denin/",
+          "cores": [
+            {
+              "nome": "Masculino Samuel Manga Longa Swit Denin",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Swit Denin",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-swit-denin/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Denin"
+        },
+        {
+          "sku": "349-SD-070-000",
+          "nome": "Jaleco Masculino Isac Swit Denin",
+          "nomeCompleto": "Jaleco Masculino Isac Swit Denin",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-masculino-isac-swit-denin",
+          "cores": [
+            {
+              "nome": "Masculino Isac Swit Denin",
+              "tituloCompleto": "Jaleco Masculino Isac Swit Denin",
+              "link": "https://www.danajalecos.com.br/jaleco-masculino-isac-swit-denin"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Denin"
+        }
+      ],
+      "Preto": [
+        {
+          "sku": "991-SD-051-000",
+          "nome": "Jaleco Masculino Samuel Manga Longa Preto",
+          "nomeCompleto": "Jaleco Masculino Samuel Manga Longa Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-preto/",
+          "cores": [
+            {
+              "nome": "Masculino Samuel Manga Longa Preto",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Preto - Elegância e Presença Profissional",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-preto/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "559-BC-051-000",
+          "nome": "Jaleco Masculino Noah Preto",
+          "nomeCompleto": "Jaleco Masculino Noah Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-masculino-noah-preto",
+          "cores": [
+            {
+              "nome": "Masculino Noah Preto",
+              "tituloCompleto": "Jaleco Masculino Noah Preto",
+              "link": "https://www.danajalecos.com.br/jaleco-masculino-noah-preto"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "800-SD-075-000",
+          "nome": "Jaleco Masculino Benício Preto",
+          "nomeCompleto": "Jaleco Masculino Benício Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/masculinos-ziper/benicio/jaleco-tec-easy-benicio-preto/",
+          "cores": [
+            {
+              "nome": "Masculino Benício Preto",
+              "tituloCompleto": "Jaleco Masculino Benício Preto - Modernidade com Autoridade Profissional",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/masculinos-ziper/benicio/jaleco-tec-easy-benicio-preto/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "349-SD-051-000",
+          "nome": "Jaleco Masculino Isac Preto",
+          "nomeCompleto": "Jaleco Masculino Isac Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/isac/jaleco-isac-preto/",
+          "cores": [
+            {
+              "nome": "Masculino Isac Preto",
+              "tituloCompleto": "Jaleco Masculino Isac Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/isac/jaleco-isac-preto/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "643-SD-012-000",
+          "nome": "Jaleco Masculino Heitor Preto",
+          "nomeCompleto": "Jaleco Masculino Heitor Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/heitor/jaleco-heitor-preto/",
+          "cores": [
+            {
+              "nome": "Masculino Heitor Preto",
+              "tituloCompleto": "Jaleco Masculino Heitor Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/heitor/jaleco-heitor-preto/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "370-ZI-012-000",
+          "nome": "Jaleco Masculino Paulo Preto",
+          "nomeCompleto": "Jaleco Masculino Paulo Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/paulo/jaleco-paulo-preto/",
+          "cores": [
+            {
+              "nome": "Masculino Paulo Preto",
+              "tituloCompleto": "Jaleco Masculino Paulo Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/paulo/jaleco-paulo-preto/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Preto"
+        }
+      ],
+      "Sem Cor": [
+        {
+          "sku": "800-SD-083-000-5",
+          "nome": "Jaleco Masculino Tec Easy Benicio Cacau",
+          "nomeCompleto": "Jaleco Masculino Tec Easy Benicio Cacau",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-tec-easy-benicio-cacau",
+          "cores": null,
+          "genero": "Masculino",
+          "cor": "Sem Cor"
+        },
+        {
+          "sku": "399-SD-108-000",
+          "nome": "Jaleco Masculino Orli Crepe Off White",
+          "nomeCompleto": "Jaleco Masculino Orli Crepe Off White",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-masculino-orli-crepe-off-white",
+          "cores": null,
+          "genero": "Masculino",
+          "cor": "Sem Cor"
+        }
+      ],
+      "Verde": [
+        {
+          "sku": "371-SD-010-000",
+          "nome": "Jaleco Masculino Manoel Verde Escuro",
+          "nomeCompleto": "Jaleco Masculino Manoel Verde Escuro",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-verde-escuro/",
+          "cores": [
+            {
+              "nome": "Masculino Manoel Verde Escuro",
+              "tituloCompleto": "Jaleco Masculino Manoel Verde Escuro",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-verde-escuro/"
+            },
+            {
+              "nome": "Masculino Manoel Verde Claro",
+              "tituloCompleto": "Jaleco Masculino Manoel Verde Claro",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-verde-claro/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Verde"
+        },
+        {
+          "sku": "800-SD-076-000-5",
+          "nome": "Jaleco Masculino Tec Easy Benício Verde Militar",
+          "nomeCompleto": "Jaleco Masculino Tec Easy Benício Verde Militar",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/masculinos-ziper/benicio/jaleco-tec-easy-benicio-verde-militar/",
+          "cores": [
+            {
+              "nome": "Masculino Tec Easy Benício Verde Militar",
+              "tituloCompleto": "Jaleco Masculino Tec Easy Benício Verde Militar - Autoridade e Sofisticação Moderna",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/masculinos-ziper/benicio/jaleco-tec-easy-benicio-verde-militar/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Verde"
+        },
+        {
+          "sku": "991-SD-068-000",
+          "nome": "Jaleco Masculino Samuel Manga Longa Verde Militar",
+          "nomeCompleto": "Jaleco Masculino Samuel Manga Longa Verde Militar",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-verde-militar/",
+          "cores": [
+            {
+              "nome": "Masculino Samuel Manga Longa Verde Militar",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Verde Militar",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-verde-militar/"
+            },
+            {
+              "nome": "Masculino Samuel Manga Longa Verde Claro",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Verde Claro",
+              "link": "https://www.danajalecos.com.br/jaleco-masculino-samuel-manga-longa-verde-claro"
+            },
+            {
+              "nome": "Masculino Samuel Manga Longa Verde Escuro",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Verde Escuro",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-verde-escuro/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Verde"
+        },
+        {
+          "sku": "991-SD-062-000",
+          "nome": "Jaleco Masculino Samuel Manga Longa Verde Escuro",
+          "nomeCompleto": "Jaleco Masculino Samuel Manga Longa Verde Escuro",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-verde-escuro/",
+          "cores": [
+            {
+              "nome": "Masculino Samuel Manga Longa Verde Escuro",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Verde Escuro",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-verde-escuro/"
+            },
+            {
+              "nome": "Masculino Samuel Manga Longa Verde Claro",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Verde Claro",
+              "link": "https://www.danajalecos.com.br/jaleco-masculino-samuel-manga-longa-verde-claro"
+            },
+            {
+              "nome": "Masculino Samuel Manga Longa Verde Militar",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Verde Militar",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-verde-militar/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Verde"
+        },
+        {
+          "sku": "991-SD-058-000",
+          "nome": "Jaleco Masculino Samuel Manga Longa Verde Claro",
+          "nomeCompleto": "Jaleco Masculino Samuel Manga Longa Verde Claro",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-masculino-samuel-manga-longa-verde-claro",
+          "cores": [
+            {
+              "nome": "Masculino Samuel Manga Longa Verde Claro",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Verde Claro",
+              "link": "https://www.danajalecos.com.br/jaleco-masculino-samuel-manga-longa-verde-claro"
+            },
+            {
+              "nome": "Masculino Samuel Manga Longa Verde Escuro",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Verde Escuro",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-verde-escuro/"
+            },
+            {
+              "nome": "Masculino Samuel Manga Longa Verde Militar",
+              "tituloCompleto": "Jaleco Masculino Samuel Manga Longa Verde Militar",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-verde-militar/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Verde"
+        },
+        {
+          "sku": "371-SD-009-000-5",
+          "nome": "Jaleco Masculino Manoel Verde Claro",
+          "nomeCompleto": "Jaleco Masculino Manoel Verde Claro",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-verde-claro/",
+          "cores": [
+            {
+              "nome": "Masculino Manoel Verde Claro",
+              "tituloCompleto": "Jaleco Masculino Manoel Verde Claro",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-verde-claro/"
+            },
+            {
+              "nome": "Masculino Manoel Verde Escuro",
+              "tituloCompleto": "Jaleco Masculino Manoel Verde Escuro",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-verde-escuro/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Verde"
+        }
+      ],
+      "Estampado": [
+        {
+          "sku": "339-KD-250-000",
+          "nome": "Jaleco Masculino Bernardo Kids Estampado Jardim ABC",
+          "nomeCompleto": "Jaleco Masculino Bernardo Kids Estampado Jardim ABC",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-masculino-bernardo-kids-estampado-jardim-abc",
+          "cores": [
+            {
+              "nome": "Masculino Bernardo Kids Estampado Jardim ABC",
+              "tituloCompleto": "Jaleco Masculino Bernardo Kids Estampado Jardim ABC",
+              "link": "https://www.danajalecos.com.br/jaleco-masculino-bernardo-kids-estampado-jardim-abc"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "339-KD-250-000",
+          "nome": "Jaleco Masculino Bernardo Kids Estampado Jardim ABC",
+          "nomeCompleto": "Jaleco Masculino Bernardo Kids Estampado Jardim ABC",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-masculino-bernardo-kids-estampado-jardim-abc",
+          "cores": [
+            {
+              "nome": "Masculino Bernardo Kids Estampado Jardim ABC",
+              "tituloCompleto": "Jaleco Masculino Bernardo Kids Estampado Jardim ABC",
+              "link": "https://www.danajalecos.com.br/jaleco-masculino-bernardo-kids-estampado-jardim-abc"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "371-SD-204-000",
+          "nome": "Jaleco Masculino Manoel Estampado Peças de Amor",
+          "nomeCompleto": "Jaleco Masculino Manoel Estampado Peças de Amor",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-masculino-manoel-estampado-pecas-de-amor",
+          "cores": [
+            {
+              "nome": "Masculino Manoel Estampado Peças de Amor",
+              "tituloCompleto": "Jaleco Masculino Manoel Estampado Peças de Amor",
+              "link": "https://www.danajalecos.com.br/jaleco-masculino-manoel-estampado-pecas-de-amor"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "371-SD-149-000",
+          "nome": "Jaleco Masculino Manoel Estampado Dinos",
+          "nomeCompleto": "Jaleco Masculino Manoel Estampado Dinos",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-estampado-dinos/",
+          "cores": [
+            {
+              "nome": "Masculino Manoel Estampado Dinos",
+              "tituloCompleto": "Jaleco Masculino Manoel Estampado Dinos",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-estampado-dinos/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "371-SD-207-000",
+          "nome": "Jaleco Masculino Manoel Estampado Games",
+          "nomeCompleto": "Jaleco Masculino Manoel Estampado Games",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-estampado-games/",
+          "cores": [
+            {
+              "nome": "Masculino Manoel Estampado Games",
+              "tituloCompleto": "Jaleco Masculino Manoel Estampado Games",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-estampado-games/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Estampado"
+        }
+      ]
+    }
+  },
+  "feminino": {
+    "totalProdutos": 139,
+    "todasCores": [
+      "Amarelo",
+      "Armany",
+      "Azul",
+      "Bege",
+      "Branco",
+      "Cinza",
+      "Denin",
+      "Estampado",
+      "Laranja",
+      "Preto",
+      "Rosa",
+      "Roxo",
+      "Sem Cor",
+      "Verde",
+      "Vermelho"
+    ],
+    "cadaCor": {
+      "Amarelo": [
+        {
+          "sku": "300-SD-059-000",
+          "nome": "Jaleco Feminino Heloisa Manga Longa Amarelo",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Longa Amarelo",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-amarelo/",
+          "cores": [
+            {
+              "nome": "Feminino Heloisa Manga Longa Amarelo",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Amarelo",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-amarelo/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Amarelo"
+        },
+        {
+          "sku": "391-SD-059-000",
+          "nome": "Jaleco Feminino Rute Amarelo",
+          "nomeCompleto": "Jaleco Feminino Rute Amarelo",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-amarelo/",
+          "cores": [
+            {
+              "nome": "Feminino Rute Amarelo",
+              "tituloCompleto": "Jaleco Feminino Rute Amarelo",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-amarelo/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Amarelo"
+        },
+        {
+          "sku": "343-SD-059-000",
+          "nome": "Jaleco Feminino Dani Amarelo",
+          "nomeCompleto": "Jaleco Feminino Dani Amarelo",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/dani/jaleco-dani-amarelo/",
+          "cores": [
+            {
+              "nome": "Feminino Dani Amarelo",
+              "tituloCompleto": "Jaleco Feminino Dani Amarelo",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/dani/jaleco-dani-amarelo/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Amarelo"
+        }
+      ],
+      "Armany": [
+        {
+          "sku": "300-SD-067-000",
+          "nome": "Jaleco Feminino Heloisa Manga Longa  Armany",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Longa  Armany",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-armany/",
+          "cores": [
+            {
+              "nome": "Feminino Heloisa Manga Longa  Armany",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa  Armany",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-armany/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Armany"
+        }
+      ],
+      "Bege": [
+        {
+          "sku": "300-SD-054-000",
+          "nome": "Jaleco Feminino Heloisa Manga Longa Bege Aveia",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Longa Bege Aveia",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-bege/",
+          "cores": [
+            {
+              "nome": "Feminino Heloisa Manga Longa Bege Aveia",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Bege Aveia",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-bege/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Bege"
+        },
+        {
+          "sku": "391-SD-054-000",
+          "nome": "Jaleco Feminino Rute Bege Aveia",
+          "nomeCompleto": "Jaleco Feminino Rute Bege Aveia",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-bege/",
+          "cores": [
+            {
+              "nome": "Feminino Rute Bege Aveia",
+              "tituloCompleto": "Jaleco Feminino Rute Bege Aveia",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-bege/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Bege"
+        },
+        {
+          "sku": "383-SD-006-000-5",
+          "nome": "Jaleco Feminino Clinic Bege",
+          "nomeCompleto": "Jaleco Feminino Clinic Bege",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-bege",
+          "cores": [
+            {
+              "nome": "Feminino Clinic Bege",
+              "tituloCompleto": "Jaleco Feminino Clinic Bege",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-bege"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Bege"
+        },
+        {
+          "sku": "400-ZI-109-000-5",
+          "nome": "Jaleco Feminino Isabel Camel",
+          "nomeCompleto": "Jaleco Feminino Isabel Camel",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/isabel/jaleco-isabel-camel/",
+          "cores": [
+            {
+              "nome": "Feminino Isabel Camel",
+              "tituloCompleto": "Jaleco Feminino Isabel Camel",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/isabel/jaleco-isabel-camel/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Bege"
+        },
+        {
+          "sku": "700-SD-079-000",
+          "nome": "Jaleco Feminino Tec Easy Clara Camel",
+          "nomeCompleto": "Jaleco Feminino Tec Easy Clara Camel",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-camel/",
+          "cores": [
+            {
+              "nome": "Feminino Tec Easy Clara Camel",
+              "tituloCompleto": "Jaleco Feminino Tec Easy Clara Camel",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-camel/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Bege"
+        }
+      ],
+      "Azul": [
+        {
+          "sku": "373-SD-015-000-5",
+          "nome": "Jaleco Feminino Manuela Azul Marinho",
+          "nomeCompleto": "Jaleco Feminino Manuela Azul Marinho",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Médio",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Médio",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-medio-2/"
+            },
+            {
+              "nome": "Feminino Manuela Estampado Lego Azul",
+              "tituloCompleto": "Jaleco Feminino Manuela Estampado Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-lego-azul/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho Botão Dourado",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho Botão Dourado",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho-botao-dourado/"
+            },
+            {
+              "nome": "Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-pink-detalhes-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho-detalhes-rosa-pink/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "383-SD-017-000",
+          "nome": "Jaleco Feminino Clinic Azul Bebê",
+          "nomeCompleto": "Jaleco Feminino Clinic Azul Bebê",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-azul-bebe",
+          "cores": [
+            {
+              "nome": "Feminino Clinic Azul Bebê",
+              "tituloCompleto": "Jaleco Feminino Clinic Azul Bebê",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-azul-bebe"
+            },
+            {
+              "nome": "Feminino Clinic Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Clinic Azul Marinho",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-azul-marinho"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "391-SD-053-000",
+          "nome": "Jaleco Feminino Rute Azul Marinho",
+          "nomeCompleto": "Jaleco Feminino Rute Azul Marinho",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Feminino Rute Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Rute Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Rute Azul Bebe",
+              "tituloCompleto": "Jaleco Feminino Rute Azul Bebe",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-azul-bebe/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "373-BD-015-020-5",
+          "nome": "Jaleco Feminino Manuela Azul Marinho Botão Dourado",
+          "nomeCompleto": "Jaleco Feminino Manuela Azul Marinho Botão Dourado",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho-botao-dourado/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Azul Marinho Botão Dourado",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho Botão Dourado",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho-botao-dourado/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Médio",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Médio",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-medio-2/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Manuela Estampado Lego Azul",
+              "tituloCompleto": "Jaleco Feminino Manuela Estampado Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-lego-azul/"
+            },
+            {
+              "nome": "Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-pink-detalhes-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho-detalhes-rosa-pink/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "400-ZI-056-000",
+          "nome": "Jaleco Feminino Isabel Azul Bebe",
+          "nomeCompleto": "Jaleco Feminino Isabel Azul Bebe",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/isabel/jaleco-isabel-azul-bebe/",
+          "cores": [
+            {
+              "nome": "Feminino Isabel Azul Bebe",
+              "tituloCompleto": "Jaleco Feminino Isabel Azul Bebe",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/isabel/jaleco-isabel-azul-bebe/"
+            },
+            {
+              "nome": "Feminino Isabel Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Isabel Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/isabel/jaleco-isabel-azul-marinho/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "300-SD-053-000-5",
+          "nome": "Jaleco Feminino Heloisa Manga Longa Azul Marinho",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Longa Azul Marinho",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Feminino Heloisa Manga Longa Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Heloisa Manga Longa Azul Bebe",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Azul Bebe",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-azul-bebe/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "373-SD-016-000-5",
+          "nome": "Jaleco Feminino Manuela Azul Médio",
+          "nomeCompleto": "Jaleco Feminino Manuela Azul Médio",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-medio-2/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Azul Médio",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Médio",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-medio-2/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Manuela Estampado Lego Azul",
+              "tituloCompleto": "Jaleco Feminino Manuela Estampado Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-lego-azul/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho Botão Dourado",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho Botão Dourado",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho-botao-dourado/"
+            },
+            {
+              "nome": "Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-pink-detalhes-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho-detalhes-rosa-pink/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "383-SD-015-000",
+          "nome": "Jaleco Feminino Clinic Azul Marinho",
+          "nomeCompleto": "Jaleco Feminino Clinic Azul Marinho",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-azul-marinho",
+          "cores": [
+            {
+              "nome": "Feminino Clinic Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Clinic Azul Marinho",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-azul-marinho"
+            },
+            {
+              "nome": "Feminino Clinic Azul Bebê",
+              "tituloCompleto": "Jaleco Feminino Clinic Azul Bebê",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-azul-bebe"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "400-ZI-053-000",
+          "nome": "Jaleco Feminino Isabel Azul Marinho",
+          "nomeCompleto": "Jaleco Feminino Isabel Azul Marinho",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/isabel/jaleco-isabel-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Feminino Isabel Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Isabel Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/isabel/jaleco-isabel-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Isabel Azul Bebe",
+              "tituloCompleto": "Jaleco Feminino Isabel Azul Bebe",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/isabel/jaleco-isabel-azul-bebe/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "700-SD-073-000-5",
+          "nome": "Jaleco Feminino Tec Easy Clara Azul Royal",
+          "nomeCompleto": "Jaleco Feminino Tec Easy Clara Azul Royal",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-azul-royal/",
+          "cores": [
+            {
+              "nome": "Feminino Tec Easy Clara Azul Royal",
+              "tituloCompleto": "Jaleco Feminino Tec Easy Clara Azul Royal",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-azul-royal/"
+            },
+            {
+              "nome": "Tec Easy Clara Azul Marinho",
+              "tituloCompleto": "Jaleco Tec Easy Clara Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-azul-marinho/"
+            },
+            {
+              "nome": "Tec Easy Clara Azul Ciano",
+              "tituloCompleto": "Jaleco Tec Easy Clara Azul Ciano",
+              "link": "https://www.danajalecos.com.br/jaleco-tec-easy-clara-azul-ciano"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "300-MC-053-000",
+          "nome": "Jaleco Feminino Heloisa Manga Curta Azul Marinho",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Curta Azul Marinho",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-manga-curta-azul-marinho/",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "300-MC-056-000",
+          "nome": "Jaleco Feminino Heloisa Manga Curta Azul Bebe",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Curta Azul Bebe",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-heloisa-manga-curta-azul-bebe",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "300-SD-056-000",
+          "nome": "Jaleco Feminino Heloisa Manga Longa Azul Bebe",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Longa Azul Bebe",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-azul-bebe/",
+          "cores": [
+            {
+              "nome": "Feminino Heloisa Manga Longa Azul Bebe",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Azul Bebe",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-azul-bebe/"
+            },
+            {
+              "nome": "Feminino Heloisa Manga Longa Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-azul-marinho/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "391-SD-056-000",
+          "nome": "Jaleco Feminino Rute Azul Bebe",
+          "nomeCompleto": "Jaleco Feminino Rute Azul Bebe",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-azul-bebe/",
+          "cores": [
+            {
+              "nome": "Feminino Rute Azul Bebe",
+              "tituloCompleto": "Jaleco Feminino Rute Azul Bebe",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-azul-bebe/"
+            },
+            {
+              "nome": "Feminino Rute Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Rute Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-azul-marinho/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "343-SD-056-000",
+          "nome": "Jaleco Feminino Dani Azul Bebê",
+          "nomeCompleto": "Jaleco Feminino Dani Azul Bebê",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/dani/jaleco-dani-azul-bebe/",
+          "cores": [
+            {
+              "nome": "Feminino Dani Azul Bebê",
+              "tituloCompleto": "Jaleco Feminino Dani Azul Bebê",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/dani/jaleco-dani-azul-bebe/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "373-SD-132-000",
+          "nome": "Jaleco Feminino Manuela Estampado Lego Azul",
+          "nomeCompleto": "Jaleco Feminino Manuela Estampado Lego Azul",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-lego-azul/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Estampado Lego Azul",
+              "tituloCompleto": "Jaleco Feminino Manuela Estampado Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-lego-azul/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Médio",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Médio",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-medio-2/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho Botão Dourado",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho Botão Dourado",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho-botao-dourado/"
+            },
+            {
+              "nome": "Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-pink-detalhes-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho-detalhes-rosa-pink/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "373-SD-017-000",
+          "nome": "Jaleco Feminino Manuela Azul Bebê",
+          "nomeCompleto": "Jaleco Feminino Manuela Azul Bebê",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-bebe/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Azul Bebê",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Bebê",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-bebe/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Médio",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Médio",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-medio-2/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Manuela Estampado Lego Azul",
+              "tituloCompleto": "Jaleco Feminino Manuela Estampado Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-lego-azul/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho Botão Dourado",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho Botão Dourado",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho-botao-dourado/"
+            },
+            {
+              "nome": "Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-pink-detalhes-azul-marinho/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "373-AA-015-004",
+          "nome": "Jaleco Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+          "nomeCompleto": "Jaleco Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho-detalhes-rosa-pink/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho-detalhes-rosa-pink/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Médio",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Médio",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-medio-2/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Manuela Estampado Lego Azul",
+              "tituloCompleto": "Jaleco Feminino Manuela Estampado Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-lego-azul/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho Botão Dourado",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho Botão Dourado",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho-botao-dourado/"
+            },
+            {
+              "nome": "Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-pink-detalhes-azul-marinho/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "373-AA-004-015",
+          "nome": "Jaleco Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+          "nomeCompleto": "Jaleco Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-pink-detalhes-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-pink-detalhes-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Médio",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Médio",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-medio-2/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Manuela Estampado Lego Azul",
+              "tituloCompleto": "Jaleco Feminino Manuela Estampado Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-lego-azul/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho Botão Dourado",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho Botão Dourado",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho-botao-dourado/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho-detalhes-rosa-pink/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        }
+      ],
+      "Vermelho": [
+        {
+          "sku": "379-SD-002-000-5",
+          "nome": "Jaleco Feminino Marta Manga Curta Bordo",
+          "nomeCompleto": "Jaleco Feminino Marta Manga Curta Bordo",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/marta/jaleco-marta-bordo-manga-curta/",
+          "cores": [
+            {
+              "nome": "Feminino Marta Manga Curta Bordo",
+              "tituloCompleto": "Jaleco Feminino Marta Manga Curta Bordo",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/marta/jaleco-marta-bordo-manga-curta/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Vermelho"
+        },
+        {
+          "sku": "373-SD-002-000-5",
+          "nome": "Jaleco Feminino Manuela Bordô",
+          "nomeCompleto": "Jaleco Feminino Manuela Bordô",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-bordo/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Bordô",
+              "tituloCompleto": "Jaleco Feminino Manuela Bordô",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-bordo/"
+            },
+            {
+              "nome": "Feminino Manuela Branco com Bordô",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco com Bordô",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-bordo/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Vermelho"
+        },
+        {
+          "sku": "300-SD-060-000-3",
+          "nome": "Jaleco Feminino Heloisa Manga Longa Bordô",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Longa Bordô",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-bordo/",
+          "cores": [
+            {
+              "nome": "Feminino Heloisa Manga Longa Bordô",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Bordô",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-bordo/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Vermelho"
+        },
+        {
+          "sku": "391-SD-060-000-5",
+          "nome": "Jaleco Feminino Rute Bordô",
+          "nomeCompleto": "Jaleco Feminino Rute Bordô",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-bordo/",
+          "cores": [
+            {
+              "nome": "Feminino Rute Bordô",
+              "tituloCompleto": "Jaleco Feminino Rute Bordô",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-bordo/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Vermelho"
+        }
+      ],
+      "Branco": [
+        {
+          "sku": "372-SD-008-000-5",
+          "nome": "Jaleco Feminino Marta Branco",
+          "nomeCompleto": "Jaleco Feminino Marta Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/marta/jaleco-marta-branco-manga-longa/",
+          "cores": [
+            {
+              "nome": "Feminino Marta Branco",
+              "tituloCompleto": "Jaleco Feminino Marta Branco - Elegância e Conforto em Cada Detalhe",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/marta/jaleco-marta-branco-manga-longa/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "373-SD-008-000-4",
+          "nome": "Jaleco Feminino Manuela Branco – Elegância, Conforto e Alta Performance",
+          "nomeCompleto": "Jaleco Feminino Manuela Branco – Elegância, Conforto e Alta Performance",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Branco – Elegância, Conforto e Alta Performance",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco – Elegância, Conforto e Alta Performance",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Botão Dourado",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Botão Dourado",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-botao-dourado/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Flamingo Branco",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Flamingo Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-flamingo-branco/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Dentinho Coroa",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Dentinho Coroa",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-dentinho-coroa/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Oncinha",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Oncinha",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-oncinha/"
+            },
+            {
+              "nome": "Feminino Manuela Branco com Bordô",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco com Bordô",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-bordo/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Geometria",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Geometria",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-geometria/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "700-SD-077-000",
+          "nome": "Jaleco Feminino Tec Easy Clara Branco",
+          "nomeCompleto": "Jaleco Feminino Tec Easy Clara Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-branco/",
+          "cores": [
+            {
+              "nome": "Feminino Tec Easy Clara Branco",
+              "tituloCompleto": "Jaleco Feminino Tec Easy Clara Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-branco/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "383-SD-008-000-5",
+          "nome": "Jaleco Feminino Clinic Branco",
+          "nomeCompleto": "Jaleco Feminino Clinic Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-branco",
+          "cores": [
+            {
+              "nome": "Feminino Clinic Branco",
+              "tituloCompleto": "Jaleco Feminino Clinic Branco",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-branco"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "378-ZI-008-000-5",
+          "nome": "Jaleco Feminino Chloe Branco",
+          "nomeCompleto": "Jaleco Feminino Chloe Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-chloe-branco",
+          "cores": [
+            {
+              "nome": "Feminino Chloe Branco",
+              "tituloCompleto": "Jaleco Feminino Chloe Branco",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-chloe-branco"
+            },
+            {
+              "nome": "Feminino Chloe Branco Detalhes Bordô",
+              "tituloCompleto": "Jaleco Feminino Chloe Branco Detalhes Bordô",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-branco-detalhes-bordo/"
+            },
+            {
+              "nome": "Feminino Chloe Branco Detalhes Chumbo",
+              "tituloCompleto": "Jaleco Feminino Chloe Branco Detalhes Chumbo",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-branco-detalhes-chumbo/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "373-BD-008-020",
+          "nome": "Jaleco Feminino Manuela Branco Botão Dourado",
+          "nomeCompleto": "Jaleco Feminino Manuela Branco Botão Dourado",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-botao-dourado/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Branco Botão Dourado",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Botão Dourado",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-botao-dourado/"
+            },
+            {
+              "nome": "Feminino Manuela Branco – Elegância, Conforto e Alta Performance",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco – Elegância, Conforto e Alta Performance",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Flamingo Branco",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Flamingo Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-flamingo-branco/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Dentinho Coroa",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Dentinho Coroa",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-dentinho-coroa/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Oncinha",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Oncinha",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-oncinha/"
+            },
+            {
+              "nome": "Feminino Manuela Branco com Bordô",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco com Bordô",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-bordo/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Geometria",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Geometria",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-geometria/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "373-BB-008-135-4",
+          "nome": "Jaleco Feminino Manuela Branco Detalhes Dentinho Coroa",
+          "nomeCompleto": "Jaleco Feminino Manuela Branco Detalhes Dentinho Coroa",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-dentinho-coroa/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Branco Detalhes Dentinho Coroa",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Dentinho Coroa",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-dentinho-coroa/"
+            },
+            {
+              "nome": "Feminino Manuela Branco – Elegância, Conforto e Alta Performance",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco – Elegância, Conforto e Alta Performance",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Botão Dourado",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Botão Dourado",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-botao-dourado/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Flamingo Branco",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Flamingo Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-flamingo-branco/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Oncinha",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Oncinha",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-oncinha/"
+            },
+            {
+              "nome": "Feminino Manuela Branco com Bordô",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco com Bordô",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-bordo/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Geometria",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Geometria",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-geometria/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "388-BE-008-000",
+          "nome": "Jaleco Feminino Maitê Branco",
+          "nomeCompleto": "Jaleco Feminino Maitê Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-maite-branco",
+          "cores": [
+            {
+              "nome": "Feminino Maitê Branco",
+              "tituloCompleto": "Jaleco Feminino Maitê Branco",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-maite-branco"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "300-SD-052-000-5",
+          "nome": "Jaleco Feminino Heloisa Branco",
+          "nomeCompleto": "Jaleco Feminino Heloisa Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-heloisa-branco",
+          "cores": [
+            {
+              "nome": "Heloisa Branco",
+              "tituloCompleto": "Jaleco Heloisa Branco",
+              "link": "https://www.danajalecos.com.br/jaleco-heloisa-branco"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "391-SD-052-000",
+          "nome": "Jaleco Feminino Rute Branco",
+          "nomeCompleto": "Jaleco Feminino Rute Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-branco/",
+          "cores": [
+            {
+              "nome": "Feminino Rute Branco",
+              "tituloCompleto": "Jaleco Feminino Rute Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-branco/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "373-BB-008-128",
+          "nome": "Jaleco Feminino Manuela Branco Detalhes Flamingo Branco",
+          "nomeCompleto": "Jaleco Feminino Manuela Branco Detalhes Flamingo Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-flamingo-branco/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Branco Detalhes Flamingo Branco",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Flamingo Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-flamingo-branco/"
+            },
+            {
+              "nome": "Feminino Manuela Branco – Elegância, Conforto e Alta Performance",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco – Elegância, Conforto e Alta Performance",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Botão Dourado",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Botão Dourado",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-botao-dourado/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Dentinho Coroa",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Dentinho Coroa",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-dentinho-coroa/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Oncinha",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Oncinha",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-oncinha/"
+            },
+            {
+              "nome": "Feminino Manuela Branco com Bordô",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco com Bordô",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-bordo/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Geometria",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Geometria",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-geometria/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "560-SD-000-000-5",
+          "nome": "Jaleco Feminino Gestante Manga Longa Branco",
+          "nomeCompleto": "Jaleco Feminino Gestante Manga Longa Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/jaleco-para-gestante/",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "368-KD-008-000-5",
+          "nome": "Jaleco Feminino Marta Kids Branco",
+          "nomeCompleto": "Jaleco Feminino Marta Kids Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-marta-kids-branco",
+          "cores": [
+            {
+              "nome": "Feminino Marta Kids Branco",
+              "tituloCompleto": "Jaleco Feminino Marta Kids Branco",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-marta-kids-branco"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "377-BB-008-120-5",
+          "nome": "Jaleco Feminino Lis Branco Detalhes Floral",
+          "nomeCompleto": "Jaleco Feminino Lis Branco Detalhes Floral",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/lis/jaleco-lis-branco-detalhes-floral/",
+          "cores": [
+            {
+              "nome": "Feminino Lis Branco Detalhes Floral",
+              "tituloCompleto": "Jaleco Feminino Lis Branco Detalhes Floral",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/lis/jaleco-lis-branco-detalhes-floral/"
+            },
+            {
+              "nome": "Feminino Lis Branco Detalhes Lego Azul",
+              "tituloCompleto": "Jaleco Feminino Lis Branco Detalhes Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/lis/jaleco-lis-branco-detalhes-lego-azul/"
+            },
+            {
+              "nome": "Feminino Lis Branco Detalhes Coruja Branca",
+              "tituloCompleto": "Jaleco Feminino Lis Branco Detalhes Coruja Branca",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/lis/jaleco-lis-branco-detalhes-coruja-branca/"
+            },
+            {
+              "nome": "Feminino Lis Branco Detalhes Lego Rosa",
+              "tituloCompleto": "Jaleco Feminino Lis Branco Detalhes Lego Rosa",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-lis-branco-detalhes-lego-rosa"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "440-SD-052-000",
+          "nome": "Jaleco Feminino Katherine Branco",
+          "nomeCompleto": "Jaleco Feminino Katherine Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-katherine-branco",
+          "cores": [
+            {
+              "nome": "Feminino Katherine Branco",
+              "tituloCompleto": "Jaleco Feminino Katherine Branco",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-katherine-branco"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "557-SD-052-000",
+          "nome": "Jaleco Feminino Beatriz Branco",
+          "nomeCompleto": "Jaleco Feminino Beatriz Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/beatriz/jaleco-beatriz-branco/",
+          "cores": [
+            {
+              "nome": "Feminino Beatriz Branco",
+              "tituloCompleto": "Jaleco Feminino Beatriz Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/beatriz/jaleco-beatriz-branco/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "912-SD-052-000",
+          "nome": "Jaleco Feminino Kate Branco",
+          "nomeCompleto": "Jaleco Feminino Kate Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/kate/jaleco-kate-branco/",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "346-SD-052-000",
+          "nome": "Jaleco Feminino Lia Branco",
+          "nomeCompleto": "Jaleco Feminino Lia Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/lia/jaleco-lia-branco/",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "300-MC-052-000",
+          "nome": "Jaleco Feminino Heloisa Manga Curta Branco",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Curta Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-manga-curta-branco/",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "558-SD-052-000-5",
+          "nome": "Jaleco Feminino Ester Branco",
+          "nomeCompleto": "Jaleco Feminino Ester Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/ester/jaleco-ester-branco/",
+          "cores": [
+            {
+              "nome": "Feminino Ester Branco",
+              "tituloCompleto": "Jaleco Feminino Ester Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/ester/jaleco-ester-branco/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "390-MR-008-100",
+          "nome": "Jaleco Feminino Francis Branco Renda",
+          "nomeCompleto": "Jaleco Feminino Francis Branco Renda",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/renda/jaleco-francis-branco-detalhes-em-renda/",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "343-SD-052-000-5",
+          "nome": "Jaleco Feminino Dani Branco",
+          "nomeCompleto": "Jaleco Feminino Dani Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/dani/jaleco-dani-branco/",
+          "cores": [
+            {
+              "nome": "Feminino Dani Branco",
+              "tituloCompleto": "Jaleco Feminino Dani Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/dani/jaleco-dani-branco/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "378-AA-008-014",
+          "nome": "Jaleco Feminino Chloe Branco Detalhes Chumbo",
+          "nomeCompleto": "Jaleco Feminino Chloe Branco Detalhes Chumbo",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-branco-detalhes-chumbo/",
+          "cores": [
+            {
+              "nome": "Feminino Chloe Branco Detalhes Chumbo",
+              "tituloCompleto": "Jaleco Feminino Chloe Branco Detalhes Chumbo",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-branco-detalhes-chumbo/"
+            },
+            {
+              "nome": "Feminino Chloe Branco Detalhes Bordô",
+              "tituloCompleto": "Jaleco Feminino Chloe Branco Detalhes Bordô",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-branco-detalhes-bordo/"
+            },
+            {
+              "nome": "Feminino Chloe Branco",
+              "tituloCompleto": "Jaleco Feminino Chloe Branco",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-chloe-branco"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "378-ZI-008-002",
+          "nome": "Jaleco Feminino Chloe Branco Detalhes Bordô",
+          "nomeCompleto": "Jaleco Feminino Chloe Branco Detalhes Bordô",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-branco-detalhes-bordo/",
+          "cores": [
+            {
+              "nome": "Feminino Chloe Branco Detalhes Bordô",
+              "tituloCompleto": "Jaleco Feminino Chloe Branco Detalhes Bordô",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-branco-detalhes-bordo/"
+            },
+            {
+              "nome": "Feminino Chloe Branco Detalhes Chumbo",
+              "tituloCompleto": "Jaleco Feminino Chloe Branco Detalhes Chumbo",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-branco-detalhes-chumbo/"
+            },
+            {
+              "nome": "Feminino Chloe Branco",
+              "tituloCompleto": "Jaleco Feminino Chloe Branco",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-chloe-branco"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "333-VV-008-000-5",
+          "nome": "Jaleco Feminino Manu Branco detalhes Viés",
+          "nomeCompleto": "Jaleco Feminino Manu Branco detalhes Viés",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manu/jaleco-manu-branco-detalhes-vies-rec-princesa/",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "376-SD-008-000",
+          "nome": "Jaleco Feminino Mariah Branco",
+          "nomeCompleto": "Jaleco Feminino Mariah Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-mariah-branco",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "373-BB-008-130",
+          "nome": "Jaleco Feminino Manuela Branco Detalhes Geometria",
+          "nomeCompleto": "Jaleco Feminino Manuela Branco Detalhes Geometria",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-geometria/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Branco Detalhes Geometria",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Geometria",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-geometria/"
+            },
+            {
+              "nome": "Feminino Manuela Branco – Elegância, Conforto e Alta Performance",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco – Elegância, Conforto e Alta Performance",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Botão Dourado",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Botão Dourado",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-botao-dourado/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Flamingo Branco",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Flamingo Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-flamingo-branco/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Dentinho Coroa",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Dentinho Coroa",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-dentinho-coroa/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Oncinha",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Oncinha",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-oncinha/"
+            },
+            {
+              "nome": "Feminino Manuela Branco com Bordô",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco com Bordô",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-bordo/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "373-BB-008-002",
+          "nome": "Jaleco Feminino Manuela Branco com Bordô",
+          "nomeCompleto": "Jaleco Feminino Manuela Branco com Bordô",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-bordo/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Branco com Bordô",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco com Bordô",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-bordo/"
+            },
+            {
+              "nome": "Feminino Manuela Branco – Elegância, Conforto e Alta Performance",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco – Elegância, Conforto e Alta Performance",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Botão Dourado",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Botão Dourado",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-botao-dourado/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Flamingo Branco",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Flamingo Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-flamingo-branco/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Dentinho Coroa",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Dentinho Coroa",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-dentinho-coroa/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Oncinha",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Oncinha",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-oncinha/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Geometria",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Geometria",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-geometria/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "373-BB-008-118",
+          "nome": "Jaleco Feminino Manuela Branco Detalhes Oncinha",
+          "nomeCompleto": "Jaleco Feminino Manuela Branco Detalhes Oncinha",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-oncinha/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Branco Detalhes Oncinha",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Oncinha",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-oncinha/"
+            },
+            {
+              "nome": "Feminino Manuela Branco – Elegância, Conforto e Alta Performance",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco – Elegância, Conforto e Alta Performance",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Botão Dourado",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Botão Dourado",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-botao-dourado/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Flamingo Branco",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Flamingo Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-flamingo-branco/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Dentinho Coroa",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Dentinho Coroa",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-dentinho-coroa/"
+            },
+            {
+              "nome": "Feminino Manuela Branco com Bordô",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco com Bordô",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-bordo/"
+            },
+            {
+              "nome": "Feminino Manuela Branco Detalhes Geometria",
+              "tituloCompleto": "Jaleco Feminino Manuela Branco Detalhes Geometria",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-branco-detalhes-geometria/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "379-SD-008-000",
+          "nome": "Jaleco Feminino Marta Manga Curta Branco",
+          "nomeCompleto": "Jaleco Feminino Marta Manga Curta Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/marta/jaleco-marta-branco-manga-curta/",
+          "cores": [
+            {
+              "nome": "Feminino Marta Manga Curta Branco",
+              "tituloCompleto": "Jaleco Feminino Marta Manga Curta Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/marta/jaleco-marta-branco-manga-curta/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "377-BB-008-131",
+          "nome": "Jaleco Feminino Lis Branco Detalhes Lego Rosa",
+          "nomeCompleto": "Jaleco Feminino Lis Branco Detalhes Lego Rosa",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-lis-branco-detalhes-lego-rosa",
+          "cores": [
+            {
+              "nome": "Feminino Lis Branco Detalhes Lego Rosa",
+              "tituloCompleto": "Jaleco Feminino Lis Branco Detalhes Lego Rosa",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-lis-branco-detalhes-lego-rosa"
+            },
+            {
+              "nome": "Feminino Lis Branco Detalhes Lego Azul",
+              "tituloCompleto": "Jaleco Feminino Lis Branco Detalhes Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/lis/jaleco-lis-branco-detalhes-lego-azul/"
+            },
+            {
+              "nome": "Feminino Lis Branco Detalhes Coruja Branca",
+              "tituloCompleto": "Jaleco Feminino Lis Branco Detalhes Coruja Branca",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/lis/jaleco-lis-branco-detalhes-coruja-branca/"
+            },
+            {
+              "nome": "Feminino Lis Branco Detalhes Floral",
+              "tituloCompleto": "Jaleco Feminino Lis Branco Detalhes Floral",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/lis/jaleco-lis-branco-detalhes-floral/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "377-BB-008-125",
+          "nome": "Jaleco Feminino Lis Branco Detalhes Coruja Branca",
+          "nomeCompleto": "Jaleco Feminino Lis Branco Detalhes Coruja Branca",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/lis/jaleco-lis-branco-detalhes-coruja-branca/",
+          "cores": [
+            {
+              "nome": "Feminino Lis Branco Detalhes Coruja Branca",
+              "tituloCompleto": "Jaleco Feminino Lis Branco Detalhes Coruja Branca",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/lis/jaleco-lis-branco-detalhes-coruja-branca/"
+            },
+            {
+              "nome": "Feminino Lis Branco Detalhes Lego Azul",
+              "tituloCompleto": "Jaleco Feminino Lis Branco Detalhes Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/lis/jaleco-lis-branco-detalhes-lego-azul/"
+            },
+            {
+              "nome": "Feminino Lis Branco Detalhes Lego Rosa",
+              "tituloCompleto": "Jaleco Feminino Lis Branco Detalhes Lego Rosa",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-lis-branco-detalhes-lego-rosa"
+            },
+            {
+              "nome": "Feminino Lis Branco Detalhes Floral",
+              "tituloCompleto": "Jaleco Feminino Lis Branco Detalhes Floral",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/lis/jaleco-lis-branco-detalhes-floral/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "377-BB-008-132",
+          "nome": "Jaleco Feminino Lis Branco Detalhes Lego Azul",
+          "nomeCompleto": "Jaleco Feminino Lis Branco Detalhes Lego Azul",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/lis/jaleco-lis-branco-detalhes-lego-azul/",
+          "cores": [
+            {
+              "nome": "Feminino Lis Branco Detalhes Lego Azul",
+              "tituloCompleto": "Jaleco Feminino Lis Branco Detalhes Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/lis/jaleco-lis-branco-detalhes-lego-azul/"
+            },
+            {
+              "nome": "Feminino Lis Branco Detalhes Coruja Branca",
+              "tituloCompleto": "Jaleco Feminino Lis Branco Detalhes Coruja Branca",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/lis/jaleco-lis-branco-detalhes-coruja-branca/"
+            },
+            {
+              "nome": "Feminino Lis Branco Detalhes Lego Rosa",
+              "tituloCompleto": "Jaleco Feminino Lis Branco Detalhes Lego Rosa",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-lis-branco-detalhes-lego-rosa"
+            },
+            {
+              "nome": "Feminino Lis Branco Detalhes Floral",
+              "tituloCompleto": "Jaleco Feminino Lis Branco Detalhes Floral",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/lis/jaleco-lis-branco-detalhes-floral/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "368-KD-008-000-5",
+          "nome": "Jaleco Feminino Marta Kids Branco",
+          "nomeCompleto": "Jaleco Feminino Marta Kids Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-marta-kids-branco",
+          "cores": [
+            {
+              "nome": "Feminino Marta Kids Branco",
+              "tituloCompleto": "Jaleco Feminino Marta Kids Branco",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-marta-kids-branco"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "400-ZI-108-000",
+          "nome": "Jaleco Feminino Isabel Off White",
+          "nomeCompleto": "Jaleco Feminino Isabel Off White",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/isabel/jaleco-isabel-off-white/",
+          "cores": [
+            {
+              "nome": "Isabel Off White",
+              "tituloCompleto": "Jaleco Isabel Off White",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/isabel/jaleco-isabel-off-white/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        }
+      ],
+      "Cinza": [
+        {
+          "sku": "378-ZI-014-000-5",
+          "nome": "Jaleco Feminino Chloe Chumbo",
+          "nomeCompleto": "Jaleco Feminino Chloe Chumbo",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-chloe-chumbo",
+          "cores": [
+            {
+              "nome": "Feminino Chloe Chumbo",
+              "tituloCompleto": "Jaleco Feminino Chloe Chumbo",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-chloe-chumbo"
+            },
+            {
+              "nome": "Feminino Chloe Branco Detalhes Chumbo",
+              "tituloCompleto": "Jaleco Feminino Chloe Branco Detalhes Chumbo",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-branco-detalhes-chumbo/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Cinza"
+        },
+        {
+          "sku": "300-SD-050-000",
+          "nome": "Jaleco Feminino Heloisa Manga Longa Chumbo",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Longa Chumbo",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-chumbo/",
+          "cores": [
+            {
+              "nome": "Feminino Heloisa Manga Longa Chumbo",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Chumbo",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-chumbo/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Cinza"
+        },
+        {
+          "sku": "373-SD-014-000-5",
+          "nome": "Jaleco Feminino Manuela Chumbo",
+          "nomeCompleto": "Jaleco Feminino Manuela Chumbo",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-chumbo/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Chumbo",
+              "tituloCompleto": "Jaleco Feminino Manuela Chumbo",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-chumbo/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Cinza"
+        },
+        {
+          "sku": "378-ZI-013-000",
+          "nome": "Jaleco Feminino Chloe Cinza",
+          "nomeCompleto": "Jaleco Feminino Chloe Cinza",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-chloe-cinza",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Cinza"
+        }
+      ],
+      "Laranja": [
+        {
+          "sku": "391-SD-057-000",
+          "nome": "Jaleco Feminino Rute Coral",
+          "nomeCompleto": "Jaleco Feminino Rute Coral",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-coral/",
+          "cores": [
+            {
+              "nome": "Feminino Rute Coral",
+              "tituloCompleto": "Jaleco Feminino Rute Coral",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-coral/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Laranja"
+        },
+        {
+          "sku": "343-SD-057-000",
+          "nome": "Jaleco Feminino Dani Coral",
+          "nomeCompleto": "Jaleco Feminino Dani Coral",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/dani/jaleco-dani-coral/",
+          "cores": [
+            {
+              "nome": "Feminino Dani Coral",
+              "tituloCompleto": "Jaleco Feminino Dani Coral",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/dani/jaleco-dani-coral/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Laranja"
+        },
+        {
+          "sku": "373-SD-035-000",
+          "nome": "Jaleco Feminino Manuela Tangerina",
+          "nomeCompleto": "Jaleco Feminino Manuela Tangerina",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-tangerina/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Tangerina",
+              "tituloCompleto": "Jaleco Feminino Manuela Tangerina",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-tangerina/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Laranja"
+        }
+      ],
+      "Denin": [
+        {
+          "sku": "300-SD-070-000-5",
+          "nome": "Jaleco Feminino Heloisa Manga Longa Swit Denin",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Longa Swit Denin",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-swit-denin/",
+          "cores": [
+            {
+              "nome": "Feminino Heloisa Manga Longa Swit Denin",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Swit Denin",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-swit-denin/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Denin"
+        }
+      ],
+      "Roxo": [
+        {
+          "sku": "379-SD-003-000",
+          "nome": "Jaleco Feminino Marta Manga Curta Lilas",
+          "nomeCompleto": "Jaleco Feminino Marta Manga Curta Lilas",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/marta/jaleco-marta-lilas-manga-curta/",
+          "cores": [
+            {
+              "nome": "Feminino Marta Manga Curta Lilas",
+              "tituloCompleto": "Jaleco Feminino Marta Manga Curta Lilas",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/marta/jaleco-marta-lilas-manga-curta/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Roxo"
+        },
+        {
+          "sku": "373-SD-003-000-5",
+          "nome": "Jaleco Feminino Manuela Lilás",
+          "nomeCompleto": "Jaleco Feminino Manuela Lilás",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-lilas/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Lilás",
+              "tituloCompleto": "Jaleco Feminino Manuela Lilás",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-lilas/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Roxo"
+        },
+        {
+          "sku": "300-SD-066-000",
+          "nome": "Jaleco Feminino Heloisa Manga Longa Lilás Azaleia",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Longa Lilás Azaleia",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-lilas-azaleia/",
+          "cores": [
+            {
+              "nome": "Feminino Heloisa Manga Longa Lilás Azaleia",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Lilás Azaleia",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-lilas-azaleia/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Roxo"
+        }
+      ],
+      "Preto": [
+        {
+          "sku": "383-SD-012-000-5",
+          "nome": "Jaleco Feminino Clinic Preto",
+          "nomeCompleto": "Jaleco Feminino Clinic Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-preto",
+          "cores": [
+            {
+              "nome": "Feminino Clinic Preto",
+              "tituloCompleto": "Jaleco Feminino Clinic Preto",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-preto"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "300-SD-054-051-5",
+          "nome": "Jaleco Feminino Heloisa Manga Longa Bege com Preto",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Longa Bege com Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-bege-com-preto/",
+          "cores": [
+            {
+              "nome": "Feminino Heloisa Manga Longa Bege com Preto",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Bege com Preto - Sofisticação e Presença Profissional",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-bege-com-preto/"
+            },
+            {
+              "nome": "Feminino Heloisa Manga Longa Preto",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Preto - Elegância e Presença Profissional",
+              "link": "https://www.danajalecos.com.br/jaleco-heloisa-preto"
+            },
+            {
+              "nome": "Feminino Heloisa Manga Longa Rosa Nude com Preto",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Rosa Nude com Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-rosa-nude-com-preto/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "700-SD-075-000",
+          "nome": "Jaleco Feminino Tec Easy Clara Preto",
+          "nomeCompleto": "Jaleco Feminino Tec Easy Clara Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-preto/",
+          "cores": [
+            {
+              "nome": "Feminino Tec Easy Clara Preto",
+              "tituloCompleto": "Jaleco Feminino Tec Easy Clara Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-preto/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "372-SD-012-000",
+          "nome": "Jaleco Feminino Marta Manga Longa Preto",
+          "nomeCompleto": "Jaleco Feminino Marta Manga Longa Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/marta/jaleco-marta-preto-manga-longa/",
+          "cores": [
+            {
+              "nome": "Feminino Marta Manga Longa Preto",
+              "tituloCompleto": "Jaleco Feminino Marta Manga Longa Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/marta/jaleco-marta-preto-manga-longa/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "379-SD-012-000-5",
+          "nome": "Jaleco Feminino Marta Manga Curta Preto",
+          "nomeCompleto": "Jaleco Feminino Marta Manga Curta Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/marta/jaleco-marta-preto-manga-curta/",
+          "cores": [
+            {
+              "nome": "Feminino Marta Manga Curta Preto",
+              "tituloCompleto": "Jaleco Feminino Marta Manga Curta Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/marta/jaleco-marta-preto-manga-curta/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "300-SD-051-000-5",
+          "nome": "Jaleco Feminino Heloisa Manga Longa Preto",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Longa Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-heloisa-preto",
+          "cores": [
+            {
+              "nome": "Feminino Heloisa Manga Longa Preto",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Preto - Elegância e Presença Profissional",
+              "link": "https://www.danajalecos.com.br/jaleco-heloisa-preto"
+            },
+            {
+              "nome": "Feminino Heloisa Manga Longa Rosa Nude com Preto",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Rosa Nude com Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-rosa-nude-com-preto/"
+            },
+            {
+              "nome": "Feminino Heloisa Manga Longa Bege com Preto",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Bege com Preto - Sofisticação e Presença Profissional",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-bege-com-preto/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "378-AA-007-012",
+          "nome": "Jaleco Feminino Chloe Rosa Nude com Preto",
+          "nomeCompleto": "Jaleco Feminino Chloe Rosa Nude com Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-rosa-nude-detalhes-preto/",
+          "cores": [
+            {
+              "nome": "Feminino Chloe Rosa Nude com Preto",
+              "tituloCompleto": "Jaleco Feminino Chloe Rosa Nude com Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-rosa-nude-detalhes-preto/"
+            },
+            {
+              "nome": "Feminino Chloe Preto",
+              "tituloCompleto": "Jaleco Feminino Chloe Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-preto/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "400-ZI-112-000",
+          "nome": "Jaleco Feminino Isabel Preto",
+          "nomeCompleto": "Jaleco Feminino Isabel Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/isabel/jaleco-isabel-preto/",
+          "cores": [
+            {
+              "nome": "Feminino Isabel Preto",
+              "tituloCompleto": "Jaleco Feminino Isabel Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/isabel/jaleco-isabel-preto/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "440-SD-051-000",
+          "nome": "Jaleco Feminino Katherine Preto",
+          "nomeCompleto": "Jaleco Feminino Katherine Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-katherine-preto",
+          "cores": [
+            {
+              "nome": "Feminino Katherine Preto",
+              "tituloCompleto": "Jaleco Feminino Katherine Preto",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-katherine-preto"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "557-SD-051-000",
+          "nome": "Jaleco Feminino Beatriz Preto",
+          "nomeCompleto": "Jaleco Feminino Beatriz Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/beatriz/jaleco-beatriz-preto/",
+          "cores": [
+            {
+              "nome": "Feminino Beatriz Preto",
+              "tituloCompleto": "Jaleco Feminino Beatriz Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/beatriz/jaleco-beatriz-preto/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "346-SD-051-000",
+          "nome": "Jaleco Feminino Lia Preto",
+          "nomeCompleto": "Jaleco Feminino Lia Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/lia/jaleco-lia-preto/",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "300-MC-051-000",
+          "nome": "Jaleco Feminino Heloisa Manga Curta Preto",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Curta Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-manga-curta-preto/",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "300-SD-055-051",
+          "nome": "Jaleco Feminino Heloisa Manga Longa Rosa Nude com Preto",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Longa Rosa Nude com Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-rosa-nude-com-preto/",
+          "cores": [
+            {
+              "nome": "Feminino Heloisa Manga Longa Rosa Nude com Preto",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Rosa Nude com Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-rosa-nude-com-preto/"
+            },
+            {
+              "nome": "Feminino Heloisa Manga Longa Preto",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Preto - Elegância e Presença Profissional",
+              "link": "https://www.danajalecos.com.br/jaleco-heloisa-preto"
+            },
+            {
+              "nome": "Feminino Heloisa Manga Longa Bege com Preto",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Bege com Preto - Sofisticação e Presença Profissional",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-bege-com-preto/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "391-SD-051-000",
+          "nome": "Jaleco Feminino Rute Preto",
+          "nomeCompleto": "Jaleco Feminino Rute Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-preto/",
+          "cores": [
+            {
+              "nome": "Feminino Rute Preto",
+              "tituloCompleto": "Jaleco Feminino Rute Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-preto/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "558-SD-051-000",
+          "nome": "Jaleco Feminino Ester Preto",
+          "nomeCompleto": "Jaleco Feminino Ester Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/ester/jaleco-ester-preto/",
+          "cores": [
+            {
+              "nome": "Feminino Ester Preto",
+              "tituloCompleto": "Jaleco Feminino Ester Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/ester/jaleco-ester-preto/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "343-SD-051-000",
+          "nome": "Jaleco Feminino Dani Preto",
+          "nomeCompleto": "Jaleco Feminino Dani Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/dani/preto/",
+          "cores": [
+            {
+              "nome": "Feminino Dani Preto",
+              "tituloCompleto": "Jaleco Feminino Dani Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/dani/preto/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "378-ZI-012-000-5",
+          "nome": "Jaleco Feminino Chloe Preto",
+          "nomeCompleto": "Jaleco Feminino Chloe Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-preto/",
+          "cores": [
+            {
+              "nome": "Feminino Chloe Preto",
+              "tituloCompleto": "Jaleco Feminino Chloe Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-preto/"
+            },
+            {
+              "nome": "Feminino Chloe Rosa Nude com Preto",
+              "tituloCompleto": "Jaleco Feminino Chloe Rosa Nude com Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-rosa-nude-detalhes-preto/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "388-BE-012-000",
+          "nome": "Jaleco Feminino Maitê Preto",
+          "nomeCompleto": "Jaleco Feminino Maitê Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-maite-preto",
+          "cores": [
+            {
+              "nome": "Feminino Maitê Preto",
+              "tituloCompleto": "Jaleco Feminino Maitê Preto",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-maite-preto"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        }
+      ],
+      "Rosa": [
+        {
+          "sku": "400-ZI-107-000-5",
+          "nome": "Jaleco Feminino Isabel Rosa Nude",
+          "nomeCompleto": "Jaleco Feminino Isabel Rosa Nude",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/isabel/jaleco-isabel-rosa-nude/",
+          "cores": [
+            {
+              "nome": "Feminino Isabel Rosa Nude",
+              "tituloCompleto": "Jaleco Feminino Isabel Rosa Nude",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/isabel/jaleco-isabel-rosa-nude/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "391-SD-055-000",
+          "nome": "Jaleco Feminino Rute Rosa Nude",
+          "nomeCompleto": "Jaleco Feminino Rute Rosa Nude",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-rosa-nude/",
+          "cores": [
+            {
+              "nome": "Feminino Rute Rosa Nude",
+              "tituloCompleto": "Jaleco Feminino Rute Rosa Nude",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-rosa-nude/"
+            },
+            {
+              "nome": "Feminino Rute Rosa Pink",
+              "tituloCompleto": "Jaleco Feminino Rute Rosa Pink",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-rute-rosa-pink"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "700-SD-078-000",
+          "nome": "Jaleco Feminino Tec Easy Clara Rosa Bebe",
+          "nomeCompleto": "Jaleco Feminino Tec Easy Clara Rosa Bebe",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-rosa-bebe/",
+          "cores": [
+            {
+              "nome": "Feminino Tec Easy Clara Rosa Bebe",
+              "tituloCompleto": "Jaleco Feminino Tec Easy Clara Rosa Bebe",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-rosa-bebe/"
+            },
+            {
+              "nome": "Feminino Tec Easy Clara Rosa",
+              "tituloCompleto": "Jaleco Feminino Tec Easy Clara Rosa",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-rosa/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "700-SD-074-000-5",
+          "nome": "Jaleco Feminino Tec Easy Clara Rosa",
+          "nomeCompleto": "Jaleco Feminino Tec Easy Clara Rosa",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-rosa/",
+          "cores": [
+            {
+              "nome": "Feminino Tec Easy Clara Rosa",
+              "tituloCompleto": "Jaleco Feminino Tec Easy Clara Rosa",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-rosa/"
+            },
+            {
+              "nome": "Feminino Tec Easy Clara Rosa Bebe",
+              "tituloCompleto": "Jaleco Feminino Tec Easy Clara Rosa Bebe",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-rosa-bebe/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "300-SD-055-000",
+          "nome": "Jaleco Feminino Heloisa Manga Longa Rosa Nude",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Longa Rosa Nude",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-rosa-nude/",
+          "cores": [
+            {
+              "nome": "Feminino Heloisa Manga Longa Rosa Nude",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Rosa Nude",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-rosa-nude/"
+            },
+            {
+              "nome": "Feminino Heloisa Manga Longa Rosa Nude com Preto",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Rosa Nude com Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-rosa-nude-com-preto/"
+            },
+            {
+              "nome": "Feminino Heloisa Manga Longa Rosa Pink",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-rosa-pink/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "373-SD-007-000-5",
+          "nome": "Jaleco Feminino Manuela Rosa Nude",
+          "nomeCompleto": "Jaleco Feminino Manuela Rosa Nude",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-rosa-nude/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Rosa Nude",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Nude",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-rosa-nude/"
+            },
+            {
+              "nome": "Feminino Manuela Rosa Bebê",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-rosa-bebe/"
+            },
+            {
+              "nome": "Feminino Manuela Estampado Lego Rosa",
+              "tituloCompleto": "Jaleco Feminino Manuela Estampado Lego Rosa",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-lego-rosa/"
+            },
+            {
+              "nome": "Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-pink-detalhes-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho-detalhes-rosa-pink/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "373-SD-005-000",
+          "nome": "Jaleco Feminino Manuela Rosa Bebê",
+          "nomeCompleto": "Jaleco Feminino Manuela Rosa Bebê",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-rosa-bebe/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Rosa Bebê",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-rosa-bebe/"
+            },
+            {
+              "nome": "Feminino Manuela Rosa Nude",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Nude",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-rosa-nude/"
+            },
+            {
+              "nome": "Feminino Manuela Estampado Lego Rosa",
+              "tituloCompleto": "Jaleco Feminino Manuela Estampado Lego Rosa",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-lego-rosa/"
+            },
+            {
+              "nome": "Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-pink-detalhes-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho-detalhes-rosa-pink/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "372-SD-007-000-5",
+          "nome": "Jaleco Feminino Marta Manga Longa Rosa Nude",
+          "nomeCompleto": "Jaleco Feminino Marta Manga Longa Rosa Nude",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/marta/jaleco-marta-rosa-nude-manga-longa/",
+          "cores": [
+            {
+              "nome": "Feminino Marta Manga Longa Rosa Nude",
+              "tituloCompleto": "Jaleco Feminino Marta Manga Longa Rosa Nude",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/marta/jaleco-marta-rosa-nude-manga-longa/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "300-MC-061-000",
+          "nome": "Jaleco Feminino Heloisa Manga Curta Rosa Pink",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Curta Rosa Pink",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-manga-curta-rosa-pink/",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "300-SD-061-000",
+          "nome": "Jaleco Feminino Heloisa Manga Longa Rosa Pink",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Longa Rosa Pink",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-rosa-pink/",
+          "cores": [
+            {
+              "nome": "Feminino Heloisa Manga Longa Rosa Pink",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-rosa-pink/"
+            },
+            {
+              "nome": "Feminino Heloisa Manga Longa Rosa Nude",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Rosa Nude",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-rosa-nude/"
+            },
+            {
+              "nome": "Feminino Heloisa Manga Longa Rosa Nude com Preto",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Rosa Nude com Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-rosa-nude-com-preto/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "300-MC-055-000",
+          "nome": "Jaleco Feminino Heloisa Manga Curta Rosa Nude",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Curta Rosa Nude",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-manga-curta-rosa-nude/",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "391-SD-061-000",
+          "nome": "Jaleco Feminino Rute Rosa Pink",
+          "nomeCompleto": "Jaleco Feminino Rute Rosa Pink",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-rute-rosa-pink",
+          "cores": [
+            {
+              "nome": "Feminino Rute Rosa Pink",
+              "tituloCompleto": "Jaleco Feminino Rute Rosa Pink",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-rute-rosa-pink"
+            },
+            {
+              "nome": "Feminino Rute Rosa Nude",
+              "tituloCompleto": "Jaleco Feminino Rute Rosa Nude",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-rosa-nude/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "343-SD-055-000",
+          "nome": "Jaleco Feminino Dani Rosa Nude",
+          "nomeCompleto": "Jaleco Feminino Dani Rosa Nude",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-dani-rosa-nude",
+          "cores": [
+            {
+              "nome": "Feminino Dani Rosa Nude",
+              "tituloCompleto": "Jaleco Feminino Dani Rosa Nude",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-dani-rosa-nude"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "378-AA-131-004",
+          "nome": "Jaleco Feminino Chloe Estampado Lego Rosa",
+          "nomeCompleto": "Jaleco Feminino Chloe Estampado Lego Rosa",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-chloe-estampado-lego-rosa",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "373-SD-131-000",
+          "nome": "Jaleco Feminino Manuela Estampado Lego Rosa",
+          "nomeCompleto": "Jaleco Feminino Manuela Estampado Lego Rosa",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-lego-rosa/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Estampado Lego Rosa",
+              "tituloCompleto": "Jaleco Feminino Manuela Estampado Lego Rosa",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-lego-rosa/"
+            },
+            {
+              "nome": "Feminino Manuela Rosa Bebê",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-rosa-bebe/"
+            },
+            {
+              "nome": "Feminino Manuela Rosa Nude",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Nude",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-rosa-nude/"
+            },
+            {
+              "nome": "Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-pink-detalhes-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+              "tituloCompleto": "Jaleco Feminino Manuela Azul Marinho Detalhes Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-azul-marinho-detalhes-rosa-pink/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "373-SD-004-000",
+          "nome": "Jaleco Feminino Manuela Rosa Pink",
+          "nomeCompleto": "Jaleco Feminino Manuela Rosa Pink",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-rosa-pink/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Rosa Pink",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-rosa-pink/"
+            },
+            {
+              "nome": "Feminino Manuela Rosa Bebê",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-rosa-bebe/"
+            },
+            {
+              "nome": "Feminino Manuela Rosa Nude",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Nude",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-rosa-nude/"
+            },
+            {
+              "nome": "Feminino Manuela Estampado Lego Rosa",
+              "tituloCompleto": "Jaleco Feminino Manuela Estampado Lego Rosa",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-lego-rosa/"
+            },
+            {
+              "nome": "Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "tituloCompleto": "Jaleco Feminino Manuela Rosa Pink Detalhes Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-pink-detalhes-azul-marinho/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "383-SD-005-000-5",
+          "nome": "Jaleco Feminino Clinic Rosa Bebê",
+          "nomeCompleto": "Jaleco Feminino Clinic Rosa Bebê",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-rosa-bebe",
+          "cores": [
+            {
+              "nome": "Feminino Clinic Rosa Bebê",
+              "tituloCompleto": "Jaleco Feminino Clinic Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-rosa-bebe"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        }
+      ],
+      "Sem Cor": [
+        {
+          "sku": "373-SD-018-000",
+          "nome": "Jaleco Feminino Manuela Roxo",
+          "nomeCompleto": "Jaleco Feminino Manuela Roxo",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-manuela-roxo",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Sem Cor"
+        },
+        {
+          "sku": "615-SD-108-000",
+          "nome": "Jaleco Feminino Charlotte Off White",
+          "nomeCompleto": "Jaleco Feminino Charlotte Off White",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/jaleco-charlotte-off-white/",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Sem Cor"
+        },
+        {
+          "sku": "300-MC-060-000",
+          "nome": "Jaleco Feminino Heloisa Manga Curta Bordo",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Curta Bordo",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-heloisa-manga-curta-bordo",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Sem Cor"
+        },
+        {
+          "sku": "300-SD-057-000",
+          "nome": "Jaleco Feminino Heloisa Manga Longa Coral",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Longa Coral",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-coral/",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Sem Cor"
+        },
+        {
+          "sku": "377-SD-250-000-5",
+          "nome": "Jaleco Feminino Lis Estampado Jardim ABC",
+          "nomeCompleto": "Jaleco Feminino Lis Estampado Jardim ABC",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-lis-estampado-jardim-abc",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Sem Cor"
+        }
+      ],
+      "Verde": [
+        {
+          "sku": "373-SD-010-000-5",
+          "nome": "Jaleco Feminino Manuela Verde Escuro",
+          "nomeCompleto": "Jaleco Feminino Manuela Verde Escuro",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-manuela-verde-escuro",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Verde Escuro",
+              "tituloCompleto": "Jaleco Feminino Manuela Verde Escuro",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-manuela-verde-escuro"
+            },
+            {
+              "nome": "Feminino Manuela Verde Claro",
+              "tituloCompleto": "Jaleco Feminino Manuela Verde Claro",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-verde-claro/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Verde"
+        },
+        {
+          "sku": "300-SD-062-000",
+          "nome": "Jaleco Feminino Heloisa Manga Longa Verde Escuro",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Longa Verde Escuro",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-verde-escuro/",
+          "cores": [
+            {
+              "nome": "Feminino Heloisa Manga Longa Verde Escuro",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Verde Escuro",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-verde-escuro/"
+            },
+            {
+              "nome": "Feminino Heloisa Manga Longa Verde Claro",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Verde Claro",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-verde-claro/"
+            },
+            {
+              "nome": "Feminino Heloisa Manga Longa Verde Militar",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Verde Militar",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-verde-militar/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Verde"
+        },
+        {
+          "sku": "300-SD-068-000",
+          "nome": "Jaleco Feminino Heloisa Manga Longa Verde Militar",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Longa Verde Militar",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-verde-militar/",
+          "cores": [
+            {
+              "nome": "Feminino Heloisa Manga Longa Verde Militar",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Verde Militar",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-verde-militar/"
+            },
+            {
+              "nome": "Feminino Heloisa Manga Longa Verde Claro",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Verde Claro",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-verde-claro/"
+            },
+            {
+              "nome": "Feminino Heloisa Manga Longa Verde Escuro",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Verde Escuro",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-verde-escuro/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Verde"
+        },
+        {
+          "sku": "300-SD-058-000",
+          "nome": "Jaleco Feminino Heloisa Manga Longa Verde Claro",
+          "nomeCompleto": "Jaleco Feminino Heloisa Manga Longa Verde Claro",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-verde-claro/",
+          "cores": [
+            {
+              "nome": "Feminino Heloisa Manga Longa Verde Claro",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Verde Claro",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-verde-claro/"
+            },
+            {
+              "nome": "Feminino Heloisa Manga Longa Verde Escuro",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Verde Escuro",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-verde-escuro/"
+            },
+            {
+              "nome": "Feminino Heloisa Manga Longa Verde Militar",
+              "tituloCompleto": "Jaleco Feminino Heloisa Manga Longa Verde Militar",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-verde-militar/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Verde"
+        },
+        {
+          "sku": "391-SD-058-000",
+          "nome": "Jaleco Feminino Rute Verde Claro",
+          "nomeCompleto": "Jaleco Feminino Rute Verde Claro",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-rute-verde-claro",
+          "cores": [
+            {
+              "nome": "Feminino Rute Verde Claro",
+              "tituloCompleto": "Jaleco Feminino Rute Verde Claro",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-rute-verde-claro"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Verde"
+        },
+        {
+          "sku": "373-SD-009-000-5",
+          "nome": "Jaleco Feminino Manuela Verde Claro",
+          "nomeCompleto": "Jaleco Feminino Manuela Verde Claro",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-verde-claro/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Verde Claro",
+              "tituloCompleto": "Jaleco Feminino Manuela Verde Claro",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-verde-claro/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Verde"
+        },
+        {
+          "sku": "383-SD-010-000-5",
+          "nome": "Jaleco Feminino Clinic Verde Escuro",
+          "nomeCompleto": "Jaleco Feminino Clinic Verde Escuro",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-verde-escuro",
+          "cores": [
+            {
+              "nome": "Feminino Clinic Verde Escuro",
+              "tituloCompleto": "Jaleco Feminino Clinic Verde Escuro",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-verde-escuro"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Verde"
+        }
+      ],
+      "Estampado": [
+        {
+          "sku": "368-KD-250-000",
+          "nome": "Jaleco Feminino Marta Kids Estampado Jardim ABC",
+          "nomeCompleto": "Jaleco Feminino Marta Kids Estampado Jardim ABC",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-marta-kids-estampado-jardim-abc",
+          "cores": [
+            {
+              "nome": "Feminino Marta Kids Estampado Jardim ABC",
+              "tituloCompleto": "Jaleco Feminino Marta Kids Estampado Jardim ABC",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-marta-kids-estampado-jardim-abc"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "368-KD-250-000",
+          "nome": "Jaleco Feminino Marta Kids Estampado Jardim ABC",
+          "nomeCompleto": "Jaleco Feminino Marta Kids Estampado Jardim ABC",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-marta-kids-estampado-jardim-abc",
+          "cores": [
+            {
+              "nome": "Feminino Marta Kids Estampado Jardim ABC",
+              "tituloCompleto": "Jaleco Feminino Marta Kids Estampado Jardim ABC",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-marta-kids-estampado-jardim-abc"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "373-SD-204-000",
+          "nome": "Jaleco Feminino Manuela Estampado Peças de Amor",
+          "nomeCompleto": "Jaleco Feminino Manuela Estampado Peças de Amor",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-manuela-estampado-pecas-de-amor",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Estampado Peças de Amor",
+              "tituloCompleto": "Jaleco Feminino Manuela Estampado Peças de Amor",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-manuela-estampado-pecas-de-amor"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "373-SD-203-000",
+          "nome": "Jaleco Feminino Manuela Estampado Circo",
+          "nomeCompleto": "Jaleco Feminino Manuela Estampado Circo",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-circo/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Estampado Circo",
+              "tituloCompleto": "Jaleco Feminino Manuela Estampado Circo",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-circo/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "383-SD-137-000-5",
+          "nome": "Jaleco Feminino Clinic Estampado Fada do Dente",
+          "nomeCompleto": "Jaleco Feminino Clinic Estampado Fada do Dente",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-estampado-fada-do-dente",
+          "cores": [
+            {
+              "nome": "Feminino Clinic Estampado Fada do Dente",
+              "tituloCompleto": "Jaleco Feminino Clinic Estampado Fada do Dente",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-estampado-fada-do-dente"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "373-SD-137-000",
+          "nome": "Jaleco Feminino Manuela Fada do Dente",
+          "nomeCompleto": "Jaleco Feminino Manuela Fada do Dente",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-fada-do-dente/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Fada do Dente",
+              "tituloCompleto": "Jaleco Feminino Manuela Fada do Dente",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-fada-do-dente/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "378-AA-149-018",
+          "nome": "Jaleco Feminino Chloe Estampado Dinos",
+          "nomeCompleto": "Jaleco Feminino Chloe Estampado Dinos",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-estampado-dinos/",
+          "cores": [
+            {
+              "nome": "Feminino Chloe Estampado Dinos",
+              "tituloCompleto": "Jaleco Feminino Chloe Estampado Dinos",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-estampado-dinos/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "378-AA-209-003",
+          "nome": "Jaleco Feminino Chloe Estampado Sweet Dogs",
+          "nomeCompleto": "Jaleco Feminino Chloe Estampado Sweet Dogs",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-estamp-sweet-dogs/",
+          "cores": [
+            {
+              "nome": "Feminino Chloe Estampado Sweet Dogs",
+              "tituloCompleto": "Jaleco Feminino Chloe Estampado Sweet Dogs",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-estamp-sweet-dogs/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "373-SD-200-000",
+          "nome": "Jaleco Feminino Manuela Estampado Fazendinha",
+          "nomeCompleto": "Jaleco Feminino Manuela Estampado Fazendinha",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-manuela-estampado-fazendinha",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Estampado Fazendinha",
+              "tituloCompleto": "Jaleco Feminino Manuela Estampado Fazendinha",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-manuela-estampado-fazendinha"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "373-SD-202-000",
+          "nome": "Jaleco Feminino Manuela Estampado Liga da Fofura",
+          "nomeCompleto": "Jaleco Feminino Manuela Estampado Liga da Fofura",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-manuela-estampado-liga-da-fofura",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Estampado Liga da Fofura",
+              "tituloCompleto": "Jaleco Feminino Manuela Estampado Liga da Fofura",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-manuela-estampado-liga-da-fofura"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "373-SD-207-000-5",
+          "nome": "Jaleco Feminino Manuela Estampado Games",
+          "nomeCompleto": "Jaleco Feminino Manuela Estampado Games",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-games/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Estampado Games",
+              "tituloCompleto": "Jaleco Feminino Manuela Estampado Games",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-games/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "373-ES-154-000",
+          "nome": "Jaleco Feminino Manuela Estampado Gatos",
+          "nomeCompleto": "Jaleco Feminino Manuela Estampado Gatos",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-gatos/",
+          "cores": [
+            {
+              "nome": "Feminino Manuela Estampado Gatos",
+              "tituloCompleto": "Jaleco Feminino Manuela Estampado Gatos",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-estampado-gatos/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "383-SD-230-000-5",
+          "nome": "Jaleco Feminino Clinic Estampado Pet Love",
+          "nomeCompleto": "Jaleco Feminino Clinic Estampado Pet Love",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-estampado-pet-love",
+          "cores": [
+            {
+              "nome": "Feminino Clinic Estampado Pet Love",
+              "tituloCompleto": "Jaleco Feminino Clinic Estampado Pet Love",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-clinic-estampado-pet-love"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "378-AA-151-004",
+          "nome": "Jaleco Feminino Chloe Estampado Pug",
+          "nomeCompleto": "Jaleco Feminino Chloe Estampado Pug",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-estampado-pug/",
+          "cores": [
+            {
+              "nome": "Feminino Chloe Estampado Pug",
+              "tituloCompleto": "Jaleco Feminino Chloe Estampado Pug",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/chloe/jaleco-chloe-estampado-pug/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        }
+      ]
+    }
+  },
+  "unissex": {
+    "totalProdutos": 15,
+    "todasCores": [
+      "Azul",
+      "Bege",
+      "Branco",
+      "Cacau",
+      "Cinza",
+      "Preto",
+      "Roxo",
+      "Verde"
+    ],
+    "cadaCor": {
+      "Azul": [
+        {
+          "sku": "700-SD-080-000",
+          "nome": "Jaleco Tec Easy Clara Azul Ciano",
+          "nomeCompleto": "Jaleco Tec Easy Clara Azul Ciano",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-tec-easy-clara-azul-ciano",
+          "cores": [
+            {
+              "nome": "Tec Easy Clara Azul Ciano",
+              "tituloCompleto": "Jaleco Tec Easy Clara Azul Ciano",
+              "link": "https://www.danajalecos.com.br/jaleco-tec-easy-clara-azul-ciano"
+            },
+            {
+              "nome": "Feminino Tec Easy Clara Azul Royal",
+              "tituloCompleto": "Jaleco Feminino Tec Easy Clara Azul Royal",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-azul-royal/"
+            },
+            {
+              "nome": "Tec Easy Clara Azul Marinho",
+              "tituloCompleto": "Jaleco Tec Easy Clara Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-azul-marinho/"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Azul"
+        },
+        {
+          "sku": "700-SD-072-000-5",
+          "nome": "Jaleco Clara Azul Marinho — Elegância e Conforto Premium",
+          "nomeCompleto": "Jaleco Clara Azul Marinho — Elegância e Conforto Premium",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Tec Easy Clara Azul Marinho",
+              "tituloCompleto": "Jaleco Tec Easy Clara Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Tec Easy Clara Azul Royal",
+              "tituloCompleto": "Jaleco Feminino Tec Easy Clara Azul Royal",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-azul-royal/"
+            },
+            {
+              "nome": "Tec Easy Clara Azul Ciano",
+              "tituloCompleto": "Jaleco Tec Easy Clara Azul Ciano",
+              "link": "https://www.danajalecos.com.br/jaleco-tec-easy-clara-azul-ciano"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Azul"
+        }
+      ],
+      "Cinza": [
+        {
+          "sku": "700-SD-081-000-4",
+          "nome": "Jaleco Tec Easy Clara Aço",
+          "nomeCompleto": "Jaleco Tec Easy Clara Aço",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-tec-easy-clara-aco",
+          "cores": [
+            {
+              "nome": "Tec Easy Clara Aço",
+              "tituloCompleto": "Jaleco Tec Easy Clara Aço",
+              "link": "https://www.danajalecos.com.br/jaleco-tec-easy-clara-aco"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Cinza"
+        }
+      ],
+      "Bege": [
+        {
+          "sku": "373-SD-006-000",
+          "nome": "Jaleco Manuela Bege",
+          "nomeCompleto": "Jaleco Manuela Bege",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-feminino-manuela-bege",
+          "cores": [
+            {
+              "nome": "Manuela Bege",
+              "tituloCompleto": "Jaleco Manuela Bege - Sofisticação e Conforto Premium",
+              "link": "https://www.danajalecos.com.br/jaleco-feminino-manuela-bege"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Bege"
+        }
+      ],
+      "Branco": [
+        {
+          "sku": "460-SD-052-000",
+          "nome": "Jaleco Laila Branco",
+          "nomeCompleto": "Jaleco Laila Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-laila-branco",
+          "cores": [
+            {
+              "nome": "Laila Branco",
+              "tituloCompleto": "Jaleco Laila Branco",
+              "link": "https://www.danajalecos.com.br/jaleco-laila-branco"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Branco"
+        },
+        {
+          "sku": "480-SD-052-000-5",
+          "nome": "Colete Ayla Branco",
+          "nomeCompleto": "Colete Ayla Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/colete-ayla-branco",
+          "cores": [
+            {
+              "nome": "Colete Ayla Branco",
+              "tituloCompleto": "Colete Ayla Branco",
+              "link": "https://www.danajalecos.com.br/colete-ayla-branco"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Branco"
+        },
+        {
+          "sku": "430-MG-052-000-4",
+          "nome": "Jaleco Diana Branco",
+          "nomeCompleto": "Jaleco Diana Branco",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-diana-branco",
+          "cores": [
+            {
+              "nome": "Diana Branco",
+              "tituloCompleto": "Jaleco Diana Branco",
+              "link": "https://www.danajalecos.com.br/jaleco-diana-branco"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Branco"
+        }
+      ],
+      "Cacau": [
+        {
+          "sku": "700-SD-083-000-5",
+          "nome": "Jaleco Tec Easy Clara Cacau — Elegância e Conforto Premium",
+          "nomeCompleto": "Jaleco Tec Easy Clara Cacau — Elegância e Conforto Premium",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-tec-easy-clara-cacau",
+          "cores": [
+            {
+              "nome": "Tec Easy Clara Cacau",
+              "tituloCompleto": "Jaleco Tec Easy Clara Cacau",
+              "link": "https://www.danajalecos.com.br/jaleco-tec-easy-clara-cacau"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Cacau"
+        }
+      ],
+      "Roxo": [
+        {
+          "sku": "700-SD-082-000",
+          "nome": "Jaleco Tec Easy Clara Magenta",
+          "nomeCompleto": "Jaleco Tec Easy Clara Magenta",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-tec-easy-clara-magenta",
+          "cores": [
+            {
+              "nome": "Tec Easy Clara Magenta",
+              "tituloCompleto": "Jaleco Tec Easy Clara Magenta",
+              "link": "https://www.danajalecos.com.br/jaleco-tec-easy-clara-magenta"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Roxo"
+        }
+      ],
+      "Preto": [
+        {
+          "sku": "373-SD-012-000",
+          "nome": "Jaleco Manuela Preto",
+          "nomeCompleto": "Jaleco Manuela Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-preto/",
+          "cores": [
+            {
+              "nome": "Manuela Preto",
+              "tituloCompleto": "Jaleco Manuela Preto - Elegância e Conforto Profissional",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-manuela-preto/"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Preto"
+        },
+        {
+          "sku": "430-MG-051-000-5",
+          "nome": "Jaleco Diana Preto",
+          "nomeCompleto": "Jaleco Diana Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-diana-preto",
+          "cores": [
+            {
+              "nome": "Diana Preto",
+              "tituloCompleto": "Jaleco Diana Preto",
+              "link": "https://www.danajalecos.com.br/jaleco-diana-preto"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Preto"
+        },
+        {
+          "sku": "460-SD-051-000-5",
+          "nome": "Jaleco Laila Preto",
+          "nomeCompleto": "Jaleco Laila Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/jaleco-laila-preto",
+          "cores": [
+            {
+              "nome": "Laila Preto",
+              "tituloCompleto": "Jaleco Laila Preto",
+              "link": "https://www.danajalecos.com.br/jaleco-laila-preto"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Preto"
+        },
+        {
+          "sku": "480-SD-051-000-5",
+          "nome": "Colete Ayla Preto",
+          "nomeCompleto": "Colete Ayla Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/colete-ayla-preto",
+          "cores": [
+            {
+              "nome": "Colete Ayla Preto",
+              "tituloCompleto": "Colete Ayla Preto",
+              "link": "https://www.danajalecos.com.br/colete-ayla-preto"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Preto"
+        },
+        {
+          "sku": "371-SD-012-000-5",
+          "nome": "Jaleco Manoel Preto",
+          "nomeCompleto": "Jaleco Manoel Preto",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-preto/",
+          "cores": [
+            {
+              "nome": "Manoel Preto | Modelo Clássico Masculino em Gabardine",
+              "tituloCompleto": "Jaleco Manoel Preto | Modelo Clássico Masculino em Gabardine",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-preto/"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Preto"
+        }
+      ],
+      "Verde": [
+        {
+          "sku": "700-SD-076-000-5",
+          "nome": "Jaleco Clara Verde Militar — Elegância e Conforto Premium",
+          "nomeCompleto": "Jaleco Clara Verde Militar — Elegância e Conforto Premium",
+          "tipoProduto": "Jaleco",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-verde-militar/",
+          "cores": [
+            {
+              "nome": "Tec Easy Clara Verde Militar",
+              "tituloCompleto": "Jaleco Tec Easy Clara Verde Militar",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/clara/jaleco-tec-easy-clara-verde-militar/"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Verde"
+        }
+      ]
+    }
+  }
+}
