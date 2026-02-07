@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "tipoProduto": "Touca",
+    "totalProdutos": 1,
+    "dataProcessamento": "2026-02-02T22:38:41.637Z",
+    "generosDisponiveis": [
+      "Unissex"
+    ]
+  },
+  "unissex": {
+    "totalProdutos": 1,
+    "todasCores": [
+      "Sem Cor"
+    ],
+    "cadaCor": {
+      "Sem Cor": [
+        {
+          "sku": "003-SD-012-000",
+          "nome": "Touca Preta",
+          "nomeCompleto": "Touca Preta",
+          "tipoProduto": "Touca",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/toucas/touca-preta/",
+          "cores": null,
+          "genero": "Unissex",
+          "cor": "Sem Cor"
+        }
+      ]
+    }
+  }
+}

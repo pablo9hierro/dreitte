@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "tipoProduto": "Dolma",
+    "totalProdutos": 4,
+    "dataProcessamento": "2026-02-02T22:33:17.371Z"
+  },
+  "masculino": {
+    "totalProdutos": 2,
+    "todasCores": [
+      "Branco",
+      "Preto"
+    ],
+    "cadaCor": {
+      "Branco": [
+        {
+          "sku": "350-SD-008-000",
+          "nome": "Dolma Masculina  Algodao com elastano Branco",
+          "nomeCompleto": "Dolma Masculina  Algodao com elastano Branco",
+          "tipoProduto": "Dolma",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/dolmas/masculino/dolma-masculina-algodao-branco/",
+          "cores": [
+            {
+              "nome": "com elastano Branco",
+              "tituloCompleto": "Dolma Masculina  Algodao com elastano Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/dolmas/masculino/dolma-masculina-algodao-branco/"
+            },
+            {
+              "nome": "com elastano Preto",
+              "tituloCompleto": "Dolma Masculina Algodao com elastano Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/dolmas/masculino/dolma-masculina-algodao-preto/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Branco"
+        }
+      ],
+      "Preto": [
+        {
+          "sku": "350-SD-012-000",
+          "nome": "Dolma Masculina Algodao com elastano Preto",
+          "nomeCompleto": "Dolma Masculina Algodao com elastano Preto",
+          "tipoProduto": "Dolma",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/dolmas/masculino/dolma-masculina-algodao-preto/",
+          "cores": [
+            {
+              "nome": "com elastano Preto",
+              "tituloCompleto": "Dolma Masculina Algodao com elastano Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/dolmas/masculino/dolma-masculina-algodao-preto/"
+            },
+            {
+              "nome": "com elastano Branco",
+              "tituloCompleto": "Dolma Masculina  Algodao com elastano Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/dolmas/masculino/dolma-masculina-algodao-branco/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Preto"
+        }
+      ]
+    }
+  },
+  "feminino": {
+    "totalProdutos": 2,
+    "todasCores": [
+      "Branco",
+      "Preto"
+    ],
+    "cadaCor": {
+      "Branco": [
+        {
+          "sku": "355-SD-008-000",
+          "nome": "Dolma Feminina Algodao com elastano Branco",
+          "nomeCompleto": "Dolma Feminina Algodao com elastano Branco",
+          "tipoProduto": "Dolma",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/dolmas/feminino-dolmas/dolma-feminina-algodao-branco/",
+          "cores": [
+            {
+              "nome": "com elastano Branco",
+              "tituloCompleto": "Dolma Feminina Algodao com elastano Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/dolmas/feminino-dolmas/dolma-feminina-algodao-branco/"
+            },
+            {
+              "nome": "com elastano Preto",
+              "tituloCompleto": "Dólmã Feminina Algodao com elastano Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/dolmas/feminino-dolmas/dolma-feminina-algodao-preto/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        }
+      ],
+      "Preto": [
+        {
+          "sku": "355-SD-012-000",
+          "nome": "Dólmã Feminina Algodao com elastano Preto",
+          "nomeCompleto": "Dólmã Feminina Algodao com elastano Preto",
+          "tipoProduto": "Dolma",
+          "link": "https://www.danajalecos.com.br/shop/jalecos/dolmas/feminino-dolmas/dolma-feminina-algodao-preto/",
+          "cores": [
+            {
+              "nome": "com elastano Preto",
+              "tituloCompleto": "Dólmã Feminina Algodao com elastano Preto",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/dolmas/feminino-dolmas/dolma-feminina-algodao-preto/"
+            },
+            {
+              "nome": "com elastano Branco",
+              "tituloCompleto": "Dolma Feminina Algodao com elastano Branco",
+              "link": "https://www.danajalecos.com.br/shop/jalecos/dolmas/feminino-dolmas/dolma-feminina-algodao-branco/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        }
+      ]
+    }
+  }
+}

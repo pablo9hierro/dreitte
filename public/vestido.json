@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "tipoProduto": "Vestido",
+    "totalProdutos": 4,
+    "dataProcessamento": "2026-02-03T02:01:44.290Z",
+    "generosDisponiveis": [
+      "Feminino"
+    ]
+  },
+  "feminino": {
+    "totalProdutos": 4,
+    "todasCores": [
+      "Azul",
+      "Cinza",
+      "Preto",
+      "Rosa"
+    ],
+    "cadaCor": {
+      "Azul": [
+        {
+          "sku": "401-SD-070-000",
+          "nome": "Vestido Feminino Comfy Azul Marinho",
+          "nomeCompleto": "Vestido Feminino Comfy Azul Marinho",
+          "tipoProduto": "Vestido",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-azul-marinho",
+          "cores": [
+            {
+              "nome": "Comfy Azul Marinho",
+              "tituloCompleto": "Vestido Feminino Comfy Azul Marinho",
+              "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-azul-marinho"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        }
+      ],
+      "Cinza": [
+        {
+          "sku": "401-SD-050-000",
+          "nome": "Vestido Feminino Comfy Chumbo",
+          "nomeCompleto": "Vestido Feminino Comfy Chumbo",
+          "tipoProduto": "Vestido",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-chumbo",
+          "cores": [
+            {
+              "nome": "Feminino Comfy Chumbo",
+              "tituloCompleto": "Vestido Feminino Comfy Chumbo",
+              "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-chumbo"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Cinza"
+        }
+      ],
+      "Preto": [
+        {
+          "sku": "401-SD-051-000",
+          "nome": "Vestido Feminino Comfy Preto",
+          "nomeCompleto": "Vestido Feminino Comfy Preto",
+          "tipoProduto": "Vestido",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-preto",
+          "cores": [
+            {
+              "nome": "Feminino Comfy Preto",
+              "tituloCompleto": "Vestido Feminino Comfy Preto",
+              "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-preto"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        }
+      ],
+      "Rosa": [
+        {
+          "sku": "401-SD-055-000",
+          "nome": "Vestido Feminino Comfy Rosa Nude",
+          "nomeCompleto": "Vestido Feminino Comfy Rosa Nude",
+          "tipoProduto": "Vestido",
+          "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-rosa-nude",
+          "cores": [
+            {
+              "nome": "Comfy Rosa Nude",
+              "tituloCompleto": "Vestido Feminino Comfy Rosa Nude",
+              "link": "https://www.danajalecos.com.br/vestido-feminino-comfy-rosa-nude"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        }
+      ]
+    }
+  }
+}

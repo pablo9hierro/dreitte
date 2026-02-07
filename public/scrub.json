@@ -1,0 +1,2167 @@
+{
+  "metadata": {
+    "tipoProduto": "Scrub",
+    "totalProdutos": 89,
+    "dataProcessamento": "2026-02-03T02:01:44.298Z",
+    "generosDisponiveis": [
+      "Masculino",
+      "Feminino"
+    ]
+  },
+  "masculino": {
+    "totalProdutos": 30,
+    "todasCores": [
+      "Armany",
+      "Azul",
+      "Bege",
+      "Branco",
+      "Cinza",
+      "Estampado",
+      "Preto",
+      "Verde",
+      "Vermelho"
+    ],
+    "cadaCor": {
+      "Armany": [
+        {
+          "sku": "075-MC-067-067-5",
+          "nome": "Scrub Masculino Comfy Manga Curta Armany",
+          "nomeCompleto": "Scrub Masculino Comfy Manga Curta Armany",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-comfy-masculino-scrubs/scrub-masculino-confy-armany/",
+          "cores": [
+            {
+              "nome": "Masculino Comfy Manga Curta Armany",
+              "tituloCompleto": "Scrub Masculino Comfy Manga Curta Armany",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-comfy-masculino-scrubs/scrub-masculino-confy-armany/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Armany"
+        }
+      ],
+      "Azul": [
+        {
+          "sku": "070-SD-015-015-5",
+          "nome": "Scrub Masculino Manga Curta Azul Marinho",
+          "nomeCompleto": "Scrub Masculino Manga Curta Azul Marinho",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-tradicional-masculino-scrubs/scrub-masculino-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Masculino Azul Marinho",
+              "tituloCompleto": "Scrub Masculino Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-tradicional-masculino-scrubs/scrub-masculino-azul-marinho/"
+            },
+            {
+              "nome": "Masculino Manga Curta Azul Medio",
+              "tituloCompleto": "Scrub Masculino Manga Curta Azul Medio",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-azul-medio"
+            },
+            {
+              "nome": "Masculino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "tituloCompleto": "Scrub Masculino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-liga-da-fofura-e-calca-azul-bebe"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "090-SD-072-000-5",
+          "nome": "Scrub Masculino Tec Easy Lorenzo Azul Marinho",
+          "nomeCompleto": "Scrub Masculino Tec Easy Lorenzo Azul Marinho",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-masculinotec-easy-lorenzo-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Masculino Tec Easy Lorenzo Azul Marinho",
+              "tituloCompleto": "Scrub Masculino Tec Easy Lorenzo Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-masculinotec-easy-lorenzo-azul-marinho/"
+            },
+            {
+              "nome": "Masculino Tec Easy Lorenzo Azul Royal",
+              "tituloCompleto": "Scrub Masculino Tec Easy Lorenzo Azul Royal",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-masculinotec-easy-lorenzo-azul-royal/"
+            },
+            {
+              "nome": "Masculino Tec Easy Lorenzo Azul Ciano",
+              "tituloCompleto": "Scrub Masculino Tec Easy Lorenzo Azul Ciano",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-tec-easy-lorenzo-azul-ciano"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "090-SD-080-000",
+          "nome": "Scrub Masculino Tec Easy Lorenzo Azul Ciano",
+          "nomeCompleto": "Scrub Masculino Tec Easy Lorenzo Azul Ciano",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-masculino-tec-easy-lorenzo-azul-ciano",
+          "cores": [],
+          "genero": "Masculino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "090-SD-073-000",
+          "nome": "Scrub Masculino Tec Easy Lorenzo Azul Royal",
+          "nomeCompleto": "Scrub Masculino Tec Easy Lorenzo Azul Royal",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-masculinotec-easy-lorenzo-azul-royal/",
+          "cores": [
+            {
+              "nome": "Masculino Tec Easy Lorenzo Azul Royal",
+              "tituloCompleto": "Scrub Masculino Tec Easy Lorenzo Azul Royal",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-masculinotec-easy-lorenzo-azul-royal/"
+            },
+            {
+              "nome": "Masculino Tec Easy Lorenzo Azul Marinho",
+              "tituloCompleto": "Scrub Masculino Tec Easy Lorenzo Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-masculinotec-easy-lorenzo-azul-marinho/"
+            },
+            {
+              "nome": "Masculino Tec Easy Lorenzo Azul Ciano",
+              "tituloCompleto": "Scrub Masculino Tec Easy Lorenzo Azul Ciano",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-tec-easy-lorenzo-azul-ciano"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "075-MC-053-053-5",
+          "nome": "Scrub Masculino Comfy Manga Curta Azul Marinho",
+          "nomeCompleto": "Scrub Masculino Comfy Manga Curta Azul Marinho",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-comfy-masculino-scrubs/scrub-masculino-azul-marinho-confy-manga-curta/",
+          "cores": [
+            {
+              "nome": "Masculino Comfy Manga Curta Azul Marinho",
+              "tituloCompleto": "Scrub Masculino Comfy Manga Curta Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-comfy-masculino-scrubs/scrub-masculino-azul-marinho-confy-manga-curta/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "070-SD-016-016",
+          "nome": "Scrub Masculino Manga Curta Azul Medio",
+          "nomeCompleto": "Scrub Masculino Manga Curta Azul Medio",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-azul-medio",
+          "cores": [
+            {
+              "nome": "Masculino Manga Curta Azul Medio",
+              "tituloCompleto": "Scrub Masculino Manga Curta Azul Medio",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-azul-medio"
+            },
+            {
+              "nome": "Masculino Azul Marinho",
+              "tituloCompleto": "Scrub Masculino Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-tradicional-masculino-scrubs/scrub-masculino-azul-marinho/"
+            },
+            {
+              "nome": "Masculino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "tituloCompleto": "Scrub Masculino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-liga-da-fofura-e-calca-azul-bebe"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        }
+      ],
+      "Bege": [
+        {
+          "sku": "090-SD-079-000",
+          "nome": "Scrub Masculino Tec Easy Lorenzo Camel",
+          "nomeCompleto": "Scrub Masculino Tec Easy Lorenzo Camel",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-masculinotec-easy-lorenzo-camel/",
+          "cores": [
+            {
+              "nome": "Masculino Tec Easy Lorenzo Camel",
+              "tituloCompleto": "Scrub Masculino Tec Easy Lorenzo Camel",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-masculinotec-easy-lorenzo-camel/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Bege"
+        },
+        {
+          "sku": "090-SD-083-000",
+          "nome": "Scrub Masculino Tec Easy Lorenzo Cacau",
+          "nomeCompleto": "Scrub Masculino Tec Easy Lorenzo Cacau",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-masculino-tec-easy-lorenzo-cacau",
+          "cores": [],
+          "genero": "Masculino",
+          "cor": "Bege"
+        }
+      ],
+      "Branco": [
+        {
+          "sku": "090-SD-077-000-5",
+          "nome": "Scrub Masculino Tec Easy Lorenzo Branco",
+          "nomeCompleto": "Scrub Masculino Tec Easy Lorenzo Branco",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-masculinotec-easy-lorenzo-branco/",
+          "cores": [
+            {
+              "nome": "Masculino Tec Easy Lorenzo Branco",
+              "tituloCompleto": "Scrub Masculino Tec Easy Lorenzo Branco",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-masculinotec-easy-lorenzo-branco/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "075-MC-052-052-5",
+          "nome": "Scrub Masculino Comfy Manga Curta Branco",
+          "nomeCompleto": "Scrub Masculino Comfy Manga Curta Branco",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-comfy-masculino-scrubs/scrub-masculino-branco-confy-manga-curta/",
+          "cores": [
+            {
+              "nome": "Masculino Comfy Manga Curta Branco",
+              "tituloCompleto": "Scrub Masculino Comfy Manga Curta Branco",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-comfy-masculino-scrubs/scrub-masculino-branco-confy-manga-curta/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "070-SD-008-008",
+          "nome": "Scrub Masculino Manga Curta Branco",
+          "nomeCompleto": "Scrub Masculino Manga Curta Branco",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-branco",
+          "cores": [
+            {
+              "nome": "Masculino Manga Curta Branco",
+              "tituloCompleto": "Scrub Masculino Manga Curta Branco",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-branco"
+            },
+            {
+              "nome": "Masculino Manga Curta Camiseta Dente Branco Calça Preta",
+              "tituloCompleto": "Scrub Masculino Manga Curta Camiseta Dente Branco Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-camiseta-dente-branco-calca-preta"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Branco"
+        }
+      ],
+      "Cinza": [
+        {
+          "sku": "090-SD-081-000",
+          "nome": "Scrub Masculino Tec Easy Lorenzo Aço",
+          "nomeCompleto": "Scrub Masculino Tec Easy Lorenzo Aço",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-masculino-tec-easy-lorenzo-aco",
+          "cores": [
+            {
+              "nome": "Masculino Tec Easy Lorenzo Aço",
+              "tituloCompleto": "Scrub Masculino Tec Easy Lorenzo Aço",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-tec-easy-lorenzo-aco"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Cinza"
+        },
+        {
+          "sku": "070-SD-014-014-5",
+          "nome": "Scrub Masculino Manga Curta Chumbo",
+          "nomeCompleto": "Scrub Masculino Manga Curta Chumbo",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-tradicional-masculino-scrubs/scrub-masculino-chumbo/",
+          "cores": [
+            {
+              "nome": "Masculino Chumbo",
+              "tituloCompleto": "Scrub Masculino Chumbo",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-tradicional-masculino-scrubs/scrub-masculino-chumbo/"
+            },
+            {
+              "nome": "Masculino Manga Curta Cinza",
+              "tituloCompleto": "Scrub Masculino Manga Curta Cinza",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-cinza"
+            },
+            {
+              "nome": "Masculino Camiseta Pet Love e Calça Chumbo",
+              "tituloCompleto": "Scrub Masculino Camiseta Pet Love e Calça Chumbo",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-pet-love-e-calca-chumbo"
+            },
+            {
+              "nome": "Masculino Camiseta Gatos e Calça Cinza",
+              "tituloCompleto": "Scrub Masculino Camiseta Gatos e Calça Cinza",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-gatos-e-calca-cinza"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Cinza"
+        },
+        {
+          "sku": "075-MC-050-050-5",
+          "nome": "Scrub Masculino Comfy Manga Curta Chumbo",
+          "nomeCompleto": "Scrub Masculino Comfy Manga Curta Chumbo",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-comfy-masculino-scrubs/scrub-masculino-chumbo-confy-manga-curta/",
+          "cores": [
+            {
+              "nome": "Masculino Comfy Manga Curta Chumbo",
+              "tituloCompleto": "Scrub Masculino Comfy Manga Curta Chumbo",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-comfy-masculino-scrubs/scrub-masculino-chumbo-confy-manga-curta/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Cinza"
+        },
+        {
+          "sku": "070-SD-013-013-5",
+          "nome": "Scrub Masculino Manga Curta Cinza",
+          "nomeCompleto": "Scrub Masculino Manga Curta Cinza",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-cinza",
+          "cores": [
+            {
+              "nome": "Masculino Manga Curta Cinza",
+              "tituloCompleto": "Scrub Masculino Manga Curta Cinza",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-cinza"
+            },
+            {
+              "nome": "Masculino Chumbo",
+              "tituloCompleto": "Scrub Masculino Chumbo",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-tradicional-masculino-scrubs/scrub-masculino-chumbo/"
+            },
+            {
+              "nome": "Masculino Camiseta Pet Love e Calça Chumbo",
+              "tituloCompleto": "Scrub Masculino Camiseta Pet Love e Calça Chumbo",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-pet-love-e-calca-chumbo"
+            },
+            {
+              "nome": "Masculino Camiseta Gatos e Calça Cinza",
+              "tituloCompleto": "Scrub Masculino Camiseta Gatos e Calça Cinza",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-gatos-e-calca-cinza"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Cinza"
+        }
+      ],
+      "Estampado": [
+        {
+          "sku": "070-SD-202-017-5",
+          "nome": "Scrub Masculino Camiseta Liga da Fofura e Calça Azul Bebê",
+          "nomeCompleto": "Scrub Masculino Camiseta Liga da Fofura e Calça Azul Bebê",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-liga-da-fofura-e-calca-azul-bebe",
+          "cores": [
+            {
+              "nome": "Masculino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "tituloCompleto": "Scrub Masculino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-liga-da-fofura-e-calca-azul-bebe"
+            },
+            {
+              "nome": "Masculino Manga Curta Camiseta Dente Branco Calça Preta",
+              "tituloCompleto": "Scrub Masculino Manga Curta Camiseta Dente Branco Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-camiseta-dente-branco-calca-preta"
+            },
+            {
+              "nome": "Masculino Camiseta Games e Calça Preta",
+              "tituloCompleto": "Scrub Masculino Camiseta Games e Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-games-e-calca-preta"
+            },
+            {
+              "nome": "Masculino Camiseta Pet Love e Calça Chumbo",
+              "tituloCompleto": "Scrub Masculino Camiseta Pet Love e Calça Chumbo",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-pet-love-e-calca-chumbo"
+            },
+            {
+              "nome": "Masculino Camiseta Dinos e Calça Roxa",
+              "tituloCompleto": "Scrub Masculino Camiseta Dinos e Calça Roxa",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-dinos-e-calca-roxa"
+            },
+            {
+              "nome": "Masculino Camiseta Gatos e Calça Cinza",
+              "tituloCompleto": "Scrub Masculino Camiseta Gatos e Calça Cinza",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-gatos-e-calca-cinza"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "070-SD-102-012-5",
+          "nome": "Scrub Masculino Manga Curta Camiseta Dente Branco Calça Preta",
+          "nomeCompleto": "Scrub Masculino Manga Curta Camiseta Dente Branco Calça Preta",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-camiseta-dente-branco-calca-preta",
+          "cores": [
+            {
+              "nome": "Masculino Manga Curta Camiseta Dente Branco Calça Preta",
+              "tituloCompleto": "Scrub Masculino Manga Curta Camiseta Dente Branco Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-camiseta-dente-branco-calca-preta"
+            },
+            {
+              "nome": "Masculino Camiseta Games e Calça Preta",
+              "tituloCompleto": "Scrub Masculino Camiseta Games e Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-games-e-calca-preta"
+            },
+            {
+              "nome": "Masculino Camiseta Pet Love e Calça Chumbo",
+              "tituloCompleto": "Scrub Masculino Camiseta Pet Love e Calça Chumbo",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-pet-love-e-calca-chumbo"
+            },
+            {
+              "nome": "Masculino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "tituloCompleto": "Scrub Masculino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-liga-da-fofura-e-calca-azul-bebe"
+            },
+            {
+              "nome": "Masculino Camiseta Dinos e Calça Roxa",
+              "tituloCompleto": "Scrub Masculino Camiseta Dinos e Calça Roxa",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-dinos-e-calca-roxa"
+            },
+            {
+              "nome": "Masculino Camiseta Gatos e Calça Cinza",
+              "tituloCompleto": "Scrub Masculino Camiseta Gatos e Calça Cinza",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-gatos-e-calca-cinza"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "070-SD-230-014",
+          "nome": "Scrub Masculino Camiseta Pet Love e Calça Chumbo",
+          "nomeCompleto": "Scrub Masculino Camiseta Pet Love e Calça Chumbo",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-pet-love-e-calca-chumbo",
+          "cores": [
+            {
+              "nome": "Masculino Camiseta Pet Love e Calça Chumbo",
+              "tituloCompleto": "Scrub Masculino Camiseta Pet Love e Calça Chumbo",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-pet-love-e-calca-chumbo"
+            },
+            {
+              "nome": "Masculino Manga Curta Camiseta Dente Branco Calça Preta",
+              "tituloCompleto": "Scrub Masculino Manga Curta Camiseta Dente Branco Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-camiseta-dente-branco-calca-preta"
+            },
+            {
+              "nome": "Masculino Camiseta Games e Calça Preta",
+              "tituloCompleto": "Scrub Masculino Camiseta Games e Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-games-e-calca-preta"
+            },
+            {
+              "nome": "Masculino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "tituloCompleto": "Scrub Masculino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-liga-da-fofura-e-calca-azul-bebe"
+            },
+            {
+              "nome": "Masculino Camiseta Dinos e Calça Roxa",
+              "tituloCompleto": "Scrub Masculino Camiseta Dinos e Calça Roxa",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-dinos-e-calca-roxa"
+            },
+            {
+              "nome": "Masculino Camiseta Gatos e Calça Cinza",
+              "tituloCompleto": "Scrub Masculino Camiseta Gatos e Calça Cinza",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-gatos-e-calca-cinza"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "070-SD-154-013",
+          "nome": "Scrub Masculino Camiseta Gatos e Calça Cinza",
+          "nomeCompleto": "Scrub Masculino Camiseta Gatos e Calça Cinza",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-gatos-e-calca-cinza",
+          "cores": [
+            {
+              "nome": "Masculino Camiseta Gatos e Calça Cinza",
+              "tituloCompleto": "Scrub Masculino Camiseta Gatos e Calça Cinza",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-gatos-e-calca-cinza"
+            },
+            {
+              "nome": "Masculino Manga Curta Camiseta Dente Branco Calça Preta",
+              "tituloCompleto": "Scrub Masculino Manga Curta Camiseta Dente Branco Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-camiseta-dente-branco-calca-preta"
+            },
+            {
+              "nome": "Masculino Camiseta Games e Calça Preta",
+              "tituloCompleto": "Scrub Masculino Camiseta Games e Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-games-e-calca-preta"
+            },
+            {
+              "nome": "Masculino Camiseta Pet Love e Calça Chumbo",
+              "tituloCompleto": "Scrub Masculino Camiseta Pet Love e Calça Chumbo",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-pet-love-e-calca-chumbo"
+            },
+            {
+              "nome": "Masculino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "tituloCompleto": "Scrub Masculino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-liga-da-fofura-e-calca-azul-bebe"
+            },
+            {
+              "nome": "Masculino Camiseta Dinos e Calça Roxa",
+              "tituloCompleto": "Scrub Masculino Camiseta Dinos e Calça Roxa",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-dinos-e-calca-roxa"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "070-SD-207-012",
+          "nome": "Scrub Masculino Camiseta Games e Calça Preta",
+          "nomeCompleto": "Scrub Masculino Camiseta Games e Calça Preta",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-games-e-calca-preta",
+          "cores": [
+            {
+              "nome": "Masculino Camiseta Games e Calça Preta",
+              "tituloCompleto": "Scrub Masculino Camiseta Games e Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-games-e-calca-preta"
+            },
+            {
+              "nome": "Masculino Manga Curta Camiseta Dente Branco Calça Preta",
+              "tituloCompleto": "Scrub Masculino Manga Curta Camiseta Dente Branco Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-camiseta-dente-branco-calca-preta"
+            },
+            {
+              "nome": "Masculino Camiseta Pet Love e Calça Chumbo",
+              "tituloCompleto": "Scrub Masculino Camiseta Pet Love e Calça Chumbo",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-pet-love-e-calca-chumbo"
+            },
+            {
+              "nome": "Masculino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "tituloCompleto": "Scrub Masculino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-liga-da-fofura-e-calca-azul-bebe"
+            },
+            {
+              "nome": "Masculino Camiseta Dinos e Calça Roxa",
+              "tituloCompleto": "Scrub Masculino Camiseta Dinos e Calça Roxa",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-dinos-e-calca-roxa"
+            },
+            {
+              "nome": "Masculino Camiseta Gatos e Calça Cinza",
+              "tituloCompleto": "Scrub Masculino Camiseta Gatos e Calça Cinza",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-gatos-e-calca-cinza"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "070-SD-149-018",
+          "nome": "Scrub Masculino Camiseta Dinos e Calça Roxa",
+          "nomeCompleto": "Scrub Masculino Camiseta Dinos e Calça Roxa",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-dinos-e-calca-roxa",
+          "cores": [
+            {
+              "nome": "Masculino Camiseta Dinos e Calça Roxa",
+              "tituloCompleto": "Scrub Masculino Camiseta Dinos e Calça Roxa",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-dinos-e-calca-roxa"
+            },
+            {
+              "nome": "Masculino Manga Curta Camiseta Dente Branco Calça Preta",
+              "tituloCompleto": "Scrub Masculino Manga Curta Camiseta Dente Branco Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-camiseta-dente-branco-calca-preta"
+            },
+            {
+              "nome": "Masculino Camiseta Games e Calça Preta",
+              "tituloCompleto": "Scrub Masculino Camiseta Games e Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-games-e-calca-preta"
+            },
+            {
+              "nome": "Masculino Camiseta Pet Love e Calça Chumbo",
+              "tituloCompleto": "Scrub Masculino Camiseta Pet Love e Calça Chumbo",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-pet-love-e-calca-chumbo"
+            },
+            {
+              "nome": "Masculino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "tituloCompleto": "Scrub Masculino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-liga-da-fofura-e-calca-azul-bebe"
+            },
+            {
+              "nome": "Masculino Camiseta Gatos e Calça Cinza",
+              "tituloCompleto": "Scrub Masculino Camiseta Gatos e Calça Cinza",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-camiseta-gatos-e-calca-cinza"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Estampado"
+        }
+      ],
+      "Preto": [
+        {
+          "sku": "090-SD-075-000",
+          "nome": "Scrub Masculino Tec Easy Lorenzo Preto",
+          "nomeCompleto": "Scrub Masculino Tec Easy Lorenzo Preto",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-masculinotec-easy-lorenzo-preto/",
+          "cores": [
+            {
+              "nome": "Masculino Tec Easy Lorenzo Preto",
+              "tituloCompleto": "Scrub Masculino Tec Easy Lorenzo Preto",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-masculinotec-easy-lorenzo-preto/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "075-SD-051-051-5",
+          "nome": "Scrub Masculino Comfy Manga Curta Preto",
+          "nomeCompleto": "Scrub Masculino Comfy Manga Curta Preto",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-comfy-masculino-scrubs/scrub-masculino-preto-confy-manga-curta/",
+          "cores": [
+            {
+              "nome": "Masculino Comfy Manga Curta Preto",
+              "tituloCompleto": "Scrub Masculino Comfy Manga Curta Preto",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-comfy-masculino-scrubs/scrub-masculino-preto-confy-manga-curta/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "070-SD-012-012",
+          "nome": "Scrub Masculino Manga Curta Preto",
+          "nomeCompleto": "Scrub Masculino Manga Curta Preto",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-tradicional-masculino-scrubs/scrub-masculino-preto/",
+          "cores": [
+            {
+              "nome": "Masculino Manga Curta Preto",
+              "tituloCompleto": "Scrub Masculino Manga Curta Preto",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-tradicional-masculino-scrubs/scrub-masculino-preto/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Preto"
+        }
+      ],
+      "Verde": [
+        {
+          "sku": "070-SD-009-009",
+          "nome": "Scrub Masculino Manga Curta Verde Claro",
+          "nomeCompleto": "Scrub Masculino Manga Curta Verde Claro",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-verde-claro",
+          "cores": [
+            {
+              "nome": "Masculino Manga Curta Verde Claro",
+              "tituloCompleto": "Scrub Masculino Manga Curta Verde Claro",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-verde-claro"
+            },
+            {
+              "nome": "Masculino Manga Curta Verde Escuro",
+              "tituloCompleto": "Scrub Masculino Manga Curta Verde Escuro",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-verde-escuro"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Verde"
+        },
+        {
+          "sku": "090-SD-076-000-5",
+          "nome": "Scrub Masculino Tec Easy Lorenzo Verde Militar",
+          "nomeCompleto": "Scrub Masculino Tec Easy Lorenzo Verde Militar",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-masculinotec-easy-lorenzo-verde-militar/",
+          "cores": [
+            {
+              "nome": "Masculino Tec Easy Lorenzo Verde Militar",
+              "tituloCompleto": "Scrub Masculino Tec Easy Lorenzo Verde Militar",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-masculinotec-easy-lorenzo-verde-militar/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Verde"
+        },
+        {
+          "sku": "070-SD-010-010",
+          "nome": "Scrub Masculino Manga Curta Verde Escuro",
+          "nomeCompleto": "Scrub Masculino Manga Curta Verde Escuro",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-verde-escuro",
+          "cores": [
+            {
+              "nome": "Masculino Manga Curta Verde Escuro",
+              "tituloCompleto": "Scrub Masculino Manga Curta Verde Escuro",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-verde-escuro"
+            },
+            {
+              "nome": "Masculino Manga Curta Verde Claro",
+              "tituloCompleto": "Scrub Masculino Manga Curta Verde Claro",
+              "link": "https://www.danajalecos.com.br/scrub-masculino-manga-curta-verde-claro"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Verde"
+        }
+      ],
+      "Vermelho": [
+        {
+          "sku": "070-SD-002-002-5",
+          "nome": "Scrub Masculino Manga Curta Bordô",
+          "nomeCompleto": "Scrub Masculino Manga Curta Bordô",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-tradicional-masculino-scrubs/scrub-masculino-bordo/",
+          "cores": [
+            {
+              "nome": "Masculino Manga Curta Bordô",
+              "tituloCompleto": "Scrub Masculino Manga Curta Bordô",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-tradicional-masculino-scrubs/scrub-masculino-bordo/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Vermelho"
+        },
+        {
+          "sku": "075-MC-060-060-5",
+          "nome": "Scrub Masculino Comfy Manga Curta Bordô",
+          "nomeCompleto": "Scrub Masculino Comfy Manga Curta Bordô",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-comfy-masculino-scrubs/scrub-masculino-bordo-confy-manga-curta/",
+          "cores": [
+            {
+              "nome": "Masculino Comfy Manga Curta Bordô",
+              "tituloCompleto": "Scrub Masculino Comfy Manga Curta Bordô",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-comfy-masculino-scrubs/scrub-masculino-bordo-confy-manga-curta/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Vermelho"
+        }
+      ]
+    }
+  },
+  "feminino": {
+    "totalProdutos": 59,
+    "todasCores": [
+      "Amarelo",
+      "Armany",
+      "Azul",
+      "Bege",
+      "Branco",
+      "Cinza",
+      "Estampado",
+      "Laranja",
+      "Preto",
+      "Rosa",
+      "Roxo",
+      "Verde",
+      "Vermelho"
+    ],
+    "cadaCor": {
+      "Amarelo": [
+        {
+          "sku": "065-MC-059-059",
+          "nome": "Scrub Feminino Comfy Manga Curta Amarelo",
+          "nomeCompleto": "Scrub Feminino Comfy Manga Curta Amarelo",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-amarelo-confy-manga-curta/",
+          "cores": [
+            {
+              "nome": "Feminino Comfy Manga Curta Amarelo",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Amarelo",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-amarelo-confy-manga-curta/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Amarelo"
+        }
+      ],
+      "Armany": [
+        {
+          "sku": "065-MC-067-067-5",
+          "nome": "Scrub Feminino Comfy Manga Curta Armany",
+          "nomeCompleto": "Scrub Feminino Comfy Manga Curta Armany",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-confy-armany/",
+          "cores": [
+            {
+              "nome": "Feminino Comfy Manga Curta Armany",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Armany",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-confy-armany/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Armany"
+        }
+      ],
+      "Azul": [
+        {
+          "sku": "060-SD-015-015-5",
+          "nome": "Scrub Feminino Manga Curta Azul Marinho",
+          "nomeCompleto": "Scrub Feminino Manga Curta Azul Marinho",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Feminino Manga Curta Azul Marinho",
+              "tituloCompleto": "Scrub Feminino Manga Curta Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Manga Curta Azul Bebê",
+              "tituloCompleto": "Scrub Feminino Manga Curta Azul Bebê",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-azul-bebe"
+            },
+            {
+              "nome": "Feminino Manga Curta Azul Médio",
+              "tituloCompleto": "Scrub Feminino Manga Curta Azul Médio",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-azul-medio/"
+            },
+            {
+              "nome": "Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-liga-da-fofura-e-calca-azul-bebe"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "065-MC-053-053-5",
+          "nome": "Scrub Feminino Comfy Manga Curta Azul Marinho",
+          "nomeCompleto": "Scrub Feminino Comfy Manga Curta Azul Marinho",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-azul-marinho-confy-manga-curta/",
+          "cores": [
+            {
+              "nome": "Feminino Comfy Manga Curta Azul Marinho",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-azul-marinho-confy-manga-curta/"
+            },
+            {
+              "nome": "Feminino Comfy Manga Curta Azul Bebê",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Azul Bebê",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-azul-bebe-confy-manga-curta/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "080-SD-073-000",
+          "nome": "Scrub Feminino Tec Easy Loren Azul Royal",
+          "nomeCompleto": "Scrub Feminino Tec Easy Loren Azul Royal",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-azul-royal/",
+          "cores": [
+            {
+              "nome": "Feminino Tec Easy Loren Azul Royal",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren Azul Royal",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-azul-royal/"
+            },
+            {
+              "nome": "Feminino Tec Easy Loren  Azul Marinho",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren  Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Tec Easy Loren Azul Ciano",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren Azul Ciano",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-tec-easy-loren-azul-ciano"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "610-MC-113-113-5",
+          "nome": "Scrub Feminino Glamour Azul Marinho",
+          "nomeCompleto": "Scrub Feminino Glamour Azul Marinho",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-glamour-azul-marinho",
+          "cores": [
+            {
+              "nome": "Feminino Glamour Azul Marinho",
+              "tituloCompleto": "Scrub Feminino Glamour Azul Marinho",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-glamour-azul-marinho"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "080-SD-080-000-5",
+          "nome": "Scrub Feminino Tec Easy Loren Azul Ciano",
+          "nomeCompleto": "Scrub Feminino Tec Easy Loren Azul Ciano",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-tec-easy-loren-azul-ciano",
+          "cores": [
+            {
+              "nome": "Feminino Tec Easy Loren Azul Ciano",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren Azul Ciano",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-tec-easy-loren-azul-ciano"
+            },
+            {
+              "nome": "Feminino Tec Easy Loren Azul Royal",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren Azul Royal",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-azul-royal/"
+            },
+            {
+              "nome": "Feminino Tec Easy Loren  Azul Marinho",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren  Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-azul-marinho/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "080-SD-072-000-5",
+          "nome": "Scrub Feminino Tec Easy Loren  Azul Marinho",
+          "nomeCompleto": "Scrub Feminino Tec Easy Loren  Azul Marinho",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Feminino Tec Easy Loren  Azul Marinho",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren  Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Tec Easy Loren Azul Royal",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren Azul Royal",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-azul-royal/"
+            },
+            {
+              "nome": "Feminino Tec Easy Loren Azul Ciano",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren Azul Ciano",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-tec-easy-loren-azul-ciano"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "065-MC-056-056",
+          "nome": "Scrub Feminino Comfy Manga Curta Azul Bebê",
+          "nomeCompleto": "Scrub Feminino Comfy Manga Curta Azul Bebê",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-azul-bebe-confy-manga-curta/",
+          "cores": [
+            {
+              "nome": "Feminino Comfy Manga Curta Azul Bebê",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Azul Bebê",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-azul-bebe-confy-manga-curta/"
+            },
+            {
+              "nome": "Feminino Comfy Manga Curta Azul Marinho",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-azul-marinho-confy-manga-curta/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "605-MC-053-053",
+          "nome": "Scrub Feminino Princess Azul Marinho",
+          "nomeCompleto": "Scrub Feminino Princess Azul Marinho",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-princess-azul-marinho",
+          "cores": [
+            {
+              "nome": "Feminino Princess Azul Marinho",
+              "tituloCompleto": "Scrub Feminino Princess Azul Marinho",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-princess-azul-marinho"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "060-SD-017-017",
+          "nome": "Scrub Feminino Manga Curta Azul Bebê",
+          "nomeCompleto": "Scrub Feminino Manga Curta Azul Bebê",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-azul-bebe",
+          "cores": [
+            {
+              "nome": "Feminino Manga Curta Azul Bebê",
+              "tituloCompleto": "Scrub Feminino Manga Curta Azul Bebê",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-azul-bebe"
+            },
+            {
+              "nome": "Feminino Manga Curta Azul Marinho",
+              "tituloCompleto": "Scrub Feminino Manga Curta Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Manga Curta Azul Médio",
+              "tituloCompleto": "Scrub Feminino Manga Curta Azul Médio",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-azul-medio/"
+            },
+            {
+              "nome": "Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-liga-da-fofura-e-calca-azul-bebe"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "060-SD-016-016",
+          "nome": "Scrub Feminino Manga Curta Azul Médio",
+          "nomeCompleto": "Scrub Feminino Manga Curta Azul Médio",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-azul-medio/",
+          "cores": [
+            {
+              "nome": "Feminino Manga Curta Azul Médio",
+              "tituloCompleto": "Scrub Feminino Manga Curta Azul Médio",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-azul-medio/"
+            },
+            {
+              "nome": "Feminino Manga Curta Azul Marinho",
+              "tituloCompleto": "Scrub Feminino Manga Curta Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-azul-marinho/"
+            },
+            {
+              "nome": "Feminino Manga Curta Azul Bebê",
+              "tituloCompleto": "Scrub Feminino Manga Curta Azul Bebê",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-azul-bebe"
+            },
+            {
+              "nome": "Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-liga-da-fofura-e-calca-azul-bebe"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        }
+      ],
+      "Bege": [
+        {
+          "sku": "065-MC-054-054",
+          "nome": "Scrub Feminino Comfy Manga Curta Bege Aveia",
+          "nomeCompleto": "Scrub Feminino Comfy Manga Curta Bege Aveia",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-bege-confy-manga-curta/",
+          "cores": [
+            {
+              "nome": "Feminino Comfy Manga Curta Bege Aveia",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Bege Aveia",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-bege-confy-manga-curta/"
+            },
+            {
+              "nome": "Feminino Comfy Manga Curta Rosa Nude",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Rosa Nude",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-rosa-nude-confy-manga-curta/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Bege"
+        },
+        {
+          "sku": "060-SD-006-006-5",
+          "nome": "Scrub Feminino Manga Curta Bege",
+          "nomeCompleto": "Scrub Feminino Manga Curta Bege",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-bege/",
+          "cores": [
+            {
+              "nome": "Feminino Manga Curta Bege",
+              "tituloCompleto": "Scrub Feminino Manga Curta Bege",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-bege/"
+            },
+            {
+              "nome": "Feminino Manga Curta Rosa Nude",
+              "tituloCompleto": "Scrub Feminino Manga Curta Rosa Nude",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-rosa-nude/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Bege"
+        },
+        {
+          "sku": "605-MC-054-054",
+          "nome": "Scrub Feminino Princess Bege",
+          "nomeCompleto": "Scrub Feminino Princess Bege",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-princess-bege",
+          "cores": [
+            {
+              "nome": "Feminino Princess Bege",
+              "tituloCompleto": "Scrub Feminino Princess Bege",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-princess-bege"
+            },
+            {
+              "nome": "Feminino Princess Rosa Nude",
+              "tituloCompleto": "Scrub Feminino Princess Rosa Nude",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-princess-rosa-nude"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Bege"
+        },
+        {
+          "sku": "080-SD-079-000",
+          "nome": "Scrub Feminino Tec Easy Loren  Camel",
+          "nomeCompleto": "Scrub Feminino Tec Easy Loren  Camel",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-camel/",
+          "cores": [
+            {
+              "nome": "Feminino Tec Easy Loren  Camel",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren  Camel",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-camel/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Bege"
+        },
+        {
+          "sku": "610-MC-109-109",
+          "nome": "Scrub Feminino Glamour Camel",
+          "nomeCompleto": "Scrub Feminino Glamour Camel",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-glamour-camel",
+          "cores": [
+            {
+              "nome": "Feminino Glamour Camel",
+              "tituloCompleto": "Scrub Feminino Glamour Camel",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-glamour-camel"
+            },
+            {
+              "nome": "Feminino Glamour Rosa Nude",
+              "tituloCompleto": "Scrub Feminino Glamour Rosa Nude",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-glamour-rosa-nude"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Bege"
+        },
+        {
+          "sku": "080-SD-083-000",
+          "nome": "Scrub Feminino Tec Easy Loren Cacau",
+          "nomeCompleto": "Scrub Feminino Tec Easy Loren Cacau",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-tec-easy-loren-cacau",
+          "cores": [],
+          "genero": "Feminino",
+          "cor": "Bege"
+        }
+      ],
+      "Branco": [
+        {
+          "sku": "605-MC-008-008",
+          "nome": "Scrub Feminino Princess Branco",
+          "nomeCompleto": "Scrub Feminino Princess Branco",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-princess-branco",
+          "cores": [
+            {
+              "nome": "Feminino Princess Branco",
+              "tituloCompleto": "Scrub Feminino Princess Branco",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-princess-branco"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "065-MC-052-052-5",
+          "nome": "Scrub Feminino Comfy Manga Curta Branco",
+          "nomeCompleto": "Scrub Feminino Comfy Manga Curta Branco",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-branco-confy-manga-curta/",
+          "cores": [
+            {
+              "nome": "Feminino Comfy Manga Curta Branco",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Branco",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-branco-confy-manga-curta/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "060-SD-008-008",
+          "nome": "Scrub Feminino Manga Curta Branco",
+          "nomeCompleto": "Scrub Feminino Manga Curta Branco",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-branco/",
+          "cores": [
+            {
+              "nome": "Feminino Manga Curta Branco",
+              "tituloCompleto": "Scrub Feminino Manga Curta Branco",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-branco/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "080-SD-077-000",
+          "nome": "Scrub Feminino Tec Easy Loren Branco",
+          "nomeCompleto": "Scrub Feminino Tec Easy Loren Branco",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-branco/",
+          "cores": [
+            {
+              "nome": "Feminino Tec Easy Loren Branco",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren Branco",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-branco/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "610-MC-108-108",
+          "nome": "Scrub Feminino Glamour Off White",
+          "nomeCompleto": "Scrub Feminino Glamour Off White",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/glamour/scrub-feminino-glamour-off-white/",
+          "cores": [
+            {
+              "nome": "Feminino Glamour Off White",
+              "tituloCompleto": "Scrub Feminino Glamour Off White",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/glamour/scrub-feminino-glamour-off-white/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        }
+      ],
+      "Cinza": [
+        {
+          "sku": "080-SD-081-000",
+          "nome": "Scrub Feminino Tec Easy Loren Aço",
+          "nomeCompleto": "Scrub Feminino Tec Easy Loren Aço",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-tec-easy-loren-aco",
+          "cores": [
+            {
+              "nome": "Feminino Tec Easy Loren Aço",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren Aço",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-tec-easy-loren-aco"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Cinza"
+        },
+        {
+          "sku": "060-SD-014-014",
+          "nome": "Scrub Feminino Manga Curta Chumbo",
+          "nomeCompleto": "Scrub Feminino Manga Curta Chumbo",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-chumbo/",
+          "cores": [
+            {
+              "nome": "Feminino Manga Curta Chumbo",
+              "tituloCompleto": "Scrub Feminino Manga Curta Chumbo",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-chumbo/"
+            },
+            {
+              "nome": "Feminino Camiseta Pet Love e Calça Chumbo",
+              "tituloCompleto": "Scrub Feminino Camiseta Pet Love e Calça Chumbo",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-pet-love-e-calca-chumbo"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Cinza"
+        },
+        {
+          "sku": "065-MC-050-050-5",
+          "nome": "Scrub Feminino Comfy Manga Curta Chumbo",
+          "nomeCompleto": "Scrub Feminino Comfy Manga Curta Chumbo",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-chumbo-confy/",
+          "cores": [
+            {
+              "nome": "Feminino Comfy Manga Curta Chumbo",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Chumbo",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-chumbo-confy/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Cinza"
+        },
+        {
+          "sku": "605-MC-050-050",
+          "nome": "Scrub Feminino Princess Chumbo",
+          "nomeCompleto": "Scrub Feminino Princess Chumbo",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-princess-chumbo",
+          "cores": [
+            {
+              "nome": "Feminino Princess Chumbo",
+              "tituloCompleto": "Scrub Feminino Princess Chumbo",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-princess-chumbo"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Cinza"
+        }
+      ],
+      "Estampado": [
+        {
+          "sku": "060-SD-202-017",
+          "nome": "Scrub Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+          "nomeCompleto": "Scrub Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-liga-da-fofura-e-calca-azul-bebe",
+          "cores": [
+            {
+              "nome": "Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-liga-da-fofura-e-calca-azul-bebe"
+            },
+            {
+              "nome": "Feminino Camiseta Games e Calça Preta",
+              "tituloCompleto": "Scrub Feminino Camiseta Games e Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-games-e-calca-preta"
+            },
+            {
+              "nome": "Feminino Camiseta Dinos e Calça Roxa",
+              "tituloCompleto": "Scrub Feminino Camiseta Dinos e Calça Roxa",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-dinos-e-calca-roxa"
+            },
+            {
+              "nome": "Feminino Camiseta Pet Love e Calça Chumbo",
+              "tituloCompleto": "Scrub Feminino Camiseta Pet Love e Calça Chumbo",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-pet-love-e-calca-chumbo"
+            },
+            {
+              "nome": "Feminino Camiseta Fazendinha e Calça Verde Escuro",
+              "tituloCompleto": "Scrub Feminino Camiseta Fazendinha e Calça Verde Escuro",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fazendinha-e-calca-verde-escuro"
+            },
+            {
+              "nome": "Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-rosa-bebe"
+            },
+            {
+              "nome": "Feminino Camiseta Fada do Dente e Calça Lilás",
+              "tituloCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Lilás",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-lilas"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "060-SD-230-014",
+          "nome": "Scrub Feminino Camiseta Pet Love e Calça Chumbo",
+          "nomeCompleto": "Scrub Feminino Camiseta Pet Love e Calça Chumbo",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-pet-love-e-calca-chumbo",
+          "cores": [
+            {
+              "nome": "Feminino Camiseta Pet Love e Calça Chumbo",
+              "tituloCompleto": "Scrub Feminino Camiseta Pet Love e Calça Chumbo",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-pet-love-e-calca-chumbo"
+            },
+            {
+              "nome": "Feminino Camiseta Games e Calça Preta",
+              "tituloCompleto": "Scrub Feminino Camiseta Games e Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-games-e-calca-preta"
+            },
+            {
+              "nome": "Feminino Camiseta Dinos e Calça Roxa",
+              "tituloCompleto": "Scrub Feminino Camiseta Dinos e Calça Roxa",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-dinos-e-calca-roxa"
+            },
+            {
+              "nome": "Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-liga-da-fofura-e-calca-azul-bebe"
+            },
+            {
+              "nome": "Feminino Camiseta Fazendinha e Calça Verde Escuro",
+              "tituloCompleto": "Scrub Feminino Camiseta Fazendinha e Calça Verde Escuro",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fazendinha-e-calca-verde-escuro"
+            },
+            {
+              "nome": "Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-rosa-bebe"
+            },
+            {
+              "nome": "Feminino Camiseta Fada do Dente e Calça Lilás",
+              "tituloCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Lilás",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-lilas"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "060-SD-137-003",
+          "nome": "Scrub Feminino Camiseta Fada do Dente e Calça Lilás",
+          "nomeCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Lilás",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-lilas",
+          "cores": [
+            {
+              "nome": "Feminino Camiseta Fada do Dente e Calça Lilás",
+              "tituloCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Lilás",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-lilas"
+            },
+            {
+              "nome": "Feminino Camiseta Games e Calça Preta",
+              "tituloCompleto": "Scrub Feminino Camiseta Games e Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-games-e-calca-preta"
+            },
+            {
+              "nome": "Feminino Camiseta Dinos e Calça Roxa",
+              "tituloCompleto": "Scrub Feminino Camiseta Dinos e Calça Roxa",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-dinos-e-calca-roxa"
+            },
+            {
+              "nome": "Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-liga-da-fofura-e-calca-azul-bebe"
+            },
+            {
+              "nome": "Feminino Camiseta Pet Love e Calça Chumbo",
+              "tituloCompleto": "Scrub Feminino Camiseta Pet Love e Calça Chumbo",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-pet-love-e-calca-chumbo"
+            },
+            {
+              "nome": "Feminino Camiseta Fazendinha e Calça Verde Escuro",
+              "tituloCompleto": "Scrub Feminino Camiseta Fazendinha e Calça Verde Escuro",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fazendinha-e-calca-verde-escuro"
+            },
+            {
+              "nome": "Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-rosa-bebe"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "060-SD-207-012",
+          "nome": "Scrub Feminino Camiseta Games e Calça Preta",
+          "nomeCompleto": "Scrub Feminino Camiseta Games e Calça Preta",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-games-e-calca-preta",
+          "cores": [
+            {
+              "nome": "Feminino Camiseta Games e Calça Preta",
+              "tituloCompleto": "Scrub Feminino Camiseta Games e Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-games-e-calca-preta"
+            },
+            {
+              "nome": "Feminino Camiseta Dinos e Calça Roxa",
+              "tituloCompleto": "Scrub Feminino Camiseta Dinos e Calça Roxa",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-dinos-e-calca-roxa"
+            },
+            {
+              "nome": "Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-liga-da-fofura-e-calca-azul-bebe"
+            },
+            {
+              "nome": "Feminino Camiseta Pet Love e Calça Chumbo",
+              "tituloCompleto": "Scrub Feminino Camiseta Pet Love e Calça Chumbo",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-pet-love-e-calca-chumbo"
+            },
+            {
+              "nome": "Feminino Camiseta Fazendinha e Calça Verde Escuro",
+              "tituloCompleto": "Scrub Feminino Camiseta Fazendinha e Calça Verde Escuro",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fazendinha-e-calca-verde-escuro"
+            },
+            {
+              "nome": "Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-rosa-bebe"
+            },
+            {
+              "nome": "Feminino Camiseta Fada do Dente e Calça Lilás",
+              "tituloCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Lilás",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-lilas"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "060-SD-137-005",
+          "nome": "Scrub Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+          "nomeCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-rosa-bebe",
+          "cores": [
+            {
+              "nome": "Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-rosa-bebe"
+            },
+            {
+              "nome": "Feminino Camiseta Games e Calça Preta",
+              "tituloCompleto": "Scrub Feminino Camiseta Games e Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-games-e-calca-preta"
+            },
+            {
+              "nome": "Feminino Camiseta Dinos e Calça Roxa",
+              "tituloCompleto": "Scrub Feminino Camiseta Dinos e Calça Roxa",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-dinos-e-calca-roxa"
+            },
+            {
+              "nome": "Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-liga-da-fofura-e-calca-azul-bebe"
+            },
+            {
+              "nome": "Feminino Camiseta Pet Love e Calça Chumbo",
+              "tituloCompleto": "Scrub Feminino Camiseta Pet Love e Calça Chumbo",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-pet-love-e-calca-chumbo"
+            },
+            {
+              "nome": "Feminino Camiseta Fazendinha e Calça Verde Escuro",
+              "tituloCompleto": "Scrub Feminino Camiseta Fazendinha e Calça Verde Escuro",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fazendinha-e-calca-verde-escuro"
+            },
+            {
+              "nome": "Feminino Camiseta Fada do Dente e Calça Lilás",
+              "tituloCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Lilás",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-lilas"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "060-SD-149-018",
+          "nome": "Scrub Feminino Camiseta Dinos e Calça Roxa",
+          "nomeCompleto": "Scrub Feminino Camiseta Dinos e Calça Roxa",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-dinos-e-calca-roxa",
+          "cores": [
+            {
+              "nome": "Feminino Camiseta Dinos e Calça Roxa",
+              "tituloCompleto": "Scrub Feminino Camiseta Dinos e Calça Roxa",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-dinos-e-calca-roxa"
+            },
+            {
+              "nome": "Feminino Camiseta Games e Calça Preta",
+              "tituloCompleto": "Scrub Feminino Camiseta Games e Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-games-e-calca-preta"
+            },
+            {
+              "nome": "Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-liga-da-fofura-e-calca-azul-bebe"
+            },
+            {
+              "nome": "Feminino Camiseta Pet Love e Calça Chumbo",
+              "tituloCompleto": "Scrub Feminino Camiseta Pet Love e Calça Chumbo",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-pet-love-e-calca-chumbo"
+            },
+            {
+              "nome": "Feminino Camiseta Fazendinha e Calça Verde Escuro",
+              "tituloCompleto": "Scrub Feminino Camiseta Fazendinha e Calça Verde Escuro",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fazendinha-e-calca-verde-escuro"
+            },
+            {
+              "nome": "Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-rosa-bebe"
+            },
+            {
+              "nome": "Feminino Camiseta Fada do Dente e Calça Lilás",
+              "tituloCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Lilás",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-lilas"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "060-SD-200-010-3",
+          "nome": "Scrub Feminino Camiseta Fazendinha e Calça Verde Escuro",
+          "nomeCompleto": "Scrub Feminino Camiseta Fazendinha e Calça Verde Escuro",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fazendinha-e-calca-verde-escuro",
+          "cores": [
+            {
+              "nome": "Feminino Camiseta Fazendinha e Calça Verde Escuro",
+              "tituloCompleto": "Scrub Feminino Camiseta Fazendinha e Calça Verde Escuro",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fazendinha-e-calca-verde-escuro"
+            },
+            {
+              "nome": "Feminino Camiseta Games e Calça Preta",
+              "tituloCompleto": "Scrub Feminino Camiseta Games e Calça Preta",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-games-e-calca-preta"
+            },
+            {
+              "nome": "Feminino Camiseta Dinos e Calça Roxa",
+              "tituloCompleto": "Scrub Feminino Camiseta Dinos e Calça Roxa",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-dinos-e-calca-roxa"
+            },
+            {
+              "nome": "Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Liga da Fofura e Calça Azul Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-liga-da-fofura-e-calca-azul-bebe"
+            },
+            {
+              "nome": "Feminino Camiseta Pet Love e Calça Chumbo",
+              "tituloCompleto": "Scrub Feminino Camiseta Pet Love e Calça Chumbo",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-pet-love-e-calca-chumbo"
+            },
+            {
+              "nome": "Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-rosa-bebe"
+            },
+            {
+              "nome": "Feminino Camiseta Fada do Dente e Calça Lilás",
+              "tituloCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Lilás",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-lilas"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Estampado"
+        }
+      ],
+      "Laranja": [
+        {
+          "sku": "065-MC-057-057",
+          "nome": "Scrub Feminino Comfy Manga Curta Coral",
+          "nomeCompleto": "Scrub Feminino Comfy Manga Curta Coral",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-coral-confy-manga-curta/",
+          "cores": [
+            {
+              "nome": "Feminino Comfy Manga Curta Coral",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Coral",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-coral-confy-manga-curta/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Laranja"
+        }
+      ],
+      "Preto": [
+        {
+          "sku": "065-MC-051-051",
+          "nome": "Scrub Feminino Comfy Manga Curta Preto",
+          "nomeCompleto": "Scrub Feminino Comfy Manga Curta Preto",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-preto-confy-manga-curta/",
+          "cores": [
+            {
+              "nome": "Feminino Comfy Manga Curta Preto",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Preto",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-preto-confy-manga-curta/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "060-SD-012-012",
+          "nome": "Scrub Feminino Manga Curta Preto",
+          "nomeCompleto": "Scrub Feminino Manga Curta Preto",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-preto/",
+          "cores": [
+            {
+              "nome": "Feminino Manga Curta Preto",
+              "tituloCompleto": "Scrub Feminino Manga Curta Preto",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-preto/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "080-SD-075-000-5",
+          "nome": "Scrub Feminino Tec Easy Loren Preto",
+          "nomeCompleto": "Scrub Feminino Tec Easy Loren Preto",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-preto/",
+          "cores": [
+            {
+              "nome": "Feminino Tec Easy Loren Preto",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren Preto",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-preto/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "610-MC-112-112-5",
+          "nome": "Scrub Feminino Glamour Preto",
+          "nomeCompleto": "Scrub Feminino Glamour Preto",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/glamour/scrub-feminino-glamour-preto/",
+          "cores": [
+            {
+              "nome": "Feminino Glamour Preto",
+              "tituloCompleto": "Scrub Feminino Glamour Preto",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/glamour/scrub-feminino-glamour-preto/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        },
+        {
+          "sku": "605-MC-051-051",
+          "nome": "Scrub Feminino Princess Preto",
+          "nomeCompleto": "Scrub Feminino Princess Preto",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-princess-preto",
+          "cores": [
+            {
+              "nome": "Feminino Princess Preto",
+              "tituloCompleto": "Scrub Feminino Princess Preto",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-princess-preto"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        }
+      ],
+      "Rosa": [
+        {
+          "sku": "060-SD-007-007",
+          "nome": "Scrub Feminino Manga Curta Rosa Nude",
+          "nomeCompleto": "Scrub Feminino Manga Curta Rosa Nude",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-rosa-nude/",
+          "cores": [
+            {
+              "nome": "Feminino Manga Curta Rosa Nude",
+              "tituloCompleto": "Scrub Feminino Manga Curta Rosa Nude",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-rosa-nude/"
+            },
+            {
+              "nome": "Feminino Manga Curta Rosa Pink",
+              "tituloCompleto": "Scrub Feminino Manga Curta Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-rosa-pink/"
+            },
+            {
+              "nome": "Feminino Manga Curta Rosa Bebê",
+              "tituloCompleto": "Scrub Feminino Manga Curta Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-rosa-bebe/"
+            },
+            {
+              "nome": "Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-rosa-bebe"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "080-SD-078-000",
+          "nome": "Scrub Feminino Tec Easy Loren Rosa Bebe",
+          "nomeCompleto": "Scrub Feminino Tec Easy Loren Rosa Bebe",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-rosa-bebe/",
+          "cores": [
+            {
+              "nome": "Feminino Tec Easy Loren Rosa Bebe",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren Rosa Bebe",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-rosa-bebe/"
+            },
+            {
+              "nome": "Feminino Tec Easy Loren Rosa",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren Rosa",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-rosa/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "080-SD-074-000",
+          "nome": "Scrub Feminino Tec Easy Loren Rosa",
+          "nomeCompleto": "Scrub Feminino Tec Easy Loren Rosa",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-rosa/",
+          "cores": [
+            {
+              "nome": "Feminino Tec Easy Loren Rosa",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren Rosa",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-rosa/"
+            },
+            {
+              "nome": "Feminino Tec Easy Loren Rosa Bebe",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren Rosa Bebe",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-rosa-bebe/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "610-MC-107-107",
+          "nome": "Scrub Feminino Glamour Rosa Nude",
+          "nomeCompleto": "Scrub Feminino Glamour Rosa Nude",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-glamour-rosa-nude",
+          "cores": [
+            {
+              "nome": "Feminino Glamour Rosa Nude",
+              "tituloCompleto": "Scrub Feminino Glamour Rosa Nude",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-glamour-rosa-nude"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "065-MC-061-061",
+          "nome": "Scrub Feminino Comfy Manga Curta Rosa Pink",
+          "nomeCompleto": "Scrub Feminino Comfy Manga Curta Rosa Pink",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-confy-rosa-pink/",
+          "cores": [
+            {
+              "nome": "Feminino Comfy Manga Curta Rosa Pink",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-confy-rosa-pink/"
+            },
+            {
+              "nome": "Feminino Comfy Manga Curta Rosa Nude",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Rosa Nude",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-rosa-nude-confy-manga-curta/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "065-MC-055-055-5",
+          "nome": "Scrub Feminino Comfy Manga Curta Rosa Nude",
+          "nomeCompleto": "Scrub Feminino Comfy Manga Curta Rosa Nude",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-rosa-nude-confy-manga-curta/",
+          "cores": [
+            {
+              "nome": "Feminino Comfy Manga Curta Rosa Nude",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Rosa Nude",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-rosa-nude-confy-manga-curta/"
+            },
+            {
+              "nome": "Feminino Comfy Manga Curta Rosa Pink",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-confy-rosa-pink/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "605-MC-055-055",
+          "nome": "Scrub Feminino Princess Rosa Nude",
+          "nomeCompleto": "Scrub Feminino Princess Rosa Nude",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-princess-rosa-nude",
+          "cores": [
+            {
+              "nome": "Feminino Princess Rosa Nude",
+              "tituloCompleto": "Scrub Feminino Princess Rosa Nude",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-princess-rosa-nude"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "060-SD-005-005",
+          "nome": "Scrub Feminino Manga Curta Rosa Bebê",
+          "nomeCompleto": "Scrub Feminino Manga Curta Rosa Bebê",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-rosa-bebe/",
+          "cores": [
+            {
+              "nome": "Feminino Manga Curta Rosa Bebê",
+              "tituloCompleto": "Scrub Feminino Manga Curta Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-rosa-bebe/"
+            },
+            {
+              "nome": "Feminino Manga Curta Rosa Pink",
+              "tituloCompleto": "Scrub Feminino Manga Curta Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-rosa-pink/"
+            },
+            {
+              "nome": "Feminino Manga Curta Rosa Nude",
+              "tituloCompleto": "Scrub Feminino Manga Curta Rosa Nude",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-rosa-nude/"
+            },
+            {
+              "nome": "Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-rosa-bebe"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "060-SD-004-004",
+          "nome": "Scrub Feminino Manga Curta Rosa Pink",
+          "nomeCompleto": "Scrub Feminino Manga Curta Rosa Pink",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-rosa-pink/",
+          "cores": [
+            {
+              "nome": "Feminino Manga Curta Rosa Pink",
+              "tituloCompleto": "Scrub Feminino Manga Curta Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-rosa-pink/"
+            },
+            {
+              "nome": "Feminino Manga Curta Rosa Nude",
+              "tituloCompleto": "Scrub Feminino Manga Curta Rosa Nude",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-rosa-nude/"
+            },
+            {
+              "nome": "Feminino Manga Curta Rosa Bebê",
+              "tituloCompleto": "Scrub Feminino Manga Curta Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-rosa-bebe/"
+            },
+            {
+              "nome": "Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "tituloCompleto": "Scrub Feminino Camiseta Fada do Dente e Calça Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fada-do-dente-e-calca-rosa-bebe"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        }
+      ],
+      "Roxo": [
+        {
+          "sku": "080-SD-082-000",
+          "nome": "Scrub Feminino Tec Easy Loren Magenta",
+          "nomeCompleto": "Scrub Feminino Tec Easy Loren Magenta",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-tec-easy-loren-magenta",
+          "cores": [
+            {
+              "nome": "Feminino Tec Easy Loren Magenta",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren Magenta",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-tec-easy-loren-magenta"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Roxo"
+        }
+      ],
+      "Verde": [
+        {
+          "sku": "080-SD-076-000",
+          "nome": "Scrub Feminino Tec Easy Loren Verde Militar",
+          "nomeCompleto": "Scrub Feminino Tec Easy Loren Verde Militar",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-verde-militar",
+          "cores": [
+            {
+              "nome": "Feminino Tec Easy Loren Verde Militar",
+              "tituloCompleto": "Scrub Feminino Tec Easy Loren Verde Militar",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-femininotec-easy-loren-verde-militar"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Verde"
+        },
+        {
+          "sku": "065-MC-068-068",
+          "nome": "Scrub Feminino Comfy Manga Curta Verde Militar",
+          "nomeCompleto": "Scrub Feminino Comfy Manga Curta Verde Militar",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-confy-verde-militar/",
+          "cores": [
+            {
+              "nome": "Feminino Comfy Manga Curta Verde Militar",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Verde Militar",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-confy-verde-militar/"
+            },
+            {
+              "nome": "Feminino Comfy Manga Curta Verde Claro",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Verde Claro",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-verde-claro-confy-manga-curta/"
+            },
+            {
+              "nome": "Feminino Comfy Manga Curta Verde Escuro",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Verde Escuro",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-confy-verde-escuro/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Verde"
+        },
+        {
+          "sku": "060-SD-010-010",
+          "nome": "Scrub Feminino Manga Curta Verde Escuro",
+          "nomeCompleto": "Scrub Feminino Manga Curta Verde Escuro",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-verde-escuro/",
+          "cores": [
+            {
+              "nome": "Feminino Manga Curta Verde Escuro",
+              "tituloCompleto": "Scrub Feminino Manga Curta Verde Escuro",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-verde-escuro/"
+            },
+            {
+              "nome": "Feminino Manga Curta Verde Claro",
+              "tituloCompleto": "Scrub Feminino Manga Curta Verde Claro",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-verde-claro/"
+            },
+            {
+              "nome": "Feminino Camiseta Fazendinha e Calça Verde Escuro",
+              "tituloCompleto": "Scrub Feminino Camiseta Fazendinha e Calça Verde Escuro",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fazendinha-e-calca-verde-escuro"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Verde"
+        },
+        {
+          "sku": "065-MC-062-062-5",
+          "nome": "Scrub Feminino Comfy Manga Curta Verde Escuro",
+          "nomeCompleto": "Scrub Feminino Comfy Manga Curta Verde Escuro",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-confy-verde-escuro/",
+          "cores": [
+            {
+              "nome": "Feminino Comfy Manga Curta Verde Escuro",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Verde Escuro",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-confy-verde-escuro/"
+            },
+            {
+              "nome": "Feminino Comfy Manga Curta Verde Claro",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Verde Claro",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-verde-claro-confy-manga-curta/"
+            },
+            {
+              "nome": "Feminino Comfy Manga Curta Verde Militar",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Verde Militar",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-confy-verde-militar/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Verde"
+        },
+        {
+          "sku": "065-MC-058-058",
+          "nome": "Scrub Feminino Comfy Manga Curta Verde Claro",
+          "nomeCompleto": "Scrub Feminino Comfy Manga Curta Verde Claro",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-verde-claro-confy-manga-curta/",
+          "cores": [
+            {
+              "nome": "Feminino Comfy Manga Curta Verde Claro",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Verde Claro",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-verde-claro-confy-manga-curta/"
+            },
+            {
+              "nome": "Feminino Comfy Manga Curta Verde Escuro",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Verde Escuro",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-confy-verde-escuro/"
+            },
+            {
+              "nome": "Feminino Comfy Manga Curta Verde Militar",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Verde Militar",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-confy-verde-militar/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Verde"
+        },
+        {
+          "sku": "060-SD-009-009",
+          "nome": "Scrub Feminino Manga Curta Verde Claro",
+          "nomeCompleto": "Scrub Feminino Manga Curta Verde Claro",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-verde-claro/",
+          "cores": [
+            {
+              "nome": "Feminino Manga Curta Verde Claro",
+              "tituloCompleto": "Scrub Feminino Manga Curta Verde Claro",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-verde-claro/"
+            },
+            {
+              "nome": "Feminino Manga Curta Verde Escuro",
+              "tituloCompleto": "Scrub Feminino Manga Curta Verde Escuro",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-tradicional/scrub-feminino-verde-escuro/"
+            },
+            {
+              "nome": "Feminino Camiseta Fazendinha e Calça Verde Escuro",
+              "tituloCompleto": "Scrub Feminino Camiseta Fazendinha e Calça Verde Escuro",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-camiseta-fazendinha-e-calca-verde-escuro"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Verde"
+        }
+      ],
+      "Vermelho": [
+        {
+          "sku": "605-MC-060-060",
+          "nome": "Scrub Feminino Princess Bordo",
+          "nomeCompleto": "Scrub Feminino Princess Bordo",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-princess-bordo",
+          "cores": [
+            {
+              "nome": "Feminino Princess Bordo",
+              "tituloCompleto": "Scrub Feminino Princess Bordo",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-princess-bordo"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Vermelho"
+        },
+        {
+          "sku": "060-SD-002-002-4",
+          "nome": "Scrub Feminino Manga Curta Bordo",
+          "nomeCompleto": "Scrub Feminino Manga Curta Bordo",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/scrub-feminino-manga-curta-bordo",
+          "cores": [
+            {
+              "nome": "Feminino Manga Curta Bordo",
+              "tituloCompleto": "Scrub Feminino Manga Curta Bordo",
+              "link": "https://www.danajalecos.com.br/scrub-feminino-manga-curta-bordo"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Vermelho"
+        },
+        {
+          "sku": "065-MC-060-060-4",
+          "nome": "Scrub Feminino Comfy Manga Curta Bordô",
+          "nomeCompleto": "Scrub Feminino Comfy Manga Curta Bordô",
+          "tipoProduto": "Scrub",
+          "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-bordo-confy-manga-curta/",
+          "cores": [
+            {
+              "nome": "Feminino Comfy Manga Curta Bordô",
+              "tituloCompleto": "Scrub Feminino Comfy Manga Curta Bordô",
+              "link": "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-bordo-confy-manga-curta/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Vermelho"
+        }
+      ]
+    }
+  }
+}

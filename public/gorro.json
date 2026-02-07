@@ -1,0 +1,2135 @@
+{
+  "metadata": {
+    "tipoProduto": "Gorro",
+    "totalProdutos": 91,
+    "dataProcessamento": "2026-02-03T01:40:14.136Z",
+    "generosDisponiveis": [
+      "Masculino",
+      "Feminino",
+      "Unissex"
+    ]
+  },
+  "masculino": {
+    "totalProdutos": 14,
+    "totalCores": 8,
+    "todasCores": [
+      "Azul",
+      "Bege",
+      "Branco",
+      "Cinza",
+      "Preto",
+      "Tape",
+      "Verde",
+      "Vermelho"
+    ],
+    "cadaCor": {
+      "Azul": [
+        {
+          "sku": "002-SD-101-000",
+          "nome": "Gorro Unissex A. Dente Azul Marinho",
+          "nomeCompleto": "Gorro Unissex A. Dente Azul Marinho",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-dente-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Unissex A. Dente Azul Marinho",
+              "tituloCompleto": "Gorro Unissex A. Dente Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-dente-azul-marinho/"
+            },
+            {
+              "nome": "Unissex A. Lego Azul",
+              "tituloCompleto": "Gorro Unissex A. Lego Azul",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-lego-azul"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-101-000",
+          "nome": "Gorro Unissex A. Dente Azul Marinho",
+          "nomeCompleto": "Gorro Unissex A. Dente Azul Marinho",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-dente-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Unissex A. Dente Azul Marinho",
+              "tituloCompleto": "Gorro Unissex A. Dente Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-dente-azul-marinho/"
+            },
+            {
+              "nome": "Unissex A. Lego Azul",
+              "tituloCompleto": "Gorro Unissex A. Lego Azul",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-lego-azul"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-017-000",
+          "nome": "Gorro  Unissex A. Azul Bebê",
+          "nomeCompleto": "Gorro  Unissex A. Azul Bebê",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-azul-bebe/",
+          "cores": [
+            {
+              "nome": "Unissex A. Azul Bebê",
+              "tituloCompleto": "Gorro  Unissex A. Azul Bebê",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-azul-bebe/"
+            },
+            {
+              "nome": "Unissex A. Azul Marinho",
+              "tituloCompleto": "Gorro Unissex A. Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-azul-marinho/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-101-000",
+          "nome": "Gorro Unissex A. Dente Azul Marinho",
+          "nomeCompleto": "Gorro Unissex A. Dente Azul Marinho",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-dente-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Unissex A. Dente Azul Marinho",
+              "tituloCompleto": "Gorro Unissex A. Dente Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-dente-azul-marinho/"
+            },
+            {
+              "nome": "Unissex A. Lego Azul",
+              "tituloCompleto": "Gorro Unissex A. Lego Azul",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-lego-azul"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-015-000",
+          "nome": "Gorro Unissex A. Azul Marinho",
+          "nomeCompleto": "Gorro Unissex A. Azul Marinho",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Unissex A. Azul Marinho",
+              "tituloCompleto": "Gorro Unissex A. Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-azul-marinho/"
+            },
+            {
+              "nome": "Unissex A. Azul Bebê",
+              "tituloCompleto": "Gorro  Unissex A. Azul Bebê",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-azul-bebe/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Azul"
+        }
+      ],
+      "Bege": [
+        {
+          "sku": "002-SD-006-000",
+          "nome": "Gorro Unissex A. Bege",
+          "nomeCompleto": "Gorro Unissex A. Bege",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-bege/",
+          "cores": [
+            {
+              "nome": "Unissex A. Bege",
+              "tituloCompleto": "Gorro Unissex A. Bege",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-bege/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Bege"
+        }
+      ],
+      "Branco": [
+        {
+          "sku": "002-SD-008-000-5",
+          "nome": "Gorro Unissex A. Branco",
+          "nomeCompleto": "Gorro Unissex A. Branco",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-branco/",
+          "cores": [
+            {
+              "nome": "Unissex A. Branco",
+              "tituloCompleto": "Gorro Unissex A. Branco",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-branco/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Branco"
+        }
+      ],
+      "Cinza": [
+        {
+          "sku": "002-SD-014-000-5",
+          "nome": "Gorro Unissex A. Chumbo",
+          "nomeCompleto": "Gorro Unissex A. Chumbo",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-chumbo/",
+          "cores": [
+            {
+              "nome": "Unissex A. Chumbo",
+              "tituloCompleto": "Gorro Unissex A. Chumbo",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-chumbo/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Cinza"
+        }
+      ],
+      "Preto": [
+        {
+          "sku": "002-SD-012-000",
+          "nome": "Gorro Unissex A. Preto",
+          "nomeCompleto": "Gorro Unissex A. Preto",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-preto/",
+          "cores": [
+            {
+              "nome": "Unissex A. Preto",
+              "tituloCompleto": "Gorro Unissex A. Preto",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-preto/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Preto"
+        }
+      ],
+      "Tape": [
+        {
+          "sku": "002-SD-205-000",
+          "nome": "Gorro Unissex A. Fitas Tape",
+          "nomeCompleto": "Gorro Unissex A. Fitas Tape",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-fitas-tape/",
+          "cores": [
+            {
+              "nome": "Unissex A. Fitas Tape",
+              "tituloCompleto": "Gorro Unissex A. Fitas Tape",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-fitas-tape/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Tape"
+        },
+        {
+          "sku": "002-SD-205-000",
+          "nome": "Gorro Unissex A. Fitas Tape",
+          "nomeCompleto": "Gorro Unissex A. Fitas Tape",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-fitas-tape/",
+          "cores": [
+            {
+              "nome": "Unissex A. Fitas Tape",
+              "tituloCompleto": "Gorro Unissex A. Fitas Tape",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-fitas-tape/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Tape"
+        },
+        {
+          "sku": "002-SD-205-000",
+          "nome": "Gorro Unissex A. Fitas Tape",
+          "nomeCompleto": "Gorro Unissex A. Fitas Tape",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-fitas-tape/",
+          "cores": [
+            {
+              "nome": "Unissex A. Fitas Tape",
+              "tituloCompleto": "Gorro Unissex A. Fitas Tape",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-fitas-tape/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Tape"
+        }
+      ],
+      "Verde": [
+        {
+          "sku": "002-SD-009-000",
+          "nome": "Gorro Unissex A. Verde Claro",
+          "nomeCompleto": "Gorro Unissex A. Verde Claro",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-verde-claro/",
+          "cores": [
+            {
+              "nome": "Unissex A. Verde Claro",
+              "tituloCompleto": "Gorro Unissex A. Verde Claro",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-verde-claro/"
+            },
+            {
+              "nome": "Unissex A. Verde Escuro",
+              "tituloCompleto": "Gorro Unissex A. Verde Escuro",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-verde-escuro"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Verde"
+        }
+      ],
+      "Vermelho": [
+        {
+          "sku": "002-SD-002-000",
+          "nome": "Gorro Unissex A. Bordô",
+          "nomeCompleto": "Gorro Unissex A. Bordô",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-bordo/",
+          "cores": [
+            {
+              "nome": "Unissex A. Bordô",
+              "tituloCompleto": "Gorro Unissex A. Bordô",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-bordo/"
+            }
+          ],
+          "genero": "Masculino",
+          "cor": "Vermelho"
+        }
+      ]
+    }
+  },
+  "feminino": {
+    "totalProdutos": 37,
+    "totalCores": 12,
+    "todasCores": [
+      "Azul",
+      "Bege",
+      "Branco",
+      "Cinza",
+      "Poule",
+      "Preto",
+      "Rosa",
+      "Roxo",
+      "Sem Cor",
+      "Tape",
+      "Verde",
+      "Vermelho"
+    ],
+    "cadaCor": {
+      "Azul": [
+        {
+          "sku": "002-SD-134-000",
+          "nome": "Gorro Unissex D. Enfermagem Azul",
+          "nomeCompleto": "Gorro Unissex D. Enfermagem Azul",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-enfermagem-azul/",
+          "cores": [
+            {
+              "nome": "Unissex D. Enfermagem Azul",
+              "tituloCompleto": "Gorro Unissex D. Enfermagem Azul",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-enfermagem-azul/"
+            },
+            {
+              "nome": "Unissex D. Lego Azul",
+              "tituloCompleto": "Gorro Unissex D. Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-azul/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-132-000",
+          "nome": "Gorro Unissex D. Lego Azul",
+          "nomeCompleto": "Gorro Unissex D. Lego Azul",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-azul/",
+          "cores": [
+            {
+              "nome": "Unissex D. Lego Azul",
+              "tituloCompleto": "Gorro Unissex D. Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-azul/"
+            },
+            {
+              "nome": "Unissex D. Enfermagem Azul",
+              "tituloCompleto": "Gorro Unissex D. Enfermagem Azul",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-enfermagem-azul/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-134-000",
+          "nome": "Gorro Unissex D. Enfermagem Azul",
+          "nomeCompleto": "Gorro Unissex D. Enfermagem Azul",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-enfermagem-azul/",
+          "cores": [
+            {
+              "nome": "Unissex D. Enfermagem Azul",
+              "tituloCompleto": "Gorro Unissex D. Enfermagem Azul",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-enfermagem-azul/"
+            },
+            {
+              "nome": "Unissex D. Lego Azul",
+              "tituloCompleto": "Gorro Unissex D. Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-azul/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-132-000",
+          "nome": "Gorro Unissex D. Lego Azul",
+          "nomeCompleto": "Gorro Unissex D. Lego Azul",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-azul/",
+          "cores": [
+            {
+              "nome": "Unissex D. Lego Azul",
+              "tituloCompleto": "Gorro Unissex D. Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-azul/"
+            },
+            {
+              "nome": "Unissex D. Enfermagem Azul",
+              "tituloCompleto": "Gorro Unissex D. Enfermagem Azul",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-enfermagem-azul/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-056-056-F",
+          "nome": "Gorro Unissex D. Crepe Azul Bebe",
+          "nomeCompleto": "Gorro Unissex D. Crepe Azul Bebe",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-feminino-crepe-azul-bebe",
+          "cores": [
+            {
+              "nome": "Feminino Crepe Azul Bebe",
+              "tituloCompleto": "Gorro Feminino Crepe Azul Bebe",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-crepe-azul-bebe"
+            },
+            {
+              "nome": "Unissex D. Crepe Azul Marinho",
+              "tituloCompleto": "Gorro Unissex D. Crepe Azul Marinho",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-crepe-azul-marinho"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-015-000-5",
+          "nome": "Gorro Unissex D. Azul Marinho",
+          "nomeCompleto": "Gorro Unissex D. Azul Marinho",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Unissex D. Azul Marinho",
+              "tituloCompleto": "Gorro Unissex D. Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-azul-marinho/"
+            },
+            {
+              "nome": "Unissex D. Azul Bebe",
+              "tituloCompleto": "Gorro  Unissex D. Azul Bebe",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-azul-bebe"
+            },
+            {
+              "nome": "Unissex D.  Azul Medio",
+              "tituloCompleto": "Gorro Unissex D.  Azul Medio",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-azul-medio"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-134-000",
+          "nome": "Gorro Unissex D. Enfermagem Azul",
+          "nomeCompleto": "Gorro Unissex D. Enfermagem Azul",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-enfermagem-azul/",
+          "cores": [
+            {
+              "nome": "Unissex D. Enfermagem Azul",
+              "tituloCompleto": "Gorro Unissex D. Enfermagem Azul",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-enfermagem-azul/"
+            },
+            {
+              "nome": "Unissex D. Lego Azul",
+              "tituloCompleto": "Gorro Unissex D. Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-azul/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-132-000",
+          "nome": "Gorro Unissex D. Lego Azul",
+          "nomeCompleto": "Gorro Unissex D. Lego Azul",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-azul/",
+          "cores": [
+            {
+              "nome": "Unissex D. Lego Azul",
+              "tituloCompleto": "Gorro Unissex D. Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-azul/"
+            },
+            {
+              "nome": "Unissex D. Enfermagem Azul",
+              "tituloCompleto": "Gorro Unissex D. Enfermagem Azul",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-enfermagem-azul/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-056-000",
+          "nome": "Gorro Unissex D. Azul Bebe Elastano",
+          "nomeCompleto": "Gorro Unissex D. Azul Bebe Elastano",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-feminino-azul-bebe-elastano",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Azul"
+        }
+      ],
+      "Bege": [
+        {
+          "sku": "002-SD-219-000",
+          "nome": "Gorro Unissex D. Animal Print Bege",
+          "nomeCompleto": "Gorro Unissex D. Animal Print Bege",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print-bege",
+          "cores": [
+            {
+              "nome": "Feminino Animal Print Bege",
+              "tituloCompleto": "Gorro Feminino Animal Print Bege",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print-bege"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Bege"
+        },
+        {
+          "sku": "002-SD-219-000",
+          "nome": "Gorro Unissex D. Animal Print Bege",
+          "nomeCompleto": "Gorro Unissex D. Animal Print Bege",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print-bege",
+          "cores": [
+            {
+              "nome": "Feminino Animal Print Bege",
+              "tituloCompleto": "Gorro Feminino Animal Print Bege",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print-bege"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Bege"
+        },
+        {
+          "sku": "002-SD-219-000",
+          "nome": "Gorro Unissex D. Animal Print Bege",
+          "nomeCompleto": "Gorro Unissex D. Animal Print Bege",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print-bege",
+          "cores": [
+            {
+              "nome": "Feminino Animal Print Bege",
+              "tituloCompleto": "Gorro Feminino Animal Print Bege",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print-bege"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Bege"
+        }
+      ],
+      "Branco": [
+        {
+          "sku": "002-SD-008-000",
+          "nome": "Gorro Unissex D. Branco",
+          "nomeCompleto": "Gorro Unissex D. Branco",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-branco/",
+          "cores": [
+            {
+              "nome": "Unissex D. Branco",
+              "tituloCompleto": "Gorro Unissex D. Branco",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-branco/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        }
+      ],
+      "Cinza": [
+        {
+          "sku": "002-SD-014-000-5",
+          "nome": "Gorro Unissex D. Chumbo",
+          "nomeCompleto": "Gorro Unissex D. Chumbo",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-feminino-chumbo",
+          "cores": [
+            {
+              "nome": "Feminino Chumbo",
+              "tituloCompleto": "Gorro Feminino Chumbo",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-chumbo"
+            },
+            {
+              "nome": "Feminino  Cinza",
+              "tituloCompleto": "Gorro Feminino  Cinza",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-cinza"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Cinza"
+        },
+        {
+          "sku": "002-SD-218-000",
+          "nome": "Gorro Unissex D. Animal Print Cinza",
+          "nomeCompleto": "Gorro Unissex D. Animal Print Cinza",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print-cinza",
+          "cores": [
+            {
+              "nome": "Feminino Animal Print Cinza",
+              "tituloCompleto": "Gorro Feminino Animal Print Cinza",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print-cinza"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Cinza"
+        },
+        {
+          "sku": "002-SD-218-000",
+          "nome": "Gorro Unissex D. Animal Print Cinza",
+          "nomeCompleto": "Gorro Unissex D. Animal Print Cinza",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print-cinza",
+          "cores": [
+            {
+              "nome": "Feminino Animal Print Cinza",
+              "tituloCompleto": "Gorro Feminino Animal Print Cinza",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print-cinza"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Cinza"
+        },
+        {
+          "sku": "002-SD-218-000",
+          "nome": "Gorro Unissex D. Animal Print Cinza",
+          "nomeCompleto": "Gorro Unissex D. Animal Print Cinza",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print-cinza",
+          "cores": [
+            {
+              "nome": "Feminino Animal Print Cinza",
+              "tituloCompleto": "Gorro Feminino Animal Print Cinza",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print-cinza"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Cinza"
+        },
+        {
+          "sku": "002-SD-013-000-5",
+          "nome": "Gorro Unissex D. Cinza",
+          "nomeCompleto": "Gorro Unissex D. Cinza",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-feminino-cinza",
+          "cores": [
+            {
+              "nome": "Feminino  Cinza",
+              "tituloCompleto": "Gorro Feminino  Cinza",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-cinza"
+            },
+            {
+              "nome": "Feminino Chumbo",
+              "tituloCompleto": "Gorro Feminino Chumbo",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-chumbo"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Cinza"
+        }
+      ],
+      "Poule": [
+        {
+          "sku": "002-SD-216-000-5",
+          "nome": "Gorro Unissex D. Pied De Poule",
+          "nomeCompleto": "Gorro Unissex D. Pied De Poule",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-piel-de-pouli/",
+          "cores": [
+            {
+              "nome": "Unissex D. Pied De Poule",
+              "tituloCompleto": "Gorro Unissex D. Pied De Poule",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-piel-de-pouli/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Poule"
+        },
+        {
+          "sku": "002-SD-216-000-5",
+          "nome": "Gorro Unissex D. Pied De Poule",
+          "nomeCompleto": "Gorro Unissex D. Pied De Poule",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-piel-de-pouli/",
+          "cores": [
+            {
+              "nome": "Unissex D. Pied De Poule",
+              "tituloCompleto": "Gorro Unissex D. Pied De Poule",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-piel-de-pouli/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Poule"
+        },
+        {
+          "sku": "002-SD-216-000-5",
+          "nome": "Gorro Unissex D. Pied De Poule",
+          "nomeCompleto": "Gorro Unissex D. Pied De Poule",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-piel-de-pouli/",
+          "cores": [
+            {
+              "nome": "Unissex D. Pied De Poule",
+              "tituloCompleto": "Gorro Unissex D. Pied De Poule",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-piel-de-pouli/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Poule"
+        }
+      ],
+      "Preto": [
+        {
+          "sku": "002-SD-012-000",
+          "nome": "Gorro Unissex D. Preto",
+          "nomeCompleto": "Gorro Unissex D. Preto",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-preto/",
+          "cores": [
+            {
+              "nome": "Unissex D. Preto",
+              "tituloCompleto": "Gorro Unissex D. Preto",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-preto/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Preto"
+        }
+      ],
+      "Rosa": [
+        {
+          "sku": "002-SD-131-000",
+          "nome": "Gorro Unissex D. Lego Rosa",
+          "nomeCompleto": "Gorro Unissex D. Lego Rosa",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-rosa/",
+          "cores": [
+            {
+              "nome": "Unissex D. Lego Rosa",
+              "tituloCompleto": "Gorro Unissex D. Lego Rosa",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-rosa/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "002-SD-131-000",
+          "nome": "Gorro Unissex D. Lego Rosa",
+          "nomeCompleto": "Gorro Unissex D. Lego Rosa",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-rosa/",
+          "cores": [
+            {
+              "nome": "Unissex D. Lego Rosa",
+              "tituloCompleto": "Gorro Unissex D. Lego Rosa",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-rosa/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "002-SD-005-000",
+          "nome": "Gorro Unissex D. Rosa Bebê",
+          "nomeCompleto": "Gorro Unissex D. Rosa Bebê",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-rosa-bebe/",
+          "cores": [
+            {
+              "nome": "Unissex D. Rosa Bebê",
+              "tituloCompleto": "Gorro Unissex D. Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-rosa-bebe/"
+            },
+            {
+              "nome": "Feminino Rosa Pink",
+              "tituloCompleto": "Gorro Feminino Rosa Pink",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-rosa-pink"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "002-SD-131-000",
+          "nome": "Gorro Unissex D. Lego Rosa",
+          "nomeCompleto": "Gorro Unissex D. Lego Rosa",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-rosa/",
+          "cores": [
+            {
+              "nome": "Unissex D. Lego Rosa",
+              "tituloCompleto": "Gorro Unissex D. Lego Rosa",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-rosa/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "002-SD-004-000",
+          "nome": "Gorro Unissex D. Rosa Pink",
+          "nomeCompleto": "Gorro Unissex D. Rosa Pink",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-feminino-rosa-pink",
+          "cores": [
+            {
+              "nome": "Feminino Rosa Pink",
+              "tituloCompleto": "Gorro Feminino Rosa Pink",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-rosa-pink"
+            },
+            {
+              "nome": "Unissex D. Rosa Bebê",
+              "tituloCompleto": "Gorro Unissex D. Rosa Bebê",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-rosa-bebe/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        }
+      ],
+      "Roxo": [
+        {
+          "sku": "002-SD-003-000",
+          "nome": "Gorro Unissex D. Lilás",
+          "nomeCompleto": "Gorro Unissex D. Lilás",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lilas/",
+          "cores": [
+            {
+              "nome": "Unissex D. Lilás",
+              "tituloCompleto": "Gorro Unissex D. Lilás",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lilas/"
+            },
+            {
+              "nome": "Unissex D. Roxo",
+              "tituloCompleto": "Gorro  Unissex D. Roxo",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-roxo"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Roxo"
+        }
+      ],
+      "Sem Cor": [
+        {
+          "sku": "002-SD-082-000-F",
+          "nome": "Gorro Unissex D. Tec Easy Magenta",
+          "nomeCompleto": "Gorro Unissex D. Tec Easy Magenta",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-feminino-tec-easy-magenta",
+          "cores": null,
+          "genero": "Feminino",
+          "cor": "Sem Cor"
+        }
+      ],
+      "Tape": [
+        {
+          "sku": "002-SD-205-000",
+          "nome": "Gorro Unissex D. Fitas Tape",
+          "nomeCompleto": "Gorro Unissex D. Fitas Tape",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-fitas-tape/",
+          "cores": [
+            {
+              "nome": "Unissex D. Fitas Tape",
+              "tituloCompleto": "Gorro Unissex D. Fitas Tape",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-fitas-tape/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Tape"
+        },
+        {
+          "sku": "002-SD-205-000",
+          "nome": "Gorro Unissex D. Fitas Tape",
+          "nomeCompleto": "Gorro Unissex D. Fitas Tape",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-fitas-tape/",
+          "cores": [
+            {
+              "nome": "Unissex D. Fitas Tape",
+              "tituloCompleto": "Gorro Unissex D. Fitas Tape",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-fitas-tape/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Tape"
+        },
+        {
+          "sku": "002-SD-205-000",
+          "nome": "Gorro Unissex D. Fitas Tape",
+          "nomeCompleto": "Gorro Unissex D. Fitas Tape",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-fitas-tape/",
+          "cores": [
+            {
+              "nome": "Unissex D. Fitas Tape",
+              "tituloCompleto": "Gorro Unissex D. Fitas Tape",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-fitas-tape/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Tape"
+        }
+      ],
+      "Verde": [
+        {
+          "sku": "002-SD-009-000",
+          "nome": "Gorro Unissex D. Verde Claro",
+          "nomeCompleto": "Gorro Unissex D. Verde Claro",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-verde-claro/",
+          "cores": [
+            {
+              "nome": "Unissex D. Verde Claro",
+              "tituloCompleto": "Gorro Unissex D. Verde Claro",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-verde-claro/"
+            },
+            {
+              "nome": "Unissex D.  Verde Escuro",
+              "tituloCompleto": "Gorro  Unissex D.  Verde Escuro",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-verde-escuro"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Verde"
+        }
+      ],
+      "Vermelho": [
+        {
+          "sku": "002-SD-002-000-5",
+          "nome": "Gorro Unissex D. Bordô",
+          "nomeCompleto": "Gorro Unissex D. Bordô",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-bordo/",
+          "cores": [
+            {
+              "nome": "Unissex D. Bordô",
+              "tituloCompleto": "Gorro Unissex D. Bordô",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-bordo/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Vermelho"
+        },
+        {
+          "sku": "002-SD-133-000",
+          "nome": "Gorro Unissex D. Enfermagem Vermelho",
+          "nomeCompleto": "Gorro Unissex D. Enfermagem Vermelho",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-enfermagem-vermelho/",
+          "cores": [
+            {
+              "nome": "Unissex D. Enfermagem Vermelho",
+              "tituloCompleto": "Gorro Unissex D. Enfermagem Vermelho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-enfermagem-vermelho/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Vermelho"
+        },
+        {
+          "sku": "002-SD-133-000",
+          "nome": "Gorro Unissex D. Enfermagem Vermelho",
+          "nomeCompleto": "Gorro Unissex D. Enfermagem Vermelho",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-enfermagem-vermelho/",
+          "cores": [
+            {
+              "nome": "Unissex D. Enfermagem Vermelho",
+              "tituloCompleto": "Gorro Unissex D. Enfermagem Vermelho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-enfermagem-vermelho/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Vermelho"
+        },
+        {
+          "sku": "002-SD-133-000",
+          "nome": "Gorro Unissex D. Enfermagem Vermelho",
+          "nomeCompleto": "Gorro Unissex D. Enfermagem Vermelho",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-enfermagem-vermelho/",
+          "cores": [
+            {
+              "nome": "Unissex D. Enfermagem Vermelho",
+              "tituloCompleto": "Gorro Unissex D. Enfermagem Vermelho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-enfermagem-vermelho/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Vermelho"
+        }
+      ]
+    }
+  },
+  "unissex": {
+    "totalProdutos": 40,
+    "totalCores": 10,
+    "todasCores": [
+      "Azul",
+      "Bege",
+      "Branco",
+      "Estampado",
+      "Laranja",
+      "Preto",
+      "Rosa",
+      "Roxo",
+      "Sem Cor",
+      "Verde"
+    ],
+    "cadaCor": {
+      "Azul": [
+        {
+          "sku": "002-SD-132-000-M",
+          "nome": "Gorro Unissex A. Lego Azul",
+          "nomeCompleto": "Gorro Unissex A. Lego Azul",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-a-lego-azul",
+          "cores": [
+            {
+              "nome": "Unissex A. Lego Azul",
+              "tituloCompleto": "Gorro Unissex A. Lego Azul",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-lego-azul"
+            },
+            {
+              "nome": "Unissex A. Dente Azul Marinho",
+              "tituloCompleto": "Gorro Unissex A. Dente Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-dente-azul-marinho/"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-132-000-M",
+          "nome": "Gorro Unissex A. Lego Azul",
+          "nomeCompleto": "Gorro Unissex A. Lego Azul",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-a-lego-azul",
+          "cores": [
+            {
+              "nome": "Unissex A. Lego Azul",
+              "tituloCompleto": "Gorro Unissex A. Lego Azul",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-lego-azul"
+            },
+            {
+              "nome": "Unissex A. Dente Azul Marinho",
+              "tituloCompleto": "Gorro Unissex A. Dente Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-dente-azul-marinho/"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-053-053-F",
+          "nome": "Gorro Unissex D. Crepe Azul Marinho",
+          "nomeCompleto": "Gorro Unissex D. Crepe Azul Marinho",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-crepe-azul-marinho",
+          "cores": [
+            {
+              "nome": "Unissex D. Crepe Azul Marinho",
+              "tituloCompleto": "Gorro Unissex D. Crepe Azul Marinho",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-crepe-azul-marinho"
+            },
+            {
+              "nome": "Feminino Crepe Azul Bebe",
+              "tituloCompleto": "Gorro Feminino Crepe Azul Bebe",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-crepe-azul-bebe"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-132-000-M",
+          "nome": "Gorro Unissex A. Lego Azul",
+          "nomeCompleto": "Gorro Unissex A. Lego Azul",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-a-lego-azul",
+          "cores": [
+            {
+              "nome": "Unissex A. Lego Azul",
+              "tituloCompleto": "Gorro Unissex A. Lego Azul",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-lego-azul"
+            },
+            {
+              "nome": "Unissex A. Dente Azul Marinho",
+              "tituloCompleto": "Gorro Unissex A. Dente Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-dente-azul-marinho/"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-016-000-F",
+          "nome": "Gorro Unissex D.  Azul Medio",
+          "nomeCompleto": "Gorro Unissex D.  Azul Medio",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-azul-medio",
+          "cores": [
+            {
+              "nome": "Unissex D.  Azul Medio",
+              "tituloCompleto": "Gorro Unissex D.  Azul Medio",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-azul-medio"
+            },
+            {
+              "nome": "Unissex D. Azul Marinho",
+              "tituloCompleto": "Gorro Unissex D. Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-azul-marinho/"
+            },
+            {
+              "nome": "Unissex D. Azul Bebe",
+              "tituloCompleto": "Gorro  Unissex D. Azul Bebe",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-azul-bebe"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-017-000-F",
+          "nome": "Gorro  Unissex D. Azul Bebe",
+          "nomeCompleto": "Gorro  Unissex D. Azul Bebe",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-azul-bebe",
+          "cores": [
+            {
+              "nome": "Unissex D. Azul Bebe",
+              "tituloCompleto": "Gorro  Unissex D. Azul Bebe",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-azul-bebe"
+            },
+            {
+              "nome": "Unissex D. Azul Marinho",
+              "tituloCompleto": "Gorro Unissex D. Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-azul-marinho/"
+            },
+            {
+              "nome": "Unissex D.  Azul Medio",
+              "tituloCompleto": "Gorro Unissex D.  Azul Medio",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-azul-medio"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-231-000-M",
+          "nome": "Gorro Unissex A. Cardio Blue",
+          "nomeCompleto": "Gorro Unissex A. Cardio Blue",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-a-cardio-blue",
+          "cores": [
+            {
+              "nome": "Unissex A. Cardio Blue",
+              "tituloCompleto": "Gorro Unissex A. Cardio Blue",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-cardio-blue"
+            },
+            {
+              "nome": "Unissex A. Dente Azul Marinho",
+              "tituloCompleto": "Gorro Unissex A. Dente Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-dente-azul-marinho/"
+            },
+            {
+              "nome": "Unissex A. Lego Azul",
+              "tituloCompleto": "Gorro Unissex A. Lego Azul",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-lego-azul"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-231-000-M",
+          "nome": "Gorro Unissex A. Cardio Blue",
+          "nomeCompleto": "Gorro Unissex A. Cardio Blue",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-a-cardio-blue",
+          "cores": [
+            {
+              "nome": "Unissex A. Cardio Blue",
+              "tituloCompleto": "Gorro Unissex A. Cardio Blue",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-cardio-blue"
+            },
+            {
+              "nome": "Unissex A. Dente Azul Marinho",
+              "tituloCompleto": "Gorro Unissex A. Dente Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-dente-azul-marinho/"
+            },
+            {
+              "nome": "Unissex A. Lego Azul",
+              "tituloCompleto": "Gorro Unissex A. Lego Azul",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-lego-azul"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Azul"
+        },
+        {
+          "sku": "002-SD-231-000-M",
+          "nome": "Gorro Unissex A. Cardio Blue",
+          "nomeCompleto": "Gorro Unissex A. Cardio Blue",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-a-cardio-blue",
+          "cores": [
+            {
+              "nome": "Unissex A. Cardio Blue",
+              "tituloCompleto": "Gorro Unissex A. Cardio Blue",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-cardio-blue"
+            },
+            {
+              "nome": "Unissex A. Dente Azul Marinho",
+              "tituloCompleto": "Gorro Unissex A. Dente Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-dente-azul-marinho/"
+            },
+            {
+              "nome": "Unissex A. Lego Azul",
+              "tituloCompleto": "Gorro Unissex A. Lego Azul",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-lego-azul"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Azul"
+        }
+      ],
+      "Bege": [
+        {
+          "sku": "002-SD-006-000-F-5",
+          "nome": "Gorro  Unissex D.  Bege",
+          "nomeCompleto": "Gorro  Unissex D.  Bege",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-bege",
+          "cores": [
+            {
+              "nome": "Unissex D.  Bege",
+              "tituloCompleto": "Gorro  Unissex D.  Bege",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-bege"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Bege"
+        },
+        {
+          "sku": "002-SD-109-109-F",
+          "nome": "Gorro  Unissex D. Crepe Camel",
+          "nomeCompleto": "Gorro  Unissex D. Crepe Camel",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-crepe-camel",
+          "cores": [
+            {
+              "nome": "Unissex D. Crepe Camel",
+              "tituloCompleto": "Gorro  Unissex D. Crepe Camel",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-crepe-camel"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Bege"
+        }
+      ],
+      "Branco": [
+        {
+          "sku": "002-SD-102-000-F",
+          "nome": "Gorro Unissex D. Dente Branco",
+          "nomeCompleto": "Gorro Unissex D. Dente Branco",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-dente-branco",
+          "cores": [
+            {
+              "nome": "Unissex D. Dente Branco",
+              "tituloCompleto": "Gorro Unissex D. Dente Branco",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-dente-branco"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Branco"
+        },
+        {
+          "sku": "002-SD-102-000-M",
+          "nome": "Gorro Unissex A. Dente Branco",
+          "nomeCompleto": "Gorro Unissex A. Dente Branco",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-a-dente-branco",
+          "cores": [
+            {
+              "nome": "Unissex A. Dente Branco",
+              "tituloCompleto": "Gorro Unissex A. Dente Branco",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-dente-branco"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Branco"
+        },
+        {
+          "sku": "002-SD-102-000-F",
+          "nome": "Gorro Unissex D. Dente Branco",
+          "nomeCompleto": "Gorro Unissex D. Dente Branco",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-dente-branco",
+          "cores": [
+            {
+              "nome": "Unissex D. Dente Branco",
+              "tituloCompleto": "Gorro Unissex D. Dente Branco",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-dente-branco"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Branco"
+        },
+        {
+          "sku": "002-SD-102-000-M",
+          "nome": "Gorro Unissex A. Dente Branco",
+          "nomeCompleto": "Gorro Unissex A. Dente Branco",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-a-dente-branco",
+          "cores": [
+            {
+              "nome": "Unissex A. Dente Branco",
+              "tituloCompleto": "Gorro Unissex A. Dente Branco",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-dente-branco"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Branco"
+        },
+        {
+          "sku": "002-DG-008-000-F",
+          "nome": "Gorro Shine Branco Cristal",
+          "nomeCompleto": "Gorro Shine Branco Cristal",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-shine-branco-cristal",
+          "cores": [
+            {
+              "nome": "Shine Branco Cristal",
+              "tituloCompleto": "Gorro Shine Branco Cristal",
+              "link": "https://www.danajalecos.com.br/gorro-shine-branco-cristal"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Branco"
+        },
+        {
+          "sku": "002-SD-102-000-F",
+          "nome": "Gorro Unissex D. Dente Branco",
+          "nomeCompleto": "Gorro Unissex D. Dente Branco",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-dente-branco",
+          "cores": [
+            {
+              "nome": "Unissex D. Dente Branco",
+              "tituloCompleto": "Gorro Unissex D. Dente Branco",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-dente-branco"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Branco"
+        },
+        {
+          "sku": "002-SD-102-000-M",
+          "nome": "Gorro Unissex A. Dente Branco",
+          "nomeCompleto": "Gorro Unissex A. Dente Branco",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-a-dente-branco",
+          "cores": [
+            {
+              "nome": "Unissex A. Dente Branco",
+              "tituloCompleto": "Gorro Unissex A. Dente Branco",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-dente-branco"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Branco"
+        },
+        {
+          "sku": "002-SD-108-108-F",
+          "nome": "Gorro  Unissex D. Crepe Off White",
+          "nomeCompleto": "Gorro  Unissex D. Crepe Off White",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-crepe-off-white",
+          "cores": [
+            {
+              "nome": "Unissex D. Crepe Off White",
+              "tituloCompleto": "Gorro  Unissex D. Crepe Off White",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-crepe-off-white"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Branco"
+        }
+      ],
+      "Estampado": [
+        {
+          "sku": "002-SD-203-000-M",
+          "nome": "Gorro Unissex A. Circo",
+          "nomeCompleto": "Gorro Unissex A. Circo",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-a-circo",
+          "cores": [
+            {
+              "nome": "Unissex A. Circo",
+              "tituloCompleto": "Gorro Unissex A. Circo",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-circo"
+            },
+            {
+              "nome": "Masculino Games",
+              "tituloCompleto": "Gorro Masculino Games",
+              "link": "https://www.danajalecos.com.br/gorro-masculino-games"
+            },
+            {
+              "nome": "Unissex A. Fantasma",
+              "tituloCompleto": "Gorro Unissex A. Fantasma",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-fantasma/"
+            },
+            {
+              "nome": "Unissex A. Cães e Gatos",
+              "tituloCompleto": "Gorro Unissex A. Cães e Gatos",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-caes-e-gatos/"
+            },
+            {
+              "nome": "Unissex A. Dental",
+              "tituloCompleto": "Gorro Unissex A. Dental",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-dental/"
+            },
+            {
+              "nome": "Unissex A. Dente Azul Marinho",
+              "tituloCompleto": "Gorro Unissex A. Dente Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-dente-azul-marinho/"
+            },
+            {
+              "nome": "Unissex A. Dente Branco",
+              "tituloCompleto": "Gorro Unissex A. Dente Branco",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-dente-branco"
+            },
+            {
+              "nome": "Unissex A. Planetas",
+              "tituloCompleto": "Gorro Unissex A. Planetas",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-planetas"
+            },
+            {
+              "nome": "Unissex A. Lego Azul",
+              "tituloCompleto": "Gorro Unissex A. Lego Azul",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-lego-azul"
+            },
+            {
+              "nome": "Unissex A. Passaporte",
+              "tituloCompleto": "Gorro Unissex A. Passaporte",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-passaporte"
+            },
+            {
+              "nome": "Unissex A. Dinos",
+              "tituloCompleto": "Gorro Unissex A. Dinos",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-dinos"
+            },
+            {
+              "nome": "Unissex A. Gatos",
+              "tituloCompleto": "Gorro Unissex A. Gatos",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-gatos"
+            },
+            {
+              "nome": "Unissex A. Batimentos",
+              "tituloCompleto": "Gorro Unissex A. Batimentos",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-batimentos"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "002-SD-203-000-F",
+          "nome": "Gorro Unissex D. Circo",
+          "nomeCompleto": "Gorro Unissex D. Circo",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-circo",
+          "cores": [
+            {
+              "nome": "Unissex D. Circo",
+              "tituloCompleto": "Gorro Unissex D. Circo",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-circo"
+            },
+            {
+              "nome": "Feminino  Xadrez",
+              "tituloCompleto": "Gorro Feminino  Xadrez",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-xadrez"
+            },
+            {
+              "nome": "Feminino Piratas",
+              "tituloCompleto": "Gorro Feminino Piratas",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-piratas"
+            },
+            {
+              "nome": "Feminino Marmore",
+              "tituloCompleto": "Gorro Feminino Marmore",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-marmore"
+            },
+            {
+              "nome": "Feminino Animal Print",
+              "tituloCompleto": "Gorro Feminino Animal Print",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print"
+            },
+            {
+              "nome": "Feminino Animal Print Cinza",
+              "tituloCompleto": "Gorro Feminino Animal Print Cinza",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print-cinza"
+            },
+            {
+              "nome": "Feminino Animal Print Bege",
+              "tituloCompleto": "Gorro Feminino Animal Print Bege",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print-bege"
+            },
+            {
+              "nome": "Feminino Bocas Poá",
+              "tituloCompleto": "Gorro Feminino Bocas Poá",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-bocas-poa"
+            },
+            {
+              "nome": "Unissex D. Dente Love",
+              "tituloCompleto": "Gorro Unissex D. Dente Love",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-dente-love/"
+            },
+            {
+              "nome": "Unissex D. Games",
+              "tituloCompleto": "Gorro Unissex D. Games",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-games/"
+            },
+            {
+              "nome": "Unissex D. Cilios",
+              "tituloCompleto": "Gorro Unissex D. Cilios",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-cilios/"
+            },
+            {
+              "nome": "Feminino Sweet Dogs",
+              "tituloCompleto": "Gorro Feminino Sweet Dogs",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-sweet-dogs"
+            },
+            {
+              "nome": "Unissex D. Etnico",
+              "tituloCompleto": "Gorro Unissex D. Etnico",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-etnico/"
+            },
+            {
+              "nome": "Unissex D. Fada do Dente",
+              "tituloCompleto": "Gorro Unissex D. Fada do Dente",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-fada-do-dente/"
+            },
+            {
+              "nome": "Unissex D. Bocas Kisses",
+              "tituloCompleto": "Gorro Unissex D. Bocas Kisses",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-bocas-kisses/"
+            },
+            {
+              "nome": "Unissex D. Lego Azul",
+              "tituloCompleto": "Gorro Unissex D. Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-azul/"
+            },
+            {
+              "nome": "Unissex D. Lego Rosa",
+              "tituloCompleto": "Gorro Unissex D. Lego Rosa",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-rosa/"
+            },
+            {
+              "nome": "Unissex D. Dentinho Bolinha",
+              "tituloCompleto": "Gorro Unissex D. Dentinho Bolinha",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-dentinho-bolinha/"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "002-SD-203-000-M",
+          "nome": "Gorro Unissex A. Circo",
+          "nomeCompleto": "Gorro Unissex A. Circo",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-a-circo",
+          "cores": [
+            {
+              "nome": "Unissex A. Circo",
+              "tituloCompleto": "Gorro Unissex A. Circo",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-circo"
+            },
+            {
+              "nome": "Masculino Games",
+              "tituloCompleto": "Gorro Masculino Games",
+              "link": "https://www.danajalecos.com.br/gorro-masculino-games"
+            },
+            {
+              "nome": "Unissex A. Fantasma",
+              "tituloCompleto": "Gorro Unissex A. Fantasma",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-fantasma/"
+            },
+            {
+              "nome": "Unissex A. Cães e Gatos",
+              "tituloCompleto": "Gorro Unissex A. Cães e Gatos",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-caes-e-gatos/"
+            },
+            {
+              "nome": "Unissex A. Dental",
+              "tituloCompleto": "Gorro Unissex A. Dental",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-dental/"
+            },
+            {
+              "nome": "Unissex A. Dente Azul Marinho",
+              "tituloCompleto": "Gorro Unissex A. Dente Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-dente-azul-marinho/"
+            },
+            {
+              "nome": "Unissex A. Dente Branco",
+              "tituloCompleto": "Gorro Unissex A. Dente Branco",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-dente-branco"
+            },
+            {
+              "nome": "Unissex A. Planetas",
+              "tituloCompleto": "Gorro Unissex A. Planetas",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-planetas"
+            },
+            {
+              "nome": "Unissex A. Lego Azul",
+              "tituloCompleto": "Gorro Unissex A. Lego Azul",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-lego-azul"
+            },
+            {
+              "nome": "Unissex A. Passaporte",
+              "tituloCompleto": "Gorro Unissex A. Passaporte",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-passaporte"
+            },
+            {
+              "nome": "Unissex A. Dinos",
+              "tituloCompleto": "Gorro Unissex A. Dinos",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-dinos"
+            },
+            {
+              "nome": "Unissex A. Gatos",
+              "tituloCompleto": "Gorro Unissex A. Gatos",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-gatos"
+            },
+            {
+              "nome": "Unissex A. Batimentos",
+              "tituloCompleto": "Gorro Unissex A. Batimentos",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-batimentos"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "002-SD-203-000-F",
+          "nome": "Gorro Unissex D. Circo",
+          "nomeCompleto": "Gorro Unissex D. Circo",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-circo",
+          "cores": [
+            {
+              "nome": "Unissex D. Circo",
+              "tituloCompleto": "Gorro Unissex D. Circo",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-circo"
+            },
+            {
+              "nome": "Feminino  Xadrez",
+              "tituloCompleto": "Gorro Feminino  Xadrez",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-xadrez"
+            },
+            {
+              "nome": "Feminino Piratas",
+              "tituloCompleto": "Gorro Feminino Piratas",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-piratas"
+            },
+            {
+              "nome": "Feminino Marmore",
+              "tituloCompleto": "Gorro Feminino Marmore",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-marmore"
+            },
+            {
+              "nome": "Feminino Animal Print",
+              "tituloCompleto": "Gorro Feminino Animal Print",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print"
+            },
+            {
+              "nome": "Feminino Animal Print Cinza",
+              "tituloCompleto": "Gorro Feminino Animal Print Cinza",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print-cinza"
+            },
+            {
+              "nome": "Feminino Animal Print Bege",
+              "tituloCompleto": "Gorro Feminino Animal Print Bege",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print-bege"
+            },
+            {
+              "nome": "Feminino Bocas Poá",
+              "tituloCompleto": "Gorro Feminino Bocas Poá",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-bocas-poa"
+            },
+            {
+              "nome": "Unissex D. Dente Love",
+              "tituloCompleto": "Gorro Unissex D. Dente Love",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-dente-love/"
+            },
+            {
+              "nome": "Unissex D. Games",
+              "tituloCompleto": "Gorro Unissex D. Games",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-games/"
+            },
+            {
+              "nome": "Unissex D. Cilios",
+              "tituloCompleto": "Gorro Unissex D. Cilios",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-cilios/"
+            },
+            {
+              "nome": "Feminino Sweet Dogs",
+              "tituloCompleto": "Gorro Feminino Sweet Dogs",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-sweet-dogs"
+            },
+            {
+              "nome": "Unissex D. Etnico",
+              "tituloCompleto": "Gorro Unissex D. Etnico",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-etnico/"
+            },
+            {
+              "nome": "Unissex D. Fada do Dente",
+              "tituloCompleto": "Gorro Unissex D. Fada do Dente",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-fada-do-dente/"
+            },
+            {
+              "nome": "Unissex D. Bocas Kisses",
+              "tituloCompleto": "Gorro Unissex D. Bocas Kisses",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-bocas-kisses/"
+            },
+            {
+              "nome": "Unissex D. Lego Azul",
+              "tituloCompleto": "Gorro Unissex D. Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-azul/"
+            },
+            {
+              "nome": "Unissex D. Lego Rosa",
+              "tituloCompleto": "Gorro Unissex D. Lego Rosa",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-rosa/"
+            },
+            {
+              "nome": "Unissex D. Dentinho Bolinha",
+              "tituloCompleto": "Gorro Unissex D. Dentinho Bolinha",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-dentinho-bolinha/"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "002-SD-203-000-M",
+          "nome": "Gorro Unissex A. Circo",
+          "nomeCompleto": "Gorro Unissex A. Circo",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-a-circo",
+          "cores": [
+            {
+              "nome": "Unissex A. Circo",
+              "tituloCompleto": "Gorro Unissex A. Circo",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-circo"
+            },
+            {
+              "nome": "Masculino Games",
+              "tituloCompleto": "Gorro Masculino Games",
+              "link": "https://www.danajalecos.com.br/gorro-masculino-games"
+            },
+            {
+              "nome": "Unissex A. Fantasma",
+              "tituloCompleto": "Gorro Unissex A. Fantasma",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-fantasma/"
+            },
+            {
+              "nome": "Unissex A. Cães e Gatos",
+              "tituloCompleto": "Gorro Unissex A. Cães e Gatos",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-caes-e-gatos/"
+            },
+            {
+              "nome": "Unissex A. Dental",
+              "tituloCompleto": "Gorro Unissex A. Dental",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-dental/"
+            },
+            {
+              "nome": "Unissex A. Dente Azul Marinho",
+              "tituloCompleto": "Gorro Unissex A. Dente Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-dente-azul-marinho/"
+            },
+            {
+              "nome": "Unissex A. Dente Branco",
+              "tituloCompleto": "Gorro Unissex A. Dente Branco",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-dente-branco"
+            },
+            {
+              "nome": "Unissex A. Planetas",
+              "tituloCompleto": "Gorro Unissex A. Planetas",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-planetas"
+            },
+            {
+              "nome": "Unissex A. Lego Azul",
+              "tituloCompleto": "Gorro Unissex A. Lego Azul",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-lego-azul"
+            },
+            {
+              "nome": "Unissex A. Passaporte",
+              "tituloCompleto": "Gorro Unissex A. Passaporte",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-passaporte"
+            },
+            {
+              "nome": "Unissex A. Dinos",
+              "tituloCompleto": "Gorro Unissex A. Dinos",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-dinos"
+            },
+            {
+              "nome": "Unissex A. Gatos",
+              "tituloCompleto": "Gorro Unissex A. Gatos",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-gatos"
+            },
+            {
+              "nome": "Unissex A. Batimentos",
+              "tituloCompleto": "Gorro Unissex A. Batimentos",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-batimentos"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Estampado"
+        },
+        {
+          "sku": "002-SD-203-000-F",
+          "nome": "Gorro Unissex D. Circo",
+          "nomeCompleto": "Gorro Unissex D. Circo",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-circo",
+          "cores": [
+            {
+              "nome": "Unissex D. Circo",
+              "tituloCompleto": "Gorro Unissex D. Circo",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-circo"
+            },
+            {
+              "nome": "Feminino  Xadrez",
+              "tituloCompleto": "Gorro Feminino  Xadrez",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-xadrez"
+            },
+            {
+              "nome": "Feminino Piratas",
+              "tituloCompleto": "Gorro Feminino Piratas",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-piratas"
+            },
+            {
+              "nome": "Feminino Marmore",
+              "tituloCompleto": "Gorro Feminino Marmore",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-marmore"
+            },
+            {
+              "nome": "Feminino Animal Print",
+              "tituloCompleto": "Gorro Feminino Animal Print",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print"
+            },
+            {
+              "nome": "Feminino Animal Print Cinza",
+              "tituloCompleto": "Gorro Feminino Animal Print Cinza",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print-cinza"
+            },
+            {
+              "nome": "Feminino Animal Print Bege",
+              "tituloCompleto": "Gorro Feminino Animal Print Bege",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-animal-print-bege"
+            },
+            {
+              "nome": "Feminino Bocas Poá",
+              "tituloCompleto": "Gorro Feminino Bocas Poá",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-bocas-poa"
+            },
+            {
+              "nome": "Unissex D. Dente Love",
+              "tituloCompleto": "Gorro Unissex D. Dente Love",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-dente-love/"
+            },
+            {
+              "nome": "Unissex D. Games",
+              "tituloCompleto": "Gorro Unissex D. Games",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-games/"
+            },
+            {
+              "nome": "Unissex D. Cilios",
+              "tituloCompleto": "Gorro Unissex D. Cilios",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-cilios/"
+            },
+            {
+              "nome": "Feminino Sweet Dogs",
+              "tituloCompleto": "Gorro Feminino Sweet Dogs",
+              "link": "https://www.danajalecos.com.br/gorro-feminino-sweet-dogs"
+            },
+            {
+              "nome": "Unissex D. Etnico",
+              "tituloCompleto": "Gorro Unissex D. Etnico",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-etnico/"
+            },
+            {
+              "nome": "Unissex D. Fada do Dente",
+              "tituloCompleto": "Gorro Unissex D. Fada do Dente",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-fada-do-dente/"
+            },
+            {
+              "nome": "Unissex D. Bocas Kisses",
+              "tituloCompleto": "Gorro Unissex D. Bocas Kisses",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-bocas-kisses/"
+            },
+            {
+              "nome": "Unissex D. Lego Azul",
+              "tituloCompleto": "Gorro Unissex D. Lego Azul",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-azul/"
+            },
+            {
+              "nome": "Unissex D. Lego Rosa",
+              "tituloCompleto": "Gorro Unissex D. Lego Rosa",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lego-rosa/"
+            },
+            {
+              "nome": "Unissex D. Dentinho Bolinha",
+              "tituloCompleto": "Gorro Unissex D. Dentinho Bolinha",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-dentinho-bolinha/"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Estampado"
+        }
+      ],
+      "Laranja": [
+        {
+          "sku": "002-SD-035-000-F",
+          "nome": "Gorro Unissex D. Tangerina",
+          "nomeCompleto": "Gorro Unissex D. Tangerina",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-tangerina",
+          "cores": [
+            {
+              "nome": "Unissex D. Tangerina",
+              "tituloCompleto": "Gorro Unissex D. Tangerina",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-tangerina"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Laranja"
+        }
+      ],
+      "Preto": [
+        {
+          "sku": "002-DG-012-000-F",
+          "nome": "Gorro Shine Preto Cristal",
+          "nomeCompleto": "Gorro Shine Preto Cristal",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-shine-preto-cristal",
+          "cores": [
+            {
+              "nome": "Shine Preto Cristal",
+              "tituloCompleto": "Gorro Shine Preto Cristal",
+              "link": "https://www.danajalecos.com.br/gorro-shine-preto-cristal"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Preto"
+        }
+      ],
+      "Rosa": [
+        {
+          "sku": "002-SD-074-000-F",
+          "nome": "Gorro Unissex D. Tec Easy Rosa",
+          "nomeCompleto": "Gorro Unissex D. Tec Easy Rosa",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-tec-easy-rosa",
+          "cores": null,
+          "genero": "Unissex",
+          "cor": "Rosa"
+        }
+      ],
+      "Roxo": [
+        {
+          "sku": "002-SD-024-000-F",
+          "nome": "Gorro  Unissex D. Roxo",
+          "nomeCompleto": "Gorro  Unissex D. Roxo",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-roxo",
+          "cores": [
+            {
+              "nome": "Unissex D. Roxo",
+              "tituloCompleto": "Gorro  Unissex D. Roxo",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-roxo"
+            },
+            {
+              "nome": "Unissex D. Lilás",
+              "tituloCompleto": "Gorro Unissex D. Lilás",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-lilas/"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Roxo"
+        }
+      ],
+      "Sem Cor": [
+        {
+          "sku": "002-SD-302-000-F",
+          "nome": "Gorro Unissex D. Liga da Fofura",
+          "nomeCompleto": "Gorro Unissex D. Liga da Fofura",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-liga-da-fofura",
+          "cores": null,
+          "genero": "Unissex",
+          "cor": "Sem Cor"
+        },
+        {
+          "sku": "002-SD-300-000-F",
+          "nome": "Gorro Unissex D. Peças de Amor",
+          "nomeCompleto": "Gorro Unissex D. Peças de Amor",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-pecas-de-amor",
+          "cores": null,
+          "genero": "Unissex",
+          "cor": "Sem Cor"
+        },
+        {
+          "sku": "002-SD-231-000-F",
+          "nome": "Gorro Unissex D. Cardio Blue",
+          "nomeCompleto": "Gorro Unissex D. Cardio Blue",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-cardio-blue",
+          "cores": null,
+          "genero": "Unissex",
+          "cor": "Sem Cor"
+        },
+        {
+          "sku": "002-SD-159-000-M",
+          "nome": "Gorro Unissex A. Baralho",
+          "nomeCompleto": "Gorro Unissex A. Baralho",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-a-baralho",
+          "cores": null,
+          "genero": "Unissex",
+          "cor": "Sem Cor"
+        },
+        {
+          "sku": "002-SD-162-000-M",
+          "nome": "Gorro Unissex A. Rock",
+          "nomeCompleto": "Gorro Unissex A. Rock",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-a-rock",
+          "cores": null,
+          "genero": "Unissex",
+          "cor": "Sem Cor"
+        },
+        {
+          "sku": "002-SD-161-000-F",
+          "nome": "Gorro Unissex D.  Linguas/Blah",
+          "nomeCompleto": "Gorro Unissex D.  Linguas/Blah",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-linguas-blah",
+          "cores": null,
+          "genero": "Unissex",
+          "cor": "Sem Cor"
+        },
+        {
+          "sku": "002-SD-161-000-M",
+          "nome": "Gorro Unissex A. Linguas/Bocas Blah",
+          "nomeCompleto": "Gorro Unissex A. Linguas/Bocas Blah",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-a-linguas-bocas-blah",
+          "cores": null,
+          "genero": "Unissex",
+          "cor": "Sem Cor"
+        },
+        {
+          "sku": "002-SD-130-000-M",
+          "nome": "Gorro Unissex A. Geometria",
+          "nomeCompleto": "Gorro Unissex A. Geometria",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-a-geometria",
+          "cores": null,
+          "genero": "Unissex",
+          "cor": "Sem Cor"
+        },
+        {
+          "sku": "002-SD-130-000-F",
+          "nome": "Gorro Unissex D. Geometria",
+          "nomeCompleto": "Gorro Unissex D. Geometria",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-geometria",
+          "cores": null,
+          "genero": "Unissex",
+          "cor": "Sem Cor"
+        }
+      ],
+      "Verde": [
+        {
+          "sku": "002-SD-010-000-F-5",
+          "nome": "Gorro  Unissex D.  Verde Escuro",
+          "nomeCompleto": "Gorro  Unissex D.  Verde Escuro",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-d-verde-escuro",
+          "cores": [
+            {
+              "nome": "Unissex D.  Verde Escuro",
+              "tituloCompleto": "Gorro  Unissex D.  Verde Escuro",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-d-verde-escuro"
+            },
+            {
+              "nome": "Unissex D. Verde Claro",
+              "tituloCompleto": "Gorro Unissex D. Verde Claro",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-feminino-verde-claro/"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Verde"
+        },
+        {
+          "sku": "002-SD-010-000-M",
+          "nome": "Gorro Unissex A. Verde Escuro",
+          "nomeCompleto": "Gorro Unissex A. Verde Escuro",
+          "tipoProduto": "Gorro",
+          "link": "https://www.danajalecos.com.br/gorro-unissex-a-verde-escuro",
+          "cores": [
+            {
+              "nome": "Unissex A. Verde Escuro",
+              "tituloCompleto": "Gorro Unissex A. Verde Escuro",
+              "link": "https://www.danajalecos.com.br/gorro-unissex-a-verde-escuro"
+            },
+            {
+              "nome": "Unissex A. Verde Claro",
+              "tituloCompleto": "Gorro Unissex A. Verde Claro",
+              "link": "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-masculino-verde-claro/"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Verde"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "tipoProduto": "Robe",
+    "totalProdutos": 3,
+    "dataProcessamento": "2026-02-03T02:01:44.283Z",
+    "generosDisponiveis": [
+      "Unissex"
+    ]
+  },
+  "unissex": {
+    "totalProdutos": 3,
+    "todasCores": [
+      "Branco",
+      "Preto",
+      "Rosa"
+    ],
+    "cadaCor": {
+      "Branco": [
+        {
+          "sku": "217773",
+          "nome": "Robe Wedding Edition Branco",
+          "nomeCompleto": "Robe Wedding Edition Branco",
+          "tipoProduto": "Robe",
+          "link": "https://www.danajalecos.com.br/robe-wedding-edition-branco",
+          "cores": [
+            {
+              "nome": "Wedding Edition Branco",
+              "tituloCompleto": "Robe Wedding Edition Branco",
+              "link": "https://www.danajalecos.com.br/robe-wedding-edition-branco"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Branco"
+        }
+      ],
+      "Preto": [
+        {
+          "sku": "217774",
+          "nome": "Robe Wedding Edition Preto",
+          "nomeCompleto": "Robe Wedding Edition Preto",
+          "tipoProduto": "Robe",
+          "link": "https://www.danajalecos.com.br/robe-wedding-edition-preto",
+          "cores": [
+            {
+              "nome": "Wedding Edition Preto",
+              "tituloCompleto": "Robe Wedding Edition Preto",
+              "link": "https://www.danajalecos.com.br/robe-wedding-edition-preto"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Preto"
+        }
+      ],
+      "Rosa": [
+        {
+          "sku": "217772",
+          "nome": "Robe Wedding Edition Rosa Nude",
+          "nomeCompleto": "Robe Wedding Edition Rosa Nude",
+          "tipoProduto": "Robe",
+          "link": "https://www.danajalecos.com.br/robe-wedding-edition-rosa-nude",
+          "cores": [
+            {
+              "nome": "Edition Rosa Nude",
+              "tituloCompleto": "Robe Wedding Edition Rosa Nude",
+              "link": "https://www.danajalecos.com.br/robe-wedding-edition-rosa-nude"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Rosa"
+        }
+      ]
+    }
+  }
+}

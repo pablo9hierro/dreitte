@@ -1,0 +1,356 @@
+{
+  "metadata": {
+    "tipoProduto": "Avental",
+    "totalProdutos": 25,
+    "dataProcessamento": "2026-02-03T02:06:42.722Z",
+    "generosDisponiveis": [
+      "Unissex"
+    ]
+  },
+  "unissex": {
+    "totalProdutos": 25,
+    "todasCores": [
+      "Acafrao",
+      "Areia",
+      "Argila",
+      "Azul",
+      "Caramelo",
+      "Ferrugem",
+      "Mediterraneo",
+      "Natural",
+      "Oliva",
+      "Preto",
+      "Rosa"
+    ],
+    "cadaCor": {
+      "Acafrao": [
+        {
+          "sku": "490-SD-082-000-F",
+          "nome": "Avental Unissex Linho Açafrão Regulável",
+          "nomeCompleto": "Avental Unissex Linho Açafrão Regulável",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-regulavel",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Acafrao"
+        },
+        {
+          "sku": "492-DT-082-087",
+          "nome": "Avental Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "nomeCompleto": "Avental Unissex Linho Açafrão detalhes Preto 2 em 1",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-acafrao-detalhes-preto-2-em-3",
+          "cores": [
+            {
+              "nome": "Unissex Linho Açafrão detalhes Preto 2 em 1",
+              "tituloCompleto": "Avental Unissex Linho Açafrão detalhes Preto 2 em 1",
+              "link": "https://www.danajalecos.com.br/avental-linho-acafrao-detalhes-preto-2-em-3"
+            },
+            {
+              "nome": "Unissex Linho Preto detalhes Açafrão 2 em 1",
+              "tituloCompleto": "Avental Unissex Linho Preto detalhes Açafrão 2 em 1",
+              "link": "https://www.danajalecos.com.br/avental-linho-preto-detalhes-acafrao-2-em-3"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Acafrao"
+        },
+        {
+          "sku": "492-DT-087-082",
+          "nome": "Avental Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "nomeCompleto": "Avental Unissex Linho Preto detalhes Açafrão 2 em 1",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-detalhes-acafrao-2-em-3",
+          "cores": [
+            {
+              "nome": "Unissex Linho Preto detalhes Açafrão 2 em 1",
+              "tituloCompleto": "Avental Unissex Linho Preto detalhes Açafrão 2 em 1",
+              "link": "https://www.danajalecos.com.br/avental-linho-preto-detalhes-acafrao-2-em-3"
+            },
+            {
+              "nome": "Unissex Linho Açafrão detalhes Preto 2 em 1",
+              "tituloCompleto": "Avental Unissex Linho Açafrão detalhes Preto 2 em 1",
+              "link": "https://www.danajalecos.com.br/avental-linho-acafrao-detalhes-preto-2-em-3"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Acafrao"
+        }
+      ],
+      "Areia": [
+        {
+          "sku": "492-DT-089-084",
+          "nome": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "nomeCompleto": "Avental Unissex Linho  Areia Escura detalhes Argila 2 em 1",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-detalhes-argila-2-em-3",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Areia"
+        },
+        {
+          "sku": "490-SD-089-000-F",
+          "nome": "Avental Unissex Linho Areia Escura Regulável",
+          "nomeCompleto": "Avental Unissex Linho Areia Escura Regulável",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-areia-escura-regulavel",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Areia"
+        },
+        {
+          "sku": "492-DT-084-089",
+          "nome": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "nomeCompleto": "Avental Unissex Linho Argila detalhes Areia Escura 2 em 1",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-detalhes-areia-escura-2-em-3",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Areia"
+        }
+      ],
+      "Argila": [
+        {
+          "sku": "490-SD-084-000-F",
+          "nome": "Avental Unissex Linho Argila Regulável",
+          "nomeCompleto": "Avental Unissex Linho Argila Regulável",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-argila-regulavel",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Argila"
+        }
+      ],
+      "Azul": [
+        {
+          "sku": "500-KI-000-017",
+          "nome": "Kit Avental Infantil Azul Bebê",
+          "nomeCompleto": "Kit Avental Infantil Azul Bebê",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/kit-avental-infantil-azul-bebe-unico",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Azul"
+        }
+      ],
+      "Caramelo": [
+        {
+          "sku": "492-DT-090-083",
+          "nome": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "nomeCompleto": "Avental Linho Unissex Natural detalhes Caramelo 2 em 1",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-caramelo-2-em-3",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Caramelo"
+        },
+        {
+          "sku": "490-SD-083-000-F",
+          "nome": "Avental Unissex Linho Caramelo Regulável",
+          "nomeCompleto": "Avental Unissex Linho Caramelo Regulável",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-regulavel",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Caramelo"
+        },
+        {
+          "sku": "492-DT-083-090",
+          "nome": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "nomeCompleto": "Avental Unissex Linho Caramelo detalhes Natural 2 em 1",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-caramelo-detalhes-natural-2-em-3",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Caramelo"
+        },
+        {
+          "sku": "493-DT-022-000",
+          "nome": "Avental Unissex Vintage Jeans detalhes Couro Caramelo",
+          "nomeCompleto": "Avental Unissex Vintage Jeans detalhes Couro Caramelo",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-vintage-jeans-detalhes-couro-caramelo",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Caramelo"
+        }
+      ],
+      "Ferrugem": [
+        {
+          "sku": "489-SD-091-000-F",
+          "nome": "Avental Linho Longo Ferrugem",
+          "nomeCompleto": "Avental Linho Longo Ferrugem",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-longo-ferrugem",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Ferrugem"
+        }
+      ],
+      "Mediterraneo": [
+        {
+          "sku": "490-SD-081-000-F",
+          "nome": "Avental Unissex Linho Mediterrâneo Regulável",
+          "nomeCompleto": "Avental Unissex Linho Mediterrâneo Regulável",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-regulavel",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Mediterraneo"
+        },
+        {
+          "sku": "492-DT-085-081",
+          "nome": "Avental Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "nomeCompleto": "Avental Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-detalhes-mediterraneo-2-em-3",
+          "cores": [
+            {
+              "nome": "Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+              "tituloCompleto": "Avental Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+              "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-detalhes-mediterraneo-2-em-3"
+            },
+            {
+              "nome": "Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+              "tituloCompleto": "Avental  Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+              "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-detalhes-rosa-cha-2-em-3"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Mediterraneo"
+        },
+        {
+          "sku": "492-DT-081-085",
+          "nome": "Avental  Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "nomeCompleto": "Avental  Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-detalhes-rosa-cha-2-em-3",
+          "cores": [
+            {
+              "nome": "Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+              "tituloCompleto": "Avental  Unissex Linho Mediterrâneo detalhes Rosa Chá 2 em 1",
+              "link": "https://www.danajalecos.com.br/avental-linho-mediterraneo-detalhes-rosa-cha-2-em-3"
+            },
+            {
+              "nome": "Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+              "tituloCompleto": "Avental Unissex Linho Rosa Chá detalhes Mediterrâneo 2 em 1",
+              "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-detalhes-mediterraneo-2-em-3"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Mediterraneo"
+        }
+      ],
+      "Natural": [
+        {
+          "sku": "489-SD-090-000-F-5",
+          "nome": "Avental Linho Longo Natural",
+          "nomeCompleto": "Avental Linho Longo Natural",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-longo-natural",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Natural"
+        },
+        {
+          "sku": "490-SD-090-000-F",
+          "nome": "Avental Unissex Linho Natural Regulável",
+          "nomeCompleto": "Avental Unissex Linho Natural Regulável",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-regulavel",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Natural"
+        },
+        {
+          "sku": "492-DT-090-086",
+          "nome": "Avental Unissex Linho Natural detalhes Oliva 2 em 1",
+          "nomeCompleto": "Avental Unissex Linho Natural detalhes Oliva 2 em 1",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-natural-detalhes-oliva-2-em-3",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Natural"
+        },
+        {
+          "sku": "492-DT-086-090",
+          "nome": "Avental Unissex Linho Oliva detalhes Natural 2 em 1",
+          "nomeCompleto": "Avental Unissex Linho Oliva detalhes Natural 2 em 1",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-detalhes-natural-2-em-3",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Natural"
+        }
+      ],
+      "Oliva": [
+        {
+          "sku": "490-SD-086-000-F",
+          "nome": "Avental Unissex Linho Oliva Regulável",
+          "nomeCompleto": "Avental Unissex Linho Oliva Regulável",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-oliva-regulavel",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Oliva"
+        }
+      ],
+      "Preto": [
+        {
+          "sku": "490-SD-087-000-F",
+          "nome": "Avental Unissex Linho Preto Regulável",
+          "nomeCompleto": "Avental Unissex Linho Preto Regulável",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-preto-regulavel",
+          "cores": [
+            {
+              "nome": "Unissex Linho Preto Regulável",
+              "tituloCompleto": "Avental Unissex Linho Preto Regulável",
+              "link": "https://www.danajalecos.com.br/avental-linho-preto-regulavel"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Preto"
+        },
+        {
+          "sku": "497-SD-012-000",
+          "nome": "Avental Unissex Cozinha Gabardine Preto",
+          "nomeCompleto": "Avental Unissex Cozinha Gabardine Preto",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-cozinha-gabardine-preto",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Preto"
+        }
+      ],
+      "Rosa": [
+        {
+          "sku": "500-KI-000-005",
+          "nome": "Kit Avental Infantil Rosa Bebê",
+          "nomeCompleto": "Kit Avental Infantil Rosa Bebê",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/kit-avental-infantil-rosa-bebe-unico",
+          "cores": [],
+          "genero": "Unissex",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "490-SD-085-000-F",
+          "nome": "Avental Unissex Linho Rosa Chá Regulável",
+          "nomeCompleto": "Avental Unissex Linho Rosa Chá Regulável",
+          "tipoProduto": "Avental",
+          "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-regulavel",
+          "cores": [
+            {
+              "nome": "Linho Rosa Chá Regulável",
+              "tituloCompleto": "Avental Linho Rosa Chá Regulável",
+              "link": "https://www.danajalecos.com.br/avental-linho-rosa-cha-regulavel"
+            }
+          ],
+          "genero": "Unissex",
+          "cor": "Rosa"
+        }
+      ]
+    }
+  }
+}

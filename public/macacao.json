@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "tipoProduto": "Macacão",
+    "totalProdutos": 9,
+    "dataProcessamento": "2026-02-03T01:53:11.562Z",
+    "generosDisponiveis": [
+      "Feminino"
+    ]
+  },
+  "feminino": {
+    "totalProdutos": 9,
+    "todasCores": [
+      "Azul",
+      "Branco",
+      "Cinza",
+      "Rosa",
+      "Verde",
+      "Vermelho"
+    ],
+    "cadaCor": {
+      "Azul": [
+        {
+          "sku": "522-MC-015-000",
+          "nome": "Macacão Feminino Manga Curta Azul Marinho",
+          "nomeCompleto": "Macacão Feminino Manga Curta Azul Marinho",
+          "tipoProduto": "Macacão",
+          "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-azul-marinho/",
+          "cores": [
+            {
+              "nome": "Curta Azul Marinho",
+              "tituloCompleto": "Macacão Feminino Manga Curta Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-azul-marinho/"
+            },
+            {
+              "nome": "Curta Azul Bebê",
+              "tituloCompleto": "Macacão Feminino Manga Curta Azul Bebê",
+              "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-azul-bebe/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        },
+        {
+          "sku": "522-MC-017-000",
+          "nome": "Macacão Feminino Manga Curta Azul Bebê",
+          "nomeCompleto": "Macacão Feminino Manga Curta Azul Bebê",
+          "tipoProduto": "Macacão",
+          "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-azul-bebe/",
+          "cores": [
+            {
+              "nome": "Curta Azul Bebê",
+              "tituloCompleto": "Macacão Feminino Manga Curta Azul Bebê",
+              "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-azul-bebe/"
+            },
+            {
+              "nome": "Curta Azul Marinho",
+              "tituloCompleto": "Macacão Feminino Manga Curta Azul Marinho",
+              "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-azul-marinho/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Azul"
+        }
+      ],
+      "Branco": [
+        {
+          "sku": "522-MC-008-000",
+          "nome": "Macacão Feminino Manga Curta Branco",
+          "nomeCompleto": "Macacão Feminino Manga Curta Branco",
+          "tipoProduto": "Macacão",
+          "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-branco/",
+          "cores": [
+            {
+              "nome": "Manga Curta Branco",
+              "tituloCompleto": "Macacão Feminino Manga Curta Branco",
+              "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-branco/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        },
+        {
+          "sku": "522-SD-008-000",
+          "nome": "Macacão Feminino Manga Longa Branco",
+          "nomeCompleto": "Macacão Feminino Manga Longa Branco",
+          "tipoProduto": "Macacão",
+          "link": "https://www.danajalecos.com.br/macacao-feminino-manga-longa-branco",
+          "cores": [
+            {
+              "nome": "Manga Longa Branco",
+              "tituloCompleto": "Macacão Feminino Manga Longa Branco",
+              "link": "https://www.danajalecos.com.br/macacao-feminino-manga-longa-branco"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Branco"
+        }
+      ],
+      "Cinza": [
+        {
+          "sku": "522-MC-014-000",
+          "nome": "Macacão Feminino Manga Curta Chumbo",
+          "nomeCompleto": "Macacão Feminino Manga Curta Chumbo",
+          "tipoProduto": "Macacão",
+          "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-chumbo/",
+          "cores": [
+            {
+              "nome": "Manga Curta Chumbo",
+              "tituloCompleto": "Macacão Feminino Manga Curta Chumbo",
+              "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-chumbo/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Cinza"
+        }
+      ],
+      "Rosa": [
+        {
+          "sku": "522-MC-004-000",
+          "nome": "Macacão Feminino Manga Curta Rosa Pink",
+          "nomeCompleto": "Macacão Feminino Manga Curta Rosa Pink",
+          "tipoProduto": "Macacão",
+          "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-rosa-pink/",
+          "cores": [
+            {
+              "nome": "Curta Rosa Pink",
+              "tituloCompleto": "Macacão Feminino Manga Curta Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-rosa-pink/"
+            },
+            {
+              "nome": "Curta Rosa Nude",
+              "tituloCompleto": "Macacão Feminino Manga Curta Rosa Nude",
+              "link": "https://www.danajalecos.com.br/macacao-feminino-manga-curta-rosa-nude"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        },
+        {
+          "sku": "522-MC-007-000",
+          "nome": "Macacão Feminino Manga Curta Rosa Nude",
+          "nomeCompleto": "Macacão Feminino Manga Curta Rosa Nude",
+          "tipoProduto": "Macacão",
+          "link": "https://www.danajalecos.com.br/macacao-feminino-manga-curta-rosa-nude",
+          "cores": [
+            {
+              "nome": "Curta Rosa Nude",
+              "tituloCompleto": "Macacão Feminino Manga Curta Rosa Nude",
+              "link": "https://www.danajalecos.com.br/macacao-feminino-manga-curta-rosa-nude"
+            },
+            {
+              "nome": "Curta Rosa Pink",
+              "tituloCompleto": "Macacão Feminino Manga Curta Rosa Pink",
+              "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-rosa-pink/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Rosa"
+        }
+      ],
+      "Verde": [
+        {
+          "sku": "522-MC-009-000",
+          "nome": "Macacão Feminino Manga Curta Verde Claro",
+          "nomeCompleto": "Macacão Feminino Manga Curta Verde Claro",
+          "tipoProduto": "Macacão",
+          "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-verde-claro/",
+          "cores": [
+            {
+              "nome": "Curta Verde Claro",
+              "tituloCompleto": "Macacão Feminino Manga Curta Verde Claro",
+              "link": "https://www.danajalecos.com.br/shop/macacao/macacao-feminino-manga-curta-verde-claro/"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Verde"
+        }
+      ],
+      "Vermelho": [
+        {
+          "sku": "522-SD-002-000",
+          "nome": "Macacão Feminino Manga Longa Bordô",
+          "nomeCompleto": "Macacão Feminino Manga Longa Bordô",
+          "tipoProduto": "Macacão",
+          "link": "https://www.danajalecos.com.br/macacao-feminino-manga-longa-bordo",
+          "cores": [
+            {
+              "nome": "Manga Longa Bordô",
+              "tituloCompleto": "Macacão Feminino Manga Longa Bordô",
+              "link": "https://www.danajalecos.com.br/macacao-feminino-manga-longa-bordo"
+            }
+          ],
+          "genero": "Feminino",
+          "cor": "Vermelho"
+        }
+      ]
+    }
+  }
+}
