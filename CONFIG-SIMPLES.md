@@ -11,39 +11,67 @@
 
 ## 2. Cole o Prompt
 
-Copie tudo de `PROMPT-FINAL-MVP.md` e cole no Stevo.
+Copie **TODO** o conteúdo de `PROMPT-FINAL-MVP.md` e cole no campo "Prompt Personalizado" do Stevo.
 
 ## 3. Teste
 
-Digite: `jaleco feminino amarelo`
+Digite no chat: `jaleco feminino amarelo`
 
-Deve retornar 3 produtos (Heloisa, Rute, Dani).
+**Deve retornar:**
+```
+Jaleco Feminino Heloisa Manga Longa Amarelo
+https://www.danajalecos.com.br/shop/jalecos/feminino/femininos-ziper/heloisa/jaleco-heloisa-amarelo/
 
----
+Jaleco Feminino Rute Amarelo
+https://www.danajalecos.com.br/shop/jalecos/feminino/rute/jaleco-rute-amarelo/
 
-## Por Que URL /api/catalogo-texto?
-
-✅ **Retorna texto puro** (não HTML) → RAG lê 100%  
-✅ **Atualiza automaticamente** quando você adicionar produtos  
-✅ **Tempo real** via seu script de scraping  
-
-Quando você atualizar os JSON → a API já retorna dados novos → Stevo vê
-
----
-
-## Sistema Completo de Atualização
-
-Veja: [SISTEMA-TEMPO-REAL.md](SISTEMA-TEMPO-REAL.md)
-
-Como integrar scraping + atualização automática.
+Jaleco Feminino Dani Amarelo
+https://www.danajalecos.com.br/shop/jalecos/feminino/dani/jaleco-dani-amarelo/
+```
 
 ---
 
-## Se Ainda Não Funcionar
+## Por Que Essa URL?
 
-1. Confirme criatividade = 0.0
-2. Teste a URL no navegador: deve retornar texto puro
-3. Verifique se Stevo indexou a URL (ícone verde)
-4. Force re-indexação manual se necessário
+`/api/catalogo-texto` retorna **texto puro** (não HTML complexo).
+
+✅ RAG lê 100% do conteúdo  
+✅ Estrutura simples: Tipo → Gênero → Cor → Produtos  
+✅ Fácil de buscar e filtrar  
+
+---
+
+## Verificação
+
+Antes de testar, confirme:
+
+- [ ] Criatividade = 0.0 (zero absoluto)
+- [ ] RAG está ATIVADO
+- [ ] URL indexada (ícone verde ou status "Ready")
+- [ ] Prompt completo colado
+
+---
+
+## Se Não Funcionar
+
+### 1. Teste a URL no navegador
+
+Abra: `https://dreitte.vercel.app/api/catalogo-texto`
+
+Deve mostrar texto puro com produtos.
+
+### 2. Force re-indexação
+
+No Stevo, nas configurações de RAG:
+- Clique em "Re-indexar" ou "Atualizar"
+- Aguarde 30-60 segundos
+
+### 3. Verifique criatividade
+
+Se > 0, o LLM vai inventar/modificar links.
+
+### 4. Confirme que RAG está ativo
+
+Se retornar `https://dreitte.vercel.app/...` → RAG **NÃO** está lendo o catálogo.
 
 Pronto.
