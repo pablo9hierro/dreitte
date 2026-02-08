@@ -4,7 +4,10 @@
 
 - **Criatividade:** 0.0 (zero)
 - **RAG:** ATIVADO
-- **URL:** `https://dreitte.vercel.app/catalogo`
+- **Arquivo:** Faça UPLOAD de `catalogo-completo.txt`
+  - Vá em: RAG → Upload de arquivos
+  - Selecione: `public/catalogo-completo.txt`
+  - Aguarde indexação (30-60 segundos)
 
 ## 2. Cole o Prompt
 
@@ -12,17 +15,24 @@ Copie tudo de `PROMPT-FINAL-MVP.md` e cole no Stevo.
 
 ## 3. Teste
 
-Digite: `jaleco masculino branco`
+Digite: `jaleco feminino amarelo`
 
-Deve retornar links exatos do catálogo.
+Deve retornar 3 produtos (Heloisa, Rute, Dani).
 
 ---
 
-## Se Não Funcionar
+## Por Que Arquivo em Vez de URL?
 
-1. Confirme que criatividade está em 0.0
-2. Confirme que a URL está indexada
-3. Aguarde 1-2 minutos para indexação
-4. Se ainda falhar, upload o arquivo `jaleco.json` direto no Stevo
+O RAG do Stevo lê arquivos TXT muito melhor que páginas HTML.
+Arquivo = 100% confiável. URL = pode falhar.
+
+---
+
+## Se Ainda Não Funcionar
+
+1. Confirme criatividade = 0.0
+2. Verifique se arquivo foi indexado (ícone verde)
+3. Teste com produto simples: "jaleco masculino amarelo"
+4. Se retornar link com `dreitte.vercel.app` → RAG não leu o arquivo
 
 Pronto.
