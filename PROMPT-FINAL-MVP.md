@@ -3,15 +3,21 @@
 ## ⚠️ CONFIGURAÇÃO STEVO
 Criatividade: 0.0 | RAG: ON
 
-**USE ESTE ARQUIVO NO RAG:**
-- Faça UPLOAD do arquivo: `catalogo-completo.txt`
-- NÃO use URL, use ARQUIVO direto
+**USE ESTA URL NO RAG:**
+```
+https://dreitte.vercel.app/api/catalogo-texto
+```
+
+**Por quê essa URL?**
+- É um endpoint de API que retorna TEXTO PURO (não HTML)
+- Atualiza automaticamente quando você adicionar produtos novos
+- Muito mais fácil pro RAG ler (formato simples)
 
 ---
 
 ## O QUE VOCÊ FAZ
 
-Cliente pede produto → Você busca no arquivo → Copia link EXATO → Envia
+Cliente pede produto → Você busca no catálogo → Copia link EXATO → Envia
 
 ---
 

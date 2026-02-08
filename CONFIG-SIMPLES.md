@@ -4,9 +4,9 @@
 
 - **Criatividade:** 0.0 (zero)
 - **RAG:** ATIVADO
-- **Arquivo:** Faça UPLOAD de `catalogo-completo.txt`
-  - Vá em: RAG → Upload de arquivos
-  - Selecione: `public/catalogo-completo.txt`
+- **URL:** `https://dreitte.vercel.app/api/catalogo-texto`
+  - Vá em: RAG → Sites/URLs
+  - Adicione essa URL
   - Aguarde indexação (30-60 segundos)
 
 ## 2. Cole o Prompt
@@ -21,18 +21,29 @@ Deve retornar 3 produtos (Heloisa, Rute, Dani).
 
 ---
 
-## Por Que Arquivo em Vez de URL?
+## Por Que URL /api/catalogo-texto?
 
-O RAG do Stevo lê arquivos TXT muito melhor que páginas HTML.
-Arquivo = 100% confiável. URL = pode falhar.
+✅ **Retorna texto puro** (não HTML) → RAG lê 100%  
+✅ **Atualiza automaticamente** quando você adicionar produtos  
+✅ **Tempo real** via seu script de scraping  
+
+Quando você atualizar os JSON → a API já retorna dados novos → Stevo vê
+
+---
+
+## Sistema Completo de Atualização
+
+Veja: [SISTEMA-TEMPO-REAL.md](SISTEMA-TEMPO-REAL.md)
+
+Como integrar scraping + atualização automática.
 
 ---
 
 ## Se Ainda Não Funcionar
 
 1. Confirme criatividade = 0.0
-2. Verifique se arquivo foi indexado (ícone verde)
-3. Teste com produto simples: "jaleco masculino amarelo"
-4. Se retornar link com `dreitte.vercel.app` → RAG não leu o arquivo
+2. Teste a URL no navegador: deve retornar texto puro
+3. Verifique se Stevo indexou a URL (ícone verde)
+4. Force re-indexação manual se necessário
 
 Pronto.
