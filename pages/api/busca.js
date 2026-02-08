@@ -61,23 +61,32 @@ export default function handler(req, res) {
   try {
     // Carrega o catálogo específico
     const catalogo = require(`../../public/${arquivo}.json`);
-    let produtos = catalogo.produtos || [];
+    let produtos = [];
 
-    // Filtra por gênero (case-insensitive)
-    if (genero) {
-      const generoNorm = genero.toLowerCase();
-      produtos = produtos.filter(p => 
-        p.genero && p.genero.toLowerCase() === generoNorm
-      );
-    }
-
-    // Filtra por cor (case-insensitive)
-    if (cor) {
-      const corNorm = cor.toLowerCase();
-      produtos = produtos.filter(p => 
-        p.cor && p.cor.toLowerCase() === corNorm
-      );
-    }
+    // Estrutura: masculino.cadaCor.{cor}: [produtos]
+    const generos = ['masculino', 'feminino', 'unissex'];
+    
+    generos.forEach(gen => {
+      if (!catalogo[gen] || !catalogo[gen].cadaCor) return;
+      
+      // Se filtro de gênero especificado, pula outros gêneros
+      if (genero && genero.toLowerCase() !== gen.toLowerCase()) return;
+      
+      // Itera sobre todas as cores
+      Object.entries(catalogo[gen].cadaCor).forEach(([corNome, produtosPorCor]) => {
+        // Se filtro de cor especificado, pula outras cores
+        if (cor && cor.toLowerCase() !== corNome.toLowerCase()) return;
+        
+        // Adiciona produtos com informações de gênero e cor
+        produtosPorCor.forEach(p => {
+          produtos.push({
+            ...p,
+            genero: gen.charAt(0).toUpperCase() + gen.slice(1),
+            cor: corNome
+          });
+        });
+      });
+    });
 
     // Formata resposta
     const resultado = {

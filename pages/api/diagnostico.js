@@ -35,21 +35,30 @@ export default function handler(req, res) {
     { tipo: 'BANDEJA', data: require('../../public/bandeja.json') }
   ];
 
-  // Conta total de produtos
+  // Conta total de produtos (considerando estrutura por gênero/cor)
   let totalProdutos = 0;
   const resumoPorTipo = {};
   
   catalogos.forEach(cat => {
-    const produtos = cat.data.produtos || [];
-    totalProdutos += produtos.length;
-    resumoPorTipo[cat.tipo] = produtos.length;
+    let count = 0;
+    const data = cat.data;
+    
+    // Estrutura: masculino.cadaCor.{cor}: [produtos]
+    ['masculino', 'feminino', 'unissex'].forEach(genero => {
+      if (data[genero] && data[genero].cadaCor) {
+        Object.values(data[genero].cadaCor).forEach(produtosPorCor => {
+          count += produtosPorCor.length;
+        });
+      }
+    });
+    
+    totalProdutos += count;
+    resumoPorTipo[cat.tipo] = count;
   });
 
   // Busca específica: jaleco masculino amarelo
-  const jalecos = catalogos.find(c => c.tipo === 'JALECO').data.produtos || [];
-  const jalecosMasculinosAmarelos = jalecos.filter(p => 
-    p.genero === 'Masculino' && p.cor === 'Amarelo'
-  );
+  const jalecoData = catalogos.find(c => c.tipo === 'JALECO').data;
+  const jalecosMasculinosAmarelos = jalecoData.masculino?.cadaCor?.Amarelo || [];
 
   const diagnostico = {
     status: 'OK',
