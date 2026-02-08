@@ -58,11 +58,11 @@ Usuário: "scrub feminino azul"
 
 1. SEMPRE chame a ferramenta quando o usuário mencionar produto
 2. SEMPRE preencha os 3 parâmetros (use padrões se necessário)
-3. AGUARDE o resultado antes de responder
+3. Após chamar, apenas confirme o envio
 
 ═══════════════════════════════════════════════════════════
 
-Após chamar a ferramenta, confirme que os dados foram enviados.
+A ferramenta apenas envia os dados extraídos.
 ```
 
 ---
@@ -121,7 +121,7 @@ Mensagem: "scrub feminino azul"
 
 ═══════════════════════════════════════════════════════════
 
-A ferramenta envia os 3 parâmetros extraídos via requisição.
+A ferramenta APENAS envia os 3 parâmetros. Não espera nem processa retorno.
 ```
 
 ---
