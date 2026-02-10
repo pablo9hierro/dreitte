@@ -255,6 +255,99 @@ export default function handler(req, res) {
   <em>Esta página é atualizada automaticamente com o catálogo completo da Jana Dalecos</em>
 </p>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🔍 RASTREAMENTO: Como o Stevo está lendo esta página? -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- Pixel transparente - carrega SEMPRE, mesmo sem JavaScript -->
+<img src="/api/tracking-pixel?source=catalogo-stevo&timestamp=${Date.now()}" 
+     alt="" 
+     style="position:absolute;width:1px;height:1px;opacity:0"
+     data-tracking="pixel-invisivel">
+
+<!-- Marcadores invisíveis em locais estratégicos para mapear leitura -->
+<div id="marcador-inicio" data-posicao="inicio" style="display:none;">MARCADOR_INICIO_PAGINA</div>
+<div id="marcador-apos-tutorial" data-posicao="apos-tutorial" style="display:none;">MARCADOR_APÓS_TUTORIAL</div>
+<div id="marcador-meio-catalogo" data-posicao="meio" style="display:none;">MARCADOR_MEIO_CATÁLOGO</div>
+<div id="marcador-fim" data-posicao="fim" style="display:none;">MARCADOR_FIM_PAGINA</div>
+
+<!-- JavaScript para rastreamento avançado (só executa se Stevo suportar JS) -->
+<script>
+(function() {
+  try {
+    // Dados a coletar
+    const trackingData = {
+      timestamp: new Date().toISOString(),
+      pageLoaded: true,
+      windowSize: {
+        width: window.innerWidth,
+        height: window.innerHeight
+      },
+      elementsFound: {
+        tutorial: document.getElementById('tutorial-stevo') ? true : false,
+        produtos: document.querySelectorAll('.produto').length,
+        links: document.querySelectorAll('.produto-link').length
+      },
+      dom: {
+        totalElements: document.getElementsByTagName('*').length,
+        visibleProducts: 0
+      },
+      userAgent: navigator.userAgent,
+      url: window.location.href,
+      documentReady: document.readyState,
+      jsExecuted: true
+    };
+
+    // Conta produtos visíveis
+    const produtos = document.querySelectorAll('.produto');
+    produtos.forEach(p => {
+      const rect = p.getBoundingClientRect();
+      if (rect.top >= 0 && rect.bottom <= window.innerHeight) {
+        trackingData.dom.visibleProducts++;
+      }
+    });
+
+    // Coleta atributos data-* dos primeiros 5 produtos
+    trackingData.sampleProducts = Array.from(produtos).slice(0, 5).map(p => ({
+      tipo: p.getAttribute('data-tipo'),
+      genero: p.getAttribute('data-genero'),
+      cor: p.getAttribute('data-cor'),
+      hasLink: p.querySelector('.produto-link') ? true : false
+    }));
+
+    // Envia para servidor
+    fetch('/api/log-acesso', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(trackingData)
+    }).catch(err => {
+      console.error('Erro ao enviar log:', err);
+    });
+
+    // Log no console (se Stevo capturar)
+    console.log('🟢 STEVO TRACKING ATIVO');
+    console.log('Produtos encontrados:', trackingData.elementsFound.produtos);
+    console.log('Links encontrados:', trackingData.elementsFound.links);
+    console.log('JavaScript executado com sucesso!');
+
+  } catch (error) {
+    // Tenta enviar erro mesmo se algo falhar
+    fetch('/api/log-acesso', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        timestamp: new Date().toISOString(),
+        error: error.toString(),
+        jsExecuted: false
+      })
+    }).catch(() => {});
+  }
+})();
+</script>
+
+<!-- Teste: conteúdo comentado para ver se Stevo lê comentários HTML -->
+<!-- TESTE_COMENTARIO_HTML: Se você está lendo isto, Stevo, você processa comentários HTML! -->
+
 </body>
 </html>
   `);
