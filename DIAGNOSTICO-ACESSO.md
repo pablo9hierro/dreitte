@@ -1,122 +1,73 @@
-# 🚨 DIAGNÓSTICO: Stevo Não Consegue Acessar
+# ✅ VERSÃO SIMPLES PRONTA PARA TESTE
 
-## PROBLEMA ATUAL
-
-Você testou e o Stevo diz: **"Impossível acessar o catálogo"**
-
-Possíveis causas:
-1. ❌ JavaScript/tracking está quebrando a leitura
-2. ❌ Página muito grande (18KB)
-3. ❌ Stevo tem timeout curto
-4. ❌ Formato HTML não compatível com scraper do Stevo
-
----
-
-## ✅ SOLUÇÃO: VERSÃO ULTRA-SIMPLIFICADA
-
-Criei uma versão **MÍNIMA** do catálogo, sem nada que possa dar problema:
-
-### Nova URL para testar:
+## 🚀 URL PARA TESTAR:
 ```
 https://dreitte.vercel.app/api/catalogo-simples
 ```
 
-**O que tem nesta versão:**
-- ✅ HTML absolutamente básico
-- ✅ SEM JavaScript
-- ✅ SEM tracking
-- ✅ SEM CSS complexo
-- ✅ Apenas 10 produtos
-- ✅ Links VISÍVEIS no texto (não só no href)
-- ✅ Estrutura ultra-simples: título + parágrafo + link
+## O QUE FAZER AGORA:
 
-**Exemplo de produto:**
-```html
-<div class="produto" data-tipo="jaleco" data-genero="masculino" data-cor="amarelo">
-<h3>Jaleco Masculino Samuel Amarelo</h3>
-<p>Tipo: jaleco | Gênero: masculino | Cor: amarelo</p>
-<p>Link: <a href="...">https://www.danajalecos.com.br/shop/...</a></p>
-</div>
-```
+### 1️⃣ No Stevo, TROCAR a URL de "Sites e URLs":
 
----
-
-## 🧪 TESTE AGORA
-
-### 1️⃣ No Stevo, TROCAR a URL:
-
-**DE:**
+**REMOVER:**
 ```
 https://dreitte.vercel.app/api/catalogo-stevo
 ```
 
-**PARA:**
+**ADICIONAR:**
 ```
 https://dreitte.vercel.app/api/catalogo-simples
 ```
 
-### 2️⃣ Testar novamente:
+### 2️⃣ Testar:
 ```
-jaleco masculino amarelo
+Você: jaleco masculino amarelo
 ```
 
-### 3️⃣ Resultados possíveis:
+**Resposta esperada:**
+- Link: https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-amarelo/
+
+### 3️⃣ Observar:
 
 **✅ SE FUNCIONAR:**
-= O problema era o JavaScript/tracking
-= Usar a versão simples
+- O problema ERA o conteúdo complexo da página anterior
+- Usar esta versão simples
 
-**❌ SE CONTINUAR ERRO:**
-= Stevo realmente não está acessando URLs
-= Pode ser problema na configuração "Sites e URLs" do Stevo
-= Ver se precisa formato específico (JSON, XML, etc)
+**❌ SE CONTINUAR ERRO "Impossível acessar":**
+- O problema NÃO é a página
+- É alguma configuração do Stevo ou limitação da plataforma
+- Pode precisar formato diferente (JSON, plain text, etc)
 
 ---
 
-## 📊 DIFERENÇAS ENTRE AS VERSÕES
+## 🔍 DIFERENÇAS:
 
-### catalogo-stevo.js (ORIGINAL - NÃO FUNCIONA)
+### catalogo-stevo.js (NÃO FUNCIONAVA)
 - 18.5 KB
 - JavaScript tracking
-- Pixel tracking
 - Tutorial longo
-- 25 produtos
-- CSS complexo
+- CSS
+- data-attributes complexos
 
-### catalogo-simples.js (NOVA - TESTAR)
-- ~3 KB
+### catalogo-simples.js (TESTAR AGORA)
+- Apenas 1 KB
 - Zero JavaScript
-- Zero tracking
-- Instruções mínimas
-- 10 produtos
-- HTML puro
+- Zero CSS
+- HTML minimalista
+- Links diretos no texto
 
 ---
 
-## 🔍 SE NÃO FUNCIONAR, VERIFICAR:
+## 📱 SE NÃO FUNCIONAR:
 
-1. **No Stevo, configuração "Sites e URLs":**
-   - A URL está correta?
-   - Está com `https://`?
-   - RAG está ON?
+Me mande print do erro EXATO que o Stevo dá:
+- "Não consigo acessar o catálogo"
+- "Página não encontrada"
+- "Timeout"
+- Outro?
 
-2. **Testar direto no navegador:**
-   - Abrir: https://dreitte.vercel.app/api/catalogo-simples
-   - Ver se carrega corretamente
-
-3. **Ver erro exato do Stevo:**
-   - Qual mensagem ele dá?
-   - "Não consigo acessar" ou "Página não encontrada" ou outra?
+Com o erro exato consigo entender o que está acontecendo.
 
 ---
 
-## 🎯 PRÓXIMO PASSO
-
-**TESTE A VERSÃO SIMPLES AGORA:**
-
-1. Trocar URL no Stevo para: `https://dreitte.vercel.app/api/catalogo-simples`
-2. Perguntar: "jaleco masculino amarelo"
-3. Me dizer o que aconteceu
-
-Se funcionar = problema resolvido, usamos versão simples.
-Se não funcionar = Stevo não aceita URLs externas, precisamos outra abordagem.
+**TESTE AGORA E ME FALA O RESULTADO! 🚀**
