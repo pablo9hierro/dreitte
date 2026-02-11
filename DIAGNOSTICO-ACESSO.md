@@ -2,6 +2,11 @@
 
 ## 🚀 URL PARA TESTAR:
 ```
+https://dreitte.vercel.app/catalogo
+```
+
+Ou:
+```
 https://dreitte.vercel.app/api/catalogo-simples
 ```
 
@@ -16,7 +21,7 @@ https://dreitte.vercel.app/api/catalogo-stevo
 
 **ADICIONAR:**
 ```
-https://dreitte.vercel.app/api/catalogo-simples
+https://dreitte.vercel.app/catalogo
 ```
 
 ### 2️⃣ Testar:

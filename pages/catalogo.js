@@ -1,22 +1,64 @@
-// Importar todos os JSONs
-import jalecoData from '../public/jaleco.json';
-import scrubData from '../public/scrub.json';
-import gorroData from '../public/gorro.json';
-import toucaData from '../public/touca.json';
-import aventalData from '../public/avental.json';
-import dolmaData from '../public/dolma.json';
-import robeData from '../public/robe.json';
-import turbante from '../public/turbante.json';
-import vestidoData from '../public/vestido.json';
-import macacaoData from '../public/macacao.json';
-import crachaData from '../public/cracha.json';
-import deskPadData from '../public/desk-pad.json';
-import kitOfficeData from '../public/kit-office.json';
-import mousePadData from '../public/mouse-pad.json';
-import portaCanetasData from '../public/porta-canetas.json';
-import portaCopoData from '../public/porta-copo.json';
-import portaObjetosData from '../public/porta-objetos.json';
-import bandejaData from '../public/bandeja.json';
+// /catalogo - Versão simples para Stevo
+// Renderiza o mesmo conteúdo de /api/catalogo-simples
+
+export default function CatalogoSimples() {
+  return (
+    <>
+      <h1>Catalogo Jana Dalecos</h1>
+      
+      <h2>Jalecos Masculinos</h2>
+      <p>
+        Jaleco Masculino Samuel Amarelo<br/>
+        Link: https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-amarelo/
+      </p>
+      <p>
+        Jaleco Masculino Samuel Azul<br/>
+        Link: https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-azul/
+      </p>
+      <p>
+        Jaleco Masculino Samuel Verde<br/>
+        Link: https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-verde/
+      </p>
+      
+      <h2>Scrubs Masculinos</h2>
+      <p>
+        Scrub Masculino Pedro Azul<br/>
+        Link: https://www.danajalecos.com.br/shop/scrubs/masculinos/pedro/scrub-pedro-azul/
+      </p>
+      <p>
+        Scrub Masculino Pedro Verde<br/>
+        Link: https://www.danajalecos.com.br/shop/scrubs/masculinos/pedro/scrub-pedro-verde/
+      </p>
+      
+      <h2>Jalecos Femininos</h2>
+      <p>
+        Jaleco Feminino Giovana Rosa<br/>
+        Link: https://www.danajalecos.com.br/shop/jalecos/femininos/giovana/jaleco-giovana-rosa/
+      </p>
+      <p>
+        Jaleco Feminino Giovana Azul<br/>
+        Link: https://www.danajalecos.com.br/shop/jalecos/femininos/giovana/jaleco-giovana-azul/
+      </p>
+      
+      <h2>Scrubs Femininos</h2>
+      <p>
+        Scrub Feminino Ana Rosa<br/>
+        Link: https://www.danajalecos.com.br/shop/scrubs/femininos/ana/scrub-ana-rosa/
+      </p>
+      
+      <h2>Gorros Unissex</h2>
+      <p>
+        Gorro Cirurgico Verde<br/>
+        Link: https://www.danajalecos.com.br/shop/gorros/cirurgicos/gorro-verde/
+      </p>
+      <p>
+        Gorro Cirurgico Azul<br/>
+        Link: https://www.danajalecos.com.br/shop/gorros/cirurgicos/gorro-azul/
+      </p>
+    </>
+  );
+}
+
 
 const catalogos = [
   jalecoData,

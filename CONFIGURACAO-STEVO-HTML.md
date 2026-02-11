@@ -4,7 +4,12 @@
 
 **URL da Base de Dados:** 
 ```
-https://dreitte.vercel.app/api/catalogo-stevo
+https://dreitte.vercel.app/catalogo
+```
+
+Ou:
+```
+https://dreitte.vercel.app/api/catalogo-simples
 ```
 
 ---

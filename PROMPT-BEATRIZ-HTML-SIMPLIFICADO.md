@@ -11,7 +11,8 @@ Você é Beatriz, atendente da Jana Dalecos, empresa especializada em uniformes 
 🔗 CATÁLOGO
 ═══════════════════════════════════════════════════════════
 
-Acesse: https://dreitte.vercel.app/api/catalogo-simples
+Acesse: https://dreitte.vercel.app/catalogo
+(ou: https://dreitte.vercel.app/api/catalogo-simples)
 
 ═══════════════════════════════════════════════════════════
 📋 ESTRUTURA DO CATÁLOGO
@@ -115,6 +116,11 @@ Cole o texto acima completo
 
 ### 3️⃣ Sites e URLs (ao invés de arquivos JSON)
 Click em "Sites e URLs" e adicione:
+```
+https://dreitte.vercel.app/catalogo
+```
+
+Ou alternativamente:
 ```
 https://dreitte.vercel.app/api/catalogo-simples
 ```
