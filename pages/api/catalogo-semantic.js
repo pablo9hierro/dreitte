@@ -1,4 +1,4 @@
-export default function handler(req, res) {
+export default function catalogoSemantic(req, res) {
   res.setHeader('Content-Type', 'text/html; charset=utf-8');
   
   const html = [

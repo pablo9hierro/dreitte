@@ -1,4 +1,4 @@
-export default function handler(req, res) {
+export default function catalogoJson(req, res) {
   res.setHeader('Content-Type', 'application/json; charset=utf-8');
   
   const produtos = {
