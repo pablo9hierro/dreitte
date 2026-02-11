@@ -1,7 +1,7 @@
-export default function catalogoJson(req, res) {
+export default function handler(req, res) {
   res.setHeader('Content-Type', 'application/json; charset=utf-8');
   
-  const produtos = {
+  const data = {
     catalogo: {
       loja: "Jana Dalecos",
       website: "https://www.danajalecos.com.br",
@@ -146,5 +146,5 @@ export default function catalogoJson(req, res) {
     }
   };
   
-  res.status(200).json(produtos);
+  res.status(200).json(data);
 }
