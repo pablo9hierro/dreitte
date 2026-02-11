@@ -1,3 +1,4 @@
+// Multi-format API: HTML, JSON, TEXT
 export default function handler(req, res) {
   const { format } = req.query;
   
