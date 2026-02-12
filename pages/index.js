@@ -1,276 +1,125 @@
-import Head from 'next/head';
-import jalecoData from '../public/jaleco.json';
-import aventalData from '../public/avental.json';
-import bandejaData from '../public/bandeja.json';
-import crachaData from '../public/cracha.json';
-import deskPadData from '../public/desk-pad.json';
-import dolmaData from '../public/dolma.json';
-import gorroData from '../public/gorro.json';
-import kitOfficeData from '../public/kit-office.json';
-import macacaoData from '../public/macacao.json';
-import mousePadData from '../public/mouse-pad.json';
-import portaCanetasData from '../public/porta-canetas.json';
-import portaCopoData from '../public/porta-copo.json';
-import portaObjetosData from '../public/porta-objetos.json';
-import robeData from '../public/robe.json';
-import scrubData from '../public/scrub.json';
-import toucaData from '../public/touca.json';
-import turbanteData from '../public/turbante.json';
-import vestidoData from '../public/vestido.json';
-
-const catalogos = [
-  { nome: 'Jaleco', data: jalecoData, emoji: '🥼' },
-  { nome: 'Scrub', data: scrubData, emoji: '👔' },
-  { nome: 'Gorro', data: gorroData, emoji: '👒' },
-  { nome: 'Touca', data: toucaData, emoji: '🧢' },
-  { nome: 'Avental', data: aventalData, emoji: '👘' },
-  { nome: 'Dolma', data: dolmaData, emoji: '👚' },
-  { nome: 'Macacao', data: macacaoData, emoji: '🦺' },
-  { nome: 'Robe', data: robeData, emoji: '🥻' },
-  { nome: 'Vestido', data: vestidoData, emoji: '👗' },
-  { nome: 'Turbante', data: turbanteData, emoji: '🎀' },
-  { nome: 'Cracha', data: crachaData, emoji: '🪪' },
-  { nome: 'Bandeja', data: bandejaData, emoji: '📦' },
-  { nome: 'Desk-pad', data: deskPadData, emoji: '🖥️' },
-  { nome: 'Mouse-pad', data: mousePadData, emoji: '🖱️' },
-  { nome: 'Kit-office', data: kitOfficeData, emoji: '📎' },
-  { nome: 'Porta-canetas', data: portaCanetasData, emoji: '✏️' },
-  { nome: 'Porta-copo', data: portaCopoData, emoji: '☕' },
-  { nome: 'Porta-objetos', data: portaObjetosData, emoji: '🗄️' },
-];
-
 export default function Home() {
-  const calcularTotalProdutos = () => {
-    return catalogos.reduce((total, catalogo) => {
-      return total + (catalogo.data.metadata?.totalProdutos || 0);
-    }, 0);
-  };
-
-  const renderProdutos = (generoData, generoNome, tipoProduto) => {
-    if (!generoData) return null;
-    
-    return (
-      <section style={{ marginBottom: '2.5rem' }}>
-        <h3 style={{ 
-          fontSize: '1.6rem', 
-          color: '#2563eb',
-          borderBottom: '2px solid #2563eb',
-          paddingBottom: '0.4rem',
-          marginBottom: '1rem'
-        }}>
-          {generoNome} - {generoData.totalProdutos} disponíveis
-        </h3>
-        
-        {generoData.todasCores && generoData.todasCores.length > 0 && (
-          <div style={{ marginBottom: '1.5rem', fontSize: '0.9rem', color: '#6b7280' }}>
-            <strong>Cores:</strong> {generoData.todasCores.join(', ')}
-          </div>
-        )}
-
-        {Object.entries(generoData.cadaCor || {}).map(([cor, produtos]) => (
-          <div key={cor} style={{ marginBottom: '1.5rem' }}>
-            <h4 style={{ 
-              fontSize: '1.2rem', 
-              color: '#059669',
-              marginBottom: '0.75rem',
-              borderLeft: '3px solid #059669',
-              paddingLeft: '0.5rem'
-            }}>
-              {cor} ({produtos.length})
-            </h4>
-            
-            {produtos.map((produto, idx) => (
-              <div 
-                key={idx} 
-                style={{ 
-                  backgroundColor: '#f9fafb',
-                  padding: '1rem',
-                  marginBottom: '0.75rem',
-                  borderRadius: '6px',
-                  border: '1px solid #e5e7eb'
-                }}
-              >
-                <h5 style={{ 
-                  fontSize: '1.05rem', 
-                  color: '#111827',
-                  marginBottom: '0.5rem',
-                  fontWeight: 'bold'
-                }}>
-                  {produto.nome}
-                </h5>
-                
-                <div style={{ fontSize: '0.85rem', lineHeight: '1.6', color: '#374151' }}>
-                  <p><strong>SKU:</strong> {produto.sku}</p>
-                  <p><strong>Tipo:</strong> {produto.tipoProduto || tipoProduto}</p>
-                  <p><strong>Gênero:</strong> {produto.genero}</p>
-                  <p><strong>Cor:</strong> {produto.cor}</p>
-                  <p><strong>Link:</strong> <a href={produto.link} target="_blank" rel="noopener" style={{ color: '#2563eb', wordBreak: 'break-all' }}>{produto.link}</a></p>
-                </div>
-              </div>
-            ))}
-          </div>
-        ))}
-      </section>
-    );
-  };
-
-  const renderCatalogo = (catalogo) => {
-    const { nome, data, emoji } = catalogo;
-    const { metadata, masculino, feminino, unissex } = data;
-
-    if (!metadata) return null;
-
-    return (
-      <article 
-        key={nome} 
-        style={{ 
-          marginBottom: '4rem',
-          padding: '2rem',
-          backgroundColor: '#ffffff',
-          borderRadius: '12px',
-          border: '2px solid #e5e7eb',
-          boxShadow: '0 2px 8px rgba(0,0,0,0.05)'
-        }}
-      >
-        <header style={{ 
-          marginBottom: '2rem',
-          paddingBottom: '1rem',
-          borderBottom: '3px solid #f3f4f6'
-        }}>
-          <h2 style={{ 
-            fontSize: '2.2rem', 
-            color: '#1f2937',
-            marginBottom: '0.5rem',
-            display: 'flex',
-            alignItems: 'center',
-            gap: '0.75rem'
-          }}>
-            <span>{emoji}</span>
-            <span>{nome}</span>
-          </h2>
-          
-          <div style={{ 
-            display: 'flex',
-            gap: '1.5rem',
-            flexWrap: 'wrap',
-            fontSize: '0.95rem',
-            color: '#6b7280'
-          }}>
-            <p><strong>Total:</strong> {metadata.totalProdutos} produtos</p>
-            {metadata.generosDisponiveis && (
-              <p><strong>Gêneros:</strong> {metadata.generosDisponiveis.join(', ')}</p>
-            )}
-            {metadata.dataProcessamento && (
-              <p><strong>Atualizado:</strong> {new Date(metadata.dataProcessamento).toLocaleDateString('pt-BR')}</p>
-            )}
-          </div>
-        </header>
-
-        {masculino && renderProdutos(masculino, `${nome} Masculinos`, nome)}
-        {feminino && renderProdutos(feminino, `${nome} Femininos`, nome)}
-        {unissex && renderProdutos(unissex, `${nome} Unissex`, nome)}
-      </article>
-    );
-  };
-
   return (
-    <>
-      <Head>
-        <title>Catálogo Completo Dana Jalecos - Base de Conhecimento IA</title>
-        <meta name="description" content="Catálogo completo com todos os produtos Dana Jalecos para assistente virtual Stevo.chat" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-      </Head>
+    <html lang="pt-BR">
+      <head>
+        <meta charSet="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Catálogo Jana Dalecos - Jalecos, Scrubs e Uniformes Médicos</title>
+        <meta name="description" content="Catálogo completo Jana Dalecos: jalecos masculinos e femininos, scrubs, gorros cirúrgicos e uniformes médicos profissionais." />
+        <style>{`
+          body { font-family: Arial, sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; line-height: 1.6; background: #f5f5f5; }
+          h1 { color: #2c3e50; font-size: 2.5em; border-bottom: 4px solid #3498db; padding-bottom: 15px; margin-bottom: 30px; }
+          h2 { color: #3498db; font-size: 1.8em; margin-top: 40px; border-left: 5px solid #3498db; padding-left: 15px; }
+          .info { background: #e8f4f8; padding: 20px; border-radius: 8px; margin: 25px 0; }
+          .info p { margin: 8px 0; font-size: 1.1em; }
+          .produto { background: white; padding: 20px; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); border-left: 5px solid #3498db; }
+          .produto h3 { margin: 0 0 12px 0; color: #2c3e50; font-size: 1.4em; }
+          .produto .categoria { color: #7f8c8d; font-size: 0.95em; margin: 5px 0; }
+          .produto .preco { color: #27ae60; font-weight: bold; font-size: 1.3em; margin: 10px 0; }
+          .produto a { display: inline-block; margin-top: 12px; padding: 12px 25px; background: #3498db; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; }
+          .produto a:hover { background: #2980b9; }
+          footer { margin-top: 60px; padding-top: 30px; border-top: 3px solid #ddd; text-align: center; color: #7f8c8d; }
+        `}</style>
+      </head>
+      <body>
+        <h1>📦 Catálogo Jana Dalecos</h1>
+        
+        <div className="info">
+          <p><strong>Loja:</strong> Jana Dalecos - Uniformes Médicos</p>
+          <p><strong>Website:</strong> <a href="https://www.danajalecos.com.br">www.danajalecos.com.br</a></p>
+          <p><strong>Total de Produtos:</strong> 11 produtos em destaque</p>
+        </div>
 
-      <main style={{ 
-        maxWidth: '1200px', 
-        margin: '0 auto', 
-        padding: '2rem',
-        fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
-        backgroundColor: '#fafafa'
-      }}>
-        <header style={{ 
-          textAlign: 'center', 
-          marginBottom: '3rem',
-          padding: '3rem 2rem',
-          backgroundColor: '#ffffff',
-          borderRadius: '12px',
-          border: '3px solid #2563eb',
-          boxShadow: '0 4px 12px rgba(37, 99, 235, 0.1)'
-        }}>
-          <h1 style={{ 
-            fontSize: '3rem', 
-            color: '#1f2937',
-            marginBottom: '1rem'
-          }}>
-            🩺 Catálogo Completo Dana Jalecos
-          </h1>
-          <p style={{ 
-            fontSize: '1.3rem', 
-            color: '#6b7280',
-            marginBottom: '1.5rem'
-          }}>
-            Base de Conhecimento RAG para Assistente Virtual
-          </p>
-          
-          <div style={{ 
-            display: 'inline-block',
-            backgroundColor: '#dbeafe',
-            padding: '1.25rem 2.5rem',
-            borderRadius: '10px',
-            marginTop: '1rem',
-            border: '2px solid #2563eb'
-          }}>
-            <p style={{ fontSize: '1.1rem', color: '#1e40af', margin: 0, fontWeight: 'bold' }}>
-              📊 {calcularTotalProdutos()} produtos totais | 🏷️ {catalogos.length} categorias
-            </p>
-          </div>
+        <h2>Jalecos Masculinos</h2>
+        
+        <article className="produto">
+          <h3>Jaleco Masculino Samuel Amarelo</h3>
+          <p className="categoria">Categoria: Jalecos Masculinos</p>
+          <p className="preco">R$ 145,00 no PIX</p>
+          <a href="https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-amarelo/">Ver Produto</a>
+        </article>
 
-          <div style={{ 
-            marginTop: '2rem',
-            display: 'flex',
-            flexWrap: 'wrap',
-            gap: '0.75rem',
-            justifyContent: 'center',
-            fontSize: '0.9rem'
-          }}>
-            {catalogos.map(cat => (
-              <span 
-                key={cat.nome}
-                style={{ 
-                  padding: '0.5rem 1rem',
-                  backgroundColor: '#f3f4f6',
-                  borderRadius: '20px',
-                  border: '1px solid #d1d5db'
-                }}
-              >
-                {cat.emoji} {cat.nome}
-              </span>
-            ))}
-          </div>
-        </header>
+        <article className="produto">
+          <h3>Jaleco Masculino Samuel Azul</h3>
+          <p className="categoria">Categoria: Jalecos Masculinos</p>
+          <p className="preco">R$ 145,00 no PIX</p>
+          <a href="https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-azul/">Ver Produto</a>
+        </article>
 
-        <section style={{ marginBottom: '3rem' }}>
-          {catalogos.map(catalogo => renderCatalogo(catalogo))}
-        </section>
+        <article className="produto">
+          <h3>Jaleco Masculino Samuel Verde</h3>
+          <p className="categoria">Categoria: Jalecos Masculinos</p>
+          <p className="preco">R$ 145,00 no PIX</p>
+          <a href="https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-verde/">Ver Produto</a>
+        </article>
 
-        <footer style={{ 
-          textAlign: 'center', 
-          marginTop: '4rem',
-          padding: '2rem',
-          backgroundColor: '#ffffff',
-          borderRadius: '12px',
-          border: '2px solid #e5e7eb'
-        }}>
-          <p style={{ fontSize: '1.1rem', color: '#374151', marginBottom: '1rem' }}>
-            💡 Esta página serve como base de conhecimento RAG para o assistente virtual <strong>Stevo.chat</strong>
-          </p>
-          <p style={{ marginTop: '0.75rem' }}>
-            <a href="/api/catalogo" style={{ color: '#2563eb', fontWeight: 'bold', fontSize: '1rem' }}>
-              📄 Acessar todos os dados em JSON
-            </a>
-          </p>
+        <article className="produto">
+          <h3>Jaleco Masculino Manoel Azul Marinho</h3>
+          <p className="categoria">Categoria: Jalecos Masculinos</p>
+          <p className="preco">R$ 209,00 no PIX</p>
+          <a href="https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-azul-marinho/">Ver Produto</a>
+        </article>
+
+        <h2>Jalecos Femininos</h2>
+        
+        <article className="produto">
+          <h3>Jaleco Feminino Giovana Rosa</h3>
+          <p className="categoria">Categoria: Jalecos Femininos</p>
+          <p className="preco">R$ 165,00 no PIX</p>
+          <a href="https://www.danajalecos.com.br/shop/jalecos/femininos/giovana/jaleco-giovana-rosa/">Ver Produto</a>
+        </article>
+
+        <article className="produto">
+          <h3>Jaleco Feminino Giovana Azul</h3>
+          <p className="categoria">Categoria: Jalecos Femininos</p>
+          <p className="preco">R$ 165,00 no PIX</p>
+          <a href="https://www.danajalecos.com.br/shop/jalecos/femininos/giovana/jaleco-giovana-azul/">Ver Produto</a>
+        </article>
+
+        <h2>Scrubs</h2>
+        
+        <article className="produto">
+          <h3>Scrub Masculino Pedro Azul</h3>
+          <p className="categoria">Categoria: Scrubs</p>
+          <p className="preco">R$ 177,65 no PIX</p>
+          <a href="https://www.danajalecos.com.br/shop/scrubs/masculinos/pedro/scrub-pedro-azul/">Ver Produto</a>
+        </article>
+
+        <article className="produto">
+          <h3>Scrub Masculino Pedro Verde</h3>
+          <p className="categoria">Categoria: Scrubs</p>
+          <p className="preco">R$ 177,65 no PIX</p>
+          <a href="https://www.danajalecos.com.br/shop/scrubs/masculinos/pedro/scrub-pedro-verde/">Ver Produto</a>
+        </article>
+
+        <article className="produto">
+          <h3>Scrub Feminino Ana Rosa</h3>
+          <p className="categoria">Categoria: Scrubs</p>
+          <p className="preco">R$ 145,35 no PIX</p>
+          <a href="https://www.danajalecos.com.br/shop/scrubs/femininos/ana/scrub-ana-rosa/">Ver Produto</a>
+        </article>
+
+        <h2>Gorros Cirúrgicos</h2>
+        
+        <article className="produto">
+          <h3>Gorro Cirúrgico Verde</h3>
+          <p className="categoria">Categoria: Gorros</p>
+          <p className="preco">R$ 45,00 no PIX</p>
+          <a href="https://www.danajalecos.com.br/shop/gorros/cirurgicos/gorro-verde/">Ver Produto</a>
+        </article>
+
+        <article className="produto">
+          <h3>Gorro Cirúrgico Azul</h3>
+          <p className="categoria">Categoria: Gorros</p>
+          <p className="preco">R$ 45,00 no PIX</p>
+          <a href="https://www.danajalecos.com.br/shop/gorros/cirurgicos/gorro-azul/">Ver Produto</a>
+        </article>
+
+        <footer>
+          <p>Jana Dalecos © 2026 - Uniformes Médicos Profissionais</p>
+          <p>Última atualização: {new Date().toLocaleString('pt-BR')}</p>
         </footer>
-      </main>
-    </>
+      </body>
+    </html>
   );
 }
