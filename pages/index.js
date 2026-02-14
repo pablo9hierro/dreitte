@@ -1,84 +1,75 @@
 export default function Home() {
+  const produtos = [
+    "https://www.danajalecos.com.br/shop/jalecos/masculinos/isac/jaleco-isac-branco/",
+    "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-chumbo/",
+    "https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-branco/",
+    "https://www.danajalecos.com.br/shop/jalecos/masculinos/isac/jaleco-isac-preto/",
+    "https://www.danajalecos.com.br/shop/jalecos/masculinos/isac/jaleco-isac-azul-marinho/",
+    "https://www.danajalecos.com.br/shop/jalecos/masculinos/noah/jaleco-noah-bege/",
+    "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-bordo/",
+    "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-azul-medio/",
+    "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-verde-claro/",
+    "https://www.danajalecos.com.br/shop/jalecos/masculinos/manoel/jaleco-manoel-bege/",
+    "https://www.danajalecos.com.br/shop/jalecos/feminino/manuela/jaleco-feminino-manuela-estampado-fazendinha/",
+    "https://www.danajalecos.com.br/shop/jalecos/femininos-ziper/heloisa/jaleco-heloisa-branco/",
+    "https://www.danajalecos.com.br/shop/jalecos/femininos-ziper/heloisa/jaleco-heloisa-preto/",
+    "https://www.danajalecos.com.br/shop/jalecos/feminino/lia/jaleco-lia-branco/",
+    "https://www.danajalecos.com.br/shop/jalecos/feminino/dani/jaleco-feminino-dani-rosa-nude/",
+    "https://www.danajalecos.com.br/shop/jalecos/feminino/dani/jaleco-dani-azul-bebe/",
+    "https://www.danajalecos.com.br/shop/jalecos/feminino/dani/jaleco-dani-coral/",
+    "https://www.danajalecos.com.br/shop/jalecos/feminino/dani/jaleco-dani-amarelo/",
+    "https://www.danajalecos.com.br/shop/jalecos/feminino/lia/jaleco-lia-preto/",
+    "https://www.danajalecos.com.br/shop/jalecos/feminino/beatriz/jaleco-beatriz-branco/",
+    "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-branco-confy-manga-curta/",
+    "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-preto-confy-manga-curta/",
+    "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-comfy-masculino-scrubs/scrub-masculino-branco-confy-manga-curta/",
+    "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-comfy-masculino-scrubs/scrub-masculino-preto-confy-manga-curta/",
+    "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-azul-claro-confy-manga-curta/",
+    "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-rosa-bebe-confy-manga-curta/",
+    "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-verde-hospitalar-confy-manga-curta/",
+    "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-azul-royal-confy-manga-curta/",
+    "https://www.danajalecos.com.br/shop/scrubs/feminino-scrubs/scrub-comfy/scrub-feminino-verde-agua-confy-manga-curta/",
+    "https://www.danajalecos.com.br/shop/scrubs/masculino-scrubs/scrub-comfy-masculino-scrubs/scrub-masculino-azul-claro-confy-manga-curta/",
+    "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-unissex-a-pet-love/",
+    "https://www.danajalecos.com.br/shop/acessorios/gorros/gorro-unissex-a-cardio-blue/",
+    "https://www.danajalecos.com.br/gorro-amarelo/",
+    "https://www.danajalecos.com.br/gorro-azul-marinho/",
+    "https://www.danajalecos.com.br/gorro-verde/"
+  ];
+
   return (
     <html lang="pt-BR">
       <head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Catálogo Jana Dalecos - 35 Produtos: Jalecos, Scrubs e Uniformes Médicos</title>
-        <meta name="description" content="Catálogo completo Jana Dalecos com 35 produtos: jalecos masculinos e femininos, scrubs, gorros cirúrgicos e uniformes médicos profissionais." />
-        <meta name="keywords" content="jaleco, scrub, gorro cirúrgico, uniforme médico, jaleco masculino, jaleco feminino, dana jalecos" />
+        <title>Catálogo Produtos - Jana Dalecos</title>
         <style>{`
           * { margin: 0; padding: 0; box-sizing: border-box; }
-          body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; line-height: 1.6; background: #f7f8fa; color: #2c3e50; }
-          .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
-          header { background: linear-gradient(135deg, #3498db 0%, #2980b9 100%); color: white; padding: 40px 20px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
-          h1 { font-size: 2.5em; margin-bottom: 10px; font-weight: 700; }
-          .subtitle { font-size: 1.2em; opacity: 0.95; }
-          .info-box { background: white; border-radius: 10px; padding: 25px; margin: 30px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border-left: 5px solid #3498db; }
-          .info-box h2 { color: #3498db; font-size: 1.4em; margin-bottom: 15px; }
-          .info-box p { margin: 8px 0; font-size: 1.05em; }
-          .info-box a { color: #3498db; text-decoration: none; font-weight: 600; }
-          .info-box a:hover { text-decoration: underline; }
-          .category { margin: 50px 0; }
-          .category h2 { color: #2c3e50; font-size: 2em; margin-bottom: 25px; padding-bottom: 12px; border-bottom: 3px solid #3498db; display: flex; align-items: center; gap: 10px; }
-          .products-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 25px; }
-          .product-card { background: white; border-radius: 10px; padding: 25px; box-shadow: 0 2px 10px rgba(0,0,0,0.08); transition: all 0.3s ease; border: 2px solid transparent; }
-          .product-card:hover { transform: translateY(-5px); box-shadow: 0 8px 20px rgba(0,0,0,0.15); border-color: #3498db; }
-          .product-card h3 { color: #2c3e50; font-size: 1.3em; margin-bottom: 12px; line-height: 1.4; }
-          .product-meta { color: #7f8c8d; font-size: 0.9em; margin: 8px 0; }
-          .product-link { display: inline-block; margin-top: 15px; padding: 12px 24px; background: #3498db; color: white; text-decoration: none; border-radius: 6px; font-weight: 600; transition: background 0.3s ease; }
-          .product-link:hover { background: #2980b9; }
-          footer { background: #2c3e50; color: white; text-align: center; padding: 30px 20px; margin-top: 60px; }
-          footer p { margin: 5px 0; }
-          .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 20px 0; }
-          .stat-item { background: #ecf0f1; padding: 15px; border-radius: 8px; text-align: center; }
-          .stat-number { font-size: 2em; font-weight: bold; color: #3498db; }
-          .stat-label { color: #7f8c8d; font-size: 0.9em; }
+          body { font-family: Arial, sans-serif; line-height: 1.6; background: #fff; color: #333; padding: 20px; }
+          h1 { font-size: 24px; margin-bottom: 20px; }
+          .info { margin-bottom: 20px; font-size: 14px; color: #666; }
+          ul { list-style: none; }
+          li { padding: 8px 0; font-size: 13px; border-bottom: 1px solid #eee; }
         `}</style>
       </head>
       <body>
-        <header>
-          <h1>📦 Catálogo Jana Dalecos</h1>
-          <p className="subtitle">Uniformes Médicos Profissionais</p>
-        </header>
+        <h1>Jana Dalecos</h1>
+        <div className="info">
+          <p>Referência em Uniformes Médicos</p>
+          <p>Última Atualização: {new Date().toLocaleDateString('pt-BR')}</p>
+          <p>Total de Produtos: {produtos.length}</p>
+        </div>
 
-        <div className="container">
-          <div className="info-box">
-            <h2>🏪 Informações da Loja</h2>
-            <p><strong>Loja:</strong> Jana Dalecos - Referência em Uniformes Médicos</p>
-            <p><strong>Website:</strong> <a href="https://www.danajalecos.com.br" target="_blank">www.danajalecos.com.br</a></p>
-            <p><strong>Última Atualização:</strong> {new Date().toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' })}</p>
-            
-            <div className="stats">
-              <div className="stat-item">
-                <div className="stat-number">35</div>
-                <div className="stat-label">Produtos em Destaque</div>
-              </div>
-              <div className="stat-item">
-                <div className="stat-number">467</div>
-                <div className="stat-label">Total no Catálogo</div>
-              </div>
-              <div className="stat-item">
-                <div className="stat-number">4</div>
-                <div className="stat-label">Categorias</div>
-              </div>
-            </div>
-          </div>
+        <ul>
+          {produtos.map((url, index) => (
+            <li key={index}>{url}</li>
+          ))}
+        </ul>
+      </body>
+    </html>
+  );
+}
 
-          <section className="category">
-            <h2>👨‍⚕️ Jalecos Masculinos</h2>
-            <div className="products-grid">
-              <article className="product-card">
-                <h3>Jaleco Isac Branco</h3>
-                <p className="product-meta">Categoria: Jalecos Masculinos | Modelo: Isac</p>
-                <a className="product-link" href="https://www.danajalecos.com.br/shop/jalecos/masculinos/isac/jaleco-isac-branco/" target="_blank" rel="noopener">Ver Produto →</a>
-              </article>
-
-              <article className="product-card">
-                <h3>Jaleco Samuel Chumbo</h3>
-                <p className="product-meta">Categoria: Jalecos Masculinos | Modelo: Samuel</p>
-                <a className="product-link" href="https://www.danajalecos.com.br/shop/jalecos/masculinos/samuel/jaleco-samuel-chumbo/" target="_blank" rel="noopener">Ver Produto →</a>
-              </article>
 
               <article className="product-card">
                 <h3>Jaleco Samuel Branco</h3>
