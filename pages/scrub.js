@@ -36,31 +36,16 @@ export default function Scrub() {
               <ul style={{ listStyle: 'none', padding: 0 }}>
                 {produtos.map((produto, idx) => (
                   <li key={idx} style={{ 
-                    marginBottom: '15px',
-                    padding: '15px',
-                    backgroundColor: '#f9fafb',
-                    borderRadius: '8px',
-                    border: '1px solid #e5e7eb'
+                    marginBottom: '10px',
+                    padding: '10px',
+                    backgroundColor: '#f9fafb'
                   }}>
-                    <div style={{ fontWeight: '600', color: '#1f2937', marginBottom: '5px' }}>
+                    <div style={{ color: '#1f2937', marginBottom: '3px' }}>
                       {produto.nomeCompleto || produto.nome}
                     </div>
-                    <div style={{ fontSize: '14px', color: '#6b7280', marginBottom: '8px' }}>
-                      SKU: {produto.sku}
+                    <div style={{ fontSize: '13px', color: '#6b7280' }}>
+                      {produto.link}
                     </div>
-                    <a 
-                      href={produto.link} 
-                      target="_blank" 
-                      rel="noopener noreferrer"
-                      style={{ 
-                        color: '#2563eb', 
-                        textDecoration: 'none',
-                        fontSize: '14px',
-                        wordBreak: 'break-all'
-                      }}
-                    >
-                      🔗 {produto.link}
-                    </a>
                   </li>
                 ))}
               </ul>
